@@ -22,10 +22,15 @@ def process_chunk(idx, chunk):
     text = chunk['text']
     # Craft the prompt to ensure no comments in the JSON response
     prompt = (
-        f"Extract the characters mentioned in the text and reply with a valid JSON list "
-        f"of their names, like [\"Character1\", \"Character2\"]. Ensure that the response "
-        f"is valid JSON and does not include any comments or explanations. Text: {text}"
+        f"Extract the names of characters mentioned in the text and resolve pronouns or relational terms "
+        f"to identify the specific individuals they refer to (e.g., determine who 'he' or 'she' refers to, "
+        f"and whose 'dad' or 'mom' is being mentioned) based on the context. Replace any occurrences of 'I' with 'Narrator' "
+        f"when identifying characters. Reply with a valid JSON list of their names, such as "
+        f"[\"Character1\", \"Character2\"]. Ensure that the response is valid JSON and contains no comments or explanations. "
+        f"Text: {text}"
     )
+
+
 
     retries = 3
     for attempt in range(retries):
