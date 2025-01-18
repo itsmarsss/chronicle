@@ -2,7 +2,7 @@ import pypdf
 import json
 
 text_data = []
-with open('hp.pdf', 'rb') as file:
+with open('story_of_your_life.pdf', 'rb') as file:
     pdf_reader = pypdf.PdfReader(file)
     num_pages = len(pdf_reader.pages)
     for page_num in range(num_pages):
@@ -21,5 +21,5 @@ with open('hp.pdf', 'rb') as file:
 
 print(json.dumps(text_data, indent=4))
 
-with open('transcript.json', 'w') as outfile:
+with open('/temp/transcript.json', 'w') as outfile:
     json.dump(text_data, outfile, indent=4)

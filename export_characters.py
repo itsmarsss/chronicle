@@ -1,5 +1,5 @@
 import json
-from groq import Groq
+from openai import OpenAI
 from dotenv import load_dotenv
 import os
 import time
@@ -7,7 +7,10 @@ import time
 load_dotenv()
 
 cumulative_characters = []
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+client = OpenAI(
+    api_key=os.getenv("API_KEY"),
+    base_url="https://api.deepseek.com"
+)
 
 # Load chunks data
 with open('chunks.json', 'r') as infile:
@@ -23,12 +26,12 @@ for idx, chunk in enumerate(chunks):
         f"is valid JSON and does not include any comments or explanations. Text: {text}"
     )
 
-    retries = 5
+    retries = 3
     for attempt in range(retries):
         try:
             # Send request to Groq API
             completion = client.chat.completions.create(
-                model="llama-3.1-8b-instant",
+                model="deepseek-chat", #llama-3.1-8b-instant
                 messages=[{"role": "user", "content": prompt}],
                 temperature=1,
                 max_completion_tokens=1024,
@@ -49,7 +52,11 @@ for idx, chunk in enumerate(chunks):
                 try:
                     characters = json.loads(json_str)
                     if isinstance(characters, list):
-                        cumulative_characters.extend(characters)
+                        # Add the chunk number and characters to cumulative_characters
+                        cumulative_characters.append({
+                            "chunk_num": idx+1,
+                            "characters": characters
+                        })
                         print(f"Processed chunk {idx + 1}/{len(chunks)}")
                     else:
                         print(f"Invalid response format for chunk {idx + 1}")
@@ -65,27 +72,33 @@ for idx, chunk in enumerate(chunks):
             else:
                 print(f"Failed after {retries} attempts. Moving on to the next chunk.")
 
-# Remove duplicates
-cumulative_characters = list(set(cumulative_characters))
+# Save the cumulative characters data to a JSON file
+with open('/temp/cumulative_characters.json', 'w') as outfile:
+    json.dump(cumulative_characters, outfile, indent=4)
 
-# Fine-tune the character list by removing irrelevant or incomplete characters
+# Collect all unique character names across all chunks
+all_characters = set()
+for chunk in cumulative_characters:
+    all_characters.update(chunk['characters'])
+
+# Fine-tune the character list by standardizing names
 refine_prompt = (
-    "Given the following list of character names, remove any duplicates or irrelevant obviously "
-    "non-character name entries. Additionally, ensure that only the actual character names are included, "
-    "and remove any nicknames, titles, or alternative references (e.g., 'You-Know-Who' should be replaced with 'Voldemort'). "
-    "Ensure that the response is valid JSON and does not include any comments or explanations. "
-    "Reply with a valid JSON list of their names, like [\"Character1\", \"Character2\"]. "
-    "List: " + json.dumps(cumulative_characters)
+    "Given the following list of character names, standardize the names to ensure consistency. "
+    "For example, if 'harry potter' and 'Harry Potter' appear, standardize them to 'Harry Potter'. "
+    "If there are synonymous names (e.g., 'You-Know-Who' and 'Voldemort'), always keep the most descriptive and canonical name (e.g., 'Voldemort'). "
+    "Remove any nicknames, titles, or alternative references that are less descriptive. "
+    "Ensure that the response is **only** a valid JSON list of standardized character names, like [\"Character1\", \"Character2\"]. "
+    "Do **not** include any additional comments, explanations, or metadata in the response. "
+    "List: " + json.dumps(list(all_characters))
 )
 
-
 # Retry logic for refining the character list
-retries = 5
+retries = 3
 for attempt in range(retries):
     try:
         # Send request to Groq API to refine the character list
         refine_completion = client.chat.completions.create(
-            model="llama-3.1-70b-versatile",
+            model="deepseek-chat", # llama-3.1-70b-versatile
             messages=[{"role": "user", "content": refine_prompt}],
             temperature=0.7,
             max_completion_tokens=1024,
@@ -106,8 +119,19 @@ for attempt in range(retries):
             try:
                 refined_characters = json.loads(json_str)
                 if isinstance(refined_characters, list):
-                    cumulative_characters = refined_characters
-                    print("Character list refined successfully.")
+                    # Create a mapping from original names to standardized names
+                    name_mapping = {}
+                    for original_name in all_characters:
+                        for standardized_name in refined_characters:
+                            if original_name.lower() == standardized_name.lower():
+                                name_mapping[original_name] = standardized_name
+                                break
+
+                    # Update each chunk's character list with standardized names
+                    for chunk in cumulative_characters:
+                        chunk['characters'] = [name_mapping.get(name, name) for name in chunk['characters']]
+
+                    print("Character names standardized successfully.")
                 else:
                     print("Invalid response format for refined character list.")
             except json.JSONDecodeError as json_err:
@@ -123,5 +147,5 @@ for attempt in range(retries):
             print(f"Failed after {retries} attempts. Moving on.")
 
 # Save the refined characters to a JSON file
-with open('characters.json', 'w') as outfile:
+with open('/temp/characters.json', 'w') as outfile:
     json.dump(cumulative_characters, outfile, indent=4)

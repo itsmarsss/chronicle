@@ -38,5 +38,5 @@ while start_index < total_words:
     start_index += chunk_size_words - overlap_size_words
 
 # Save chunks to chunks.json
-with open('chunks.json', 'w') as outfile:
+with open('/temp/chunks.json', 'w') as outfile:
     json.dump(chunks, outfile, indent=4)
