@@ -13,7 +13,7 @@ client = OpenAI(
 )
 
 # Load chunks data
-with open('chunks.json', 'r') as infile:
+with open('./temp/chunks.json', 'r') as infile:
     chunks = json.load(infile)
 
 # Process each chunk
@@ -73,7 +73,7 @@ for idx, chunk in enumerate(chunks):
                 print(f"Failed after {retries} attempts. Moving on to the next chunk.")
 
 # Save the cumulative characters data to a JSON file
-with open('/temp/cumulative_characters.json', 'w') as outfile:
+with open('./temp/cumulative_characters.json', 'w') as outfile:
     json.dump(cumulative_characters, outfile, indent=4)
 
 # Collect all unique character names across all chunks
@@ -100,7 +100,7 @@ for attempt in range(retries):
         refine_completion = client.chat.completions.create(
             model="deepseek-chat", # llama-3.1-70b-versatile
             messages=[{"role": "user", "content": refine_prompt}],
-            temperature=0.7,
+            temperature=1,
             max_completion_tokens=1024,
             top_p=1,
             stream=False,
@@ -147,5 +147,5 @@ for attempt in range(retries):
             print(f"Failed after {retries} attempts. Moving on.")
 
 # Save the refined characters to a JSON file
-with open('/temp/characters.json', 'w') as outfile:
+with open('./temp/characters.json', 'w') as outfile:
     json.dump(cumulative_characters, outfile, indent=4)

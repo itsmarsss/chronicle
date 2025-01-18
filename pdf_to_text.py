@@ -21,5 +21,5 @@ with open('story_of_your_life.pdf', 'rb') as file:
 
 print(json.dumps(text_data, indent=4))
 
-with open('/temp/transcript.json', 'w') as outfile:
+with open('./temp/transcript.json', 'w') as outfile:
     json.dump(text_data, outfile, indent=4)
