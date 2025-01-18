@@ -2,7 +2,7 @@ import pypdf
 import json
 
 text_data = []
-with open('Hamlet-1-36.pdf', 'rb') as file:
+with open('hp.pdf', 'rb') as file:
     pdf_reader = pypdf.PdfReader(file)
     num_pages = len(pdf_reader.pages)
     for page_num in range(num_pages):
@@ -11,8 +11,8 @@ with open('Hamlet-1-36.pdf', 'rb') as file:
         if text is None:
             continue
         text_data_entry = {
-            "page_num": page_num,
-            "text": text
+            'page_num': page_num,
+            'text': text
         }
         text_data.append(text_data_entry)
         # print("Page:", page_num + 1)
