@@ -1,10 +1,7 @@
 import json
-import os
 from dotenv import load_dotenv
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
-import numpy as np
-from collections import defaultdict
 
 load_dotenv()
 
