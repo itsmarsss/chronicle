@@ -3,6 +3,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 load_dotenv()
 
@@ -16,8 +17,8 @@ client = OpenAI(
 with open('./temp/chunks.json', 'r') as infile:
     chunks = json.load(infile)
 
-# Process each chunk
-for idx, chunk in enumerate(chunks):
+# Function to process each chunk
+def process_chunk(idx, chunk):
     text = chunk['text']
     # Craft the prompt to ensure no comments in the JSON response
     prompt = (
@@ -31,7 +32,7 @@ for idx, chunk in enumerate(chunks):
         try:
             # Send request to Groq API
             completion = client.chat.completions.create(
-                model="deepseek-chat", #llama-3.1-8b-instant
+                model="deepseek-chat",  # llama-3.1-8b-instant
                 messages=[{"role": "user", "content": prompt}],
                 temperature=1,
                 max_completion_tokens=1024,
@@ -53,11 +54,7 @@ for idx, chunk in enumerate(chunks):
                     characters = json.loads(json_str)
                     if isinstance(characters, list):
                         # Add the chunk number and characters to cumulative_characters
-                        cumulative_characters.append({
-                            "chunk_num": idx+1,
-                            "characters": characters
-                        })
-                        print(f"Processed chunk {idx + 1}/{len(chunks)}")
+                        return {"chunk_num": idx+1, "characters": characters}
                     else:
                         print(f"Invalid response format for chunk {idx + 1}")
                 except json.JSONDecodeError as json_err:
@@ -71,6 +68,16 @@ for idx, chunk in enumerate(chunks):
                 time.sleep(2)  # Wait for 2 seconds before retrying
             else:
                 print(f"Failed after {retries} attempts. Moving on to the next chunk.")
+    return None  # Return None if all attempts fail
+
+# Process chunks in parallel with a maximum of 10 threads
+with ThreadPoolExecutor(max_workers=10) as executor:
+    future_to_chunk = {executor.submit(process_chunk, idx, chunk): idx for idx, chunk in enumerate(chunks)}
+    for future in as_completed(future_to_chunk):
+        result = future.result()
+        if result:
+            cumulative_characters.append(result)
+            print(f"Processed chunk {result['chunk_num']}/{len(chunks)}")
 
 # Save the cumulative characters data to a JSON file
 with open('./temp/cumulative_characters.json', 'w') as outfile:
@@ -98,9 +105,9 @@ for attempt in range(retries):
     try:
         # Send request to Groq API to refine the character list
         refine_completion = client.chat.completions.create(
-            model="deepseek-chat", # llama-3.1-70b-versatile
+            model="deepseek-chat",  # llama-3.1-70b-versatile
             messages=[{"role": "user", "content": refine_prompt}],
-            temperature=1,
+            temperature=0.7,
             max_completion_tokens=1024,
             top_p=1,
             stream=False,

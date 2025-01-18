@@ -1,845 +1,845 @@
 {
     "characters": {
-        "ada1b22b-19c7-42b1-bde7-603d6d024b5d": {
-            "id": "ada1b22b-19c7-42b1-bde7-603d6d024b5d",
+        "4f725f26-6678-4f27-ba58-5c8e20bdf382": {
+            "id": "4f725f26-6678-4f27-ba58-5c8e20bdf382",
             "name": "Gary",
             "contexts": [
-                "41702c8e-6a6a-4b8d-927c-4c1ee55656ca",
-                "2bb58f7a-e5da-48f0-9e85-94a79d087e79",
-                "a3963cf7-f804-49cb-a70f-0272edfdc443",
-                "019eb0ce-d046-4321-b29a-04140df5ce34",
-                "9ff94e6e-4417-48d7-b8d6-2c8c1c44b2a5",
-                "4e26f16b-19a1-4914-b062-d2680c36e7d4",
-                "e77c6afe-47e5-4335-8c7e-231739910650",
-                "79055612-db6f-4872-9e77-865aab66eff2",
-                "7020dc91-1762-4d38-97fb-1e4657d62ee4",
-                "6df95865-0394-456d-a3f8-f7c3d4d6c311",
-                "86143263-a90f-4f0c-85e3-6d4d5ac33b6e",
-                "83f8ec4b-5e11-4eba-bea6-974e6f4bd727",
-                "9aecfdfd-f29a-47a9-9e65-7f1f302c483e",
-                "86656f55-0bb7-4edf-bcae-0a0bc94a7c6b",
-                "ca171915-80a6-41ba-985c-71725b18f90f",
-                "2b74ae97-26d8-4a31-bafe-9cc9af8b3797",
-                "60045f04-ab55-4204-a086-42ad017b2865",
-                "f9cda30c-60b4-43d8-a4eb-a953ca062cf4",
-                "ad6d900c-7699-4e58-85e3-7403899adf63",
-                "508a88ac-3e4f-421b-8968-396234b2d70e",
-                "3f24e244-c618-42b1-af3f-0f4a82d2d215",
-                "404c768d-e927-4977-84df-bccfb7c25af4",
-                "db221fc9-3eef-44c1-bbc3-978c0dc10ed8",
-                "17be8795-7213-4f50-a0f5-7921a9ca8984",
-                "92175e2f-f483-4c59-96d4-c1c19e536232",
-                "5087b69e-de7d-434d-b6b0-08bac25dfc68",
-                "fd8329a3-3751-479a-b826-6fc873c3ecc7",
-                "45195bef-a593-4288-8e55-3dfcc22d8598",
-                "7ecc8fd0-17df-4c79-b69c-dd7d7d5196e3",
-                "c4518354-859d-45bb-bcce-d3c4fe679812",
-                "ac8b14e1-0f83-4c93-909f-ed0817088749",
-                "409c51c9-3a08-41ca-95ee-cac8653cfcd6",
-                "82286ce1-d679-4293-85f6-d96b3f17e574",
-                "119e6328-d348-4c61-955b-163fd1e74607",
-                "7e434856-bef8-4148-9170-eb0608acbab2",
-                "a0707b23-f94d-4336-b02c-abe3a0df8148",
-                "c3d892e8-2817-4e7e-87a9-168d88c1d177",
-                "9ca1391a-d580-4077-96d5-10096fe149ce",
-                "6af3248f-aceb-4c66-b449-2869271b5d0e",
-                "7df22863-6c4e-4214-844a-29d906a6d8b3",
-                "47529c90-e48e-48c8-b4e8-f64900c3efb1",
-                "80fc01ac-c3f5-49c9-ad57-df25887a1188",
-                "d1b25572-7ff5-4a95-a532-a3228c314157",
-                "71eaf12e-9ea9-4ee8-b04a-b5f44f299279",
-                "433ca7b1-6045-40dd-97c7-47e27513f44f",
-                "35fbd59d-38c4-4937-9e2c-a686881b5bba",
-                "a60499af-81bf-4cdd-8372-2acb214b42d1",
-                "f597a9bb-aa73-403f-841a-c8b487cfed7a",
-                "60c6221c-04bb-4d82-8573-7311fb00972e",
-                "9ce28837-5908-45bd-8986-0fb7a6c43643",
-                "840a7cd7-faa6-48f9-90f5-ad44b9d5b6d5"
+                "e7af8207-dc66-4471-8356-c87be4f8db01",
+                "8f9c727e-a75d-4847-b03b-cb4209013bcb",
+                "94d4c2e6-ec29-4e5f-9f20-3548628589fb",
+                "0fa297f4-bc1a-4afb-8874-8593f430bd4d",
+                "119b4ab0-3b85-452a-b1ac-d794f64efced",
+                "1bf1140d-fdae-43f3-964a-f0bd0eb3e0f7",
+                "4b7e856d-857d-4ffc-914a-d8d9379bf3d2",
+                "b435828b-8117-498a-a588-89bfdf13a0ca",
+                "f43665d6-fb32-45f3-ac92-29db3e00cd14",
+                "5c1c532f-a64e-4ef4-b7ef-8b2ff52f4692",
+                "54c04e91-5761-442e-9210-b95c2af4a8e6",
+                "656b52d5-f216-4c4a-9638-c7f7513d48ba",
+                "420fd74b-9d98-4bc8-9594-e96fa6923a6b",
+                "a5066da4-cc43-4e0d-be58-e966e32a28aa",
+                "d515616c-20f8-4c99-b223-588cb869c4af",
+                "e27b8ab7-02ca-4a51-adb3-ec18a76f5f31",
+                "8cd5f0b9-3ff4-4129-a1c9-2ca1e751f015",
+                "ea2cc78f-8ee5-4c77-ab49-034dbaf2cc23",
+                "2be357ea-f18b-40ae-a140-3a99849570c0",
+                "e4874f20-d95b-4e37-ac94-c5f0f894fbfb",
+                "3564d46f-7e1d-4951-abff-8e7d703dd604",
+                "8495a957-887b-4d16-8d94-9d60463d889c",
+                "786c98e6-6edc-49b8-8deb-527685958268",
+                "f95beab0-e2e3-4b56-8433-ee11d80f5b20",
+                "f9f17fc9-982a-4552-87c8-ebe68fc5b7d3",
+                "b2ff3c21-6027-41f2-a758-16053e2ffe44",
+                "55e518a1-8da8-47ab-a02c-7d5b4ad6dfbb",
+                "49ad5b34-b2a2-4eef-bb51-0f85f1fb85fb",
+                "a3bb1e01-16e7-4a88-a5c0-cc6adc898aa4",
+                "706b5079-b9ef-47fb-a113-aa30e60ccc36",
+                "abdc8d13-37d0-4af4-a9bf-ef8b959b832a",
+                "139d75ff-2e78-4030-a05f-3ab90d2b0859",
+                "357e0ffe-508a-4949-b07f-14b65eeaa504",
+                "d95ab694-6746-47c5-8850-7b896c77b754",
+                "4feb5eb1-4bda-4675-bf3e-1de0f706ceca",
+                "313103a4-2eea-4468-b565-c6af0236491b",
+                "95b9ac0a-a7e4-4a0e-ab40-f4468f061889",
+                "67b708a7-4d20-4da5-980c-bab461129d94",
+                "6418e381-a0ca-41ab-adbb-9d78aac94a87",
+                "47549de4-c23f-4f74-8d1b-61da8d0b268f",
+                "4eb01ef3-8021-4c82-a340-21e04fe558ca",
+                "bdf9f12e-91e4-47e4-817b-113df77da051",
+                "eff5b83a-0397-48cf-ad77-f1a6c93465e1",
+                "d044b9b1-4d6d-445a-8848-f48717117015",
+                "c1224351-45de-47bd-af1a-33325bc3e763",
+                "bbc57080-2126-453d-bd57-9cab673ca6e1",
+                "02552d92-ebce-44f5-a90a-af9b823cc471",
+                "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21",
+                "88558e42-70fc-400e-a3f8-d66bcd49e581",
+                "f47be48c-a939-4200-8942-1aab8ca2cdb2",
+                "a153eb55-8483-4c2c-9032-48b8b4a25a91"
             ]
         },
-        "b44fcd3d-e2c9-43de-abad-9792d4cb11d9": {
-            "id": "b44fcd3d-e2c9-43de-abad-9792d4cb11d9",
+        "1aaa80e6-84bb-42ea-8142-52f6ca806b82": {
+            "id": "1aaa80e6-84bb-42ea-8142-52f6ca806b82",
             "name": "I",
             "contexts": [
-                "f6f49d26-42c8-41e1-9d3b-55a7f06c5986",
-                "b609c609-66c4-4b7c-9043-5ada76b003f6",
-                "4a1133df-0e99-46e4-95e1-6a6ea218e036",
-                "78afe3bd-9c2c-47ba-81bb-24877772e68d",
-                "72aefe61-7af7-4bcc-a0bc-3aa0f0a19d1e",
-                "6fead3d0-bfae-4287-861d-653ec71f0977",
-                "5944dfa2-9b61-490e-9c91-b4262458f8ee",
-                "37c211f4-fcc7-4e0f-a8fd-7044dff234d6",
-                "dbd5e95c-0cd3-4c72-932f-9454fe5d481b",
-                "69d20a36-803d-419f-928d-9e9dfd07e4d3",
-                "6fe1d1a1-9ecb-4a57-8bbd-50803aea7c67",
-                "efe64906-767a-49c8-a765-0edae28275f9",
-                "95f713ba-4920-493f-a1af-a51589f5a22b",
-                "6fea916c-54e8-46f8-8b0c-abb310164413",
-                "06ae2462-9f6d-4367-ac27-18d16f2ccb1f",
-                "c3e19b40-cc5b-46a7-9a66-0231973b18cc",
-                "02a48c86-333d-48ef-af96-5128b6548098",
-                "8e6137a4-b953-4c1c-856f-51969b528503",
-                "ade9bd09-0529-4c97-933b-942b8cab8af1",
-                "7d78cd2d-b8c5-471c-ae3c-dd904fb61fd3",
-                "9c4f3570-2324-4bf1-ae3b-7966cdeb7459",
-                "9e8fc9a9-63b6-4dbe-b181-f5f1f1b8addd",
-                "6ecd74b9-307d-4094-808f-cfe2f758c5b2",
-                "ce17df74-f8db-40e6-b6d7-f3c386370fb5",
-                "6cc06412-329d-4994-a5a4-d2d727b684a0",
-                "59717a46-d033-42c8-9922-603607cff0b7",
-                "45195bef-a593-4288-8e55-3dfcc22d8598",
-                "f5bc9dbf-9714-49bb-b2cf-8a9336f26d6d",
-                "0df8dd3d-e5a3-48f8-a0eb-7556e044fdff",
-                "a38439f8-954e-4f13-bd5d-76c3fad2533e",
-                "3e78adc9-2566-4633-ae82-ce18eae3dcd4",
-                "d03d9629-9549-41d3-859d-eee6fe9416a0",
-                "9d898ba7-e838-4041-8f4a-76ed54ca43ef",
-                "e42865ca-a2c7-479a-bcf9-dc6dd9442586",
-                "f1d0339f-8f9a-47e8-8069-81de217842fc",
-                "2ba3da98-58d0-421f-96d0-4725f53d5e63",
-                "398dcaf1-a3b4-40fb-a81b-866b9bb30c30",
-                "1c78dc27-f561-40ed-9713-0472b0e3a41e",
-                "00f645a2-8fb3-422c-9f2a-b23055144531",
-                "7ab7504f-5310-4cac-aef7-889a34c7adc5",
-                "94f1b1e1-5131-418f-b652-c7db4579973a",
-                "35fbd59d-38c4-4937-9e2c-a686881b5bba",
-                "f8a2b7ad-1c9f-463b-9296-f0f29974b516",
-                "ecbfa90f-0750-45d8-a25f-f35703cdecc5",
-                "c48cbb00-f71a-4aca-ad23-ce1bc2912c28"
+                "e1b26386-5fd1-486f-857a-0d96efbea876",
+                "3a84a7d6-00f8-4017-bacf-bceb7ea103ef",
+                "477daca2-66fe-4005-9c41-71492b682a1b",
+                "bbb9f2a2-8021-4b2a-a325-9a5efc30d609",
+                "e9de7227-268f-4a9d-9670-f492045ca77e",
+                "4913ceb2-ce5d-45aa-81fa-a33975f6868c",
+                "5ba5e2ad-a7b6-42ad-9b99-0f7d66bf0a65",
+                "48a6cc66-fb3e-40f1-a00a-64cea61a8c9e",
+                "7ef98b61-3481-4f71-9422-9415d0ad4833",
+                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a",
+                "310b63c0-5dbe-4ab4-8298-844b48d2c39d",
+                "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72",
+                "dda55b95-9e39-46de-9a0f-b4530592e87b",
+                "7af00804-c755-4642-b5d6-be7cc55c9249",
+                "4f373019-1d39-452d-a142-47e7bff44639",
+                "d80b2610-0caa-4734-aa79-8bd92b04cb63",
+                "55c344ff-6432-4e74-a6cb-e28463cac1cf",
+                "fe614cae-b3cc-48ae-b7f7-13ecb3e4b614",
+                "1aec494c-696b-4e92-93e9-68bc173e5bc8",
+                "fa97d2c6-128c-4e92-9a17-cefe8782c82d",
+                "f80b00af-0d72-40a6-9d4d-c36c625b4b00",
+                "b2c959cd-ab4a-4850-8e77-b85b92ceb0a6",
+                "3b0b1823-d6bd-4c93-9b0b-89b9374a8517",
+                "1685ef32-2910-4caf-b333-f1bf35e2b361",
+                "47b14d8f-15ae-4db5-a37a-5e8bcf83a970",
+                "9b0d0b1b-135a-4e23-9c43-96bc550dbf92",
+                "49ad5b34-b2a2-4eef-bb51-0f85f1fb85fb",
+                "344d5a7f-2d6a-4571-8aac-593f7ff23172",
+                "629de05a-4b73-4d9a-8d44-b55a4d4449b3",
+                "6f6f8e6b-66e8-4b60-b67d-1ce33fa1c9f6",
+                "c7a16afc-ad50-49f6-bd07-a5b51618e275",
+                "2e58fb7c-6c4b-4522-97e6-21304452f3f8",
+                "873fd072-0fba-4413-8c28-ff1c2dd86bcc",
+                "ff5dfca5-e6fc-49ce-8608-8beca9112b5d",
+                "5f42627b-6d8c-48f7-80cb-6d05fc3d519f",
+                "73a550da-10d0-434c-ade3-39eb90fd0977",
+                "3d47c000-385a-46e1-a055-fc61167dbdb3",
+                "bd3d09cb-43f9-4ee1-bffc-91e666ff10f7",
+                "f85e8521-677d-4bf8-a14d-00e493b2adea",
+                "f28dd861-86a2-480c-8719-9b661bb5a2b5",
+                "aacf6462-21c0-40b4-b72a-0252b1974c50",
+                "bbc57080-2126-453d-bd57-9cab673ca6e1",
+                "745647a9-2455-4d5b-9eee-b5f479d2af28",
+                "0d71ac8e-93d7-46bb-a8d1-cd36f25502e7",
+                "943411ca-c638-430f-a658-2eff0c996ba7"
             ]
         },
-        "85c758e4-9fe5-48c6-88e3-1c089d09b381": {
-            "id": "85c758e4-9fe5-48c6-88e3-1c089d09b381",
+        "2435b355-1aa2-40b8-80d6-7ce23373416b": {
+            "id": "2435b355-1aa2-40b8-80d6-7ce23373416b",
             "name": "you",
             "contexts": [
-                "4a1133df-0e99-46e4-95e1-6a6ea218e036",
-                "6251ca28-f7ca-40da-b0bf-7a49cecb2678",
-                "69d20a36-803d-419f-928d-9e9dfd07e4d3",
-                "efe64906-767a-49c8-a765-0edae28275f9",
-                "95f713ba-4920-493f-a1af-a51589f5a22b",
-                "c3e19b40-cc5b-46a7-9a66-0231973b18cc",
-                "8e6137a4-b953-4c1c-856f-51969b528503",
-                "488ef451-5e8d-40ac-be80-6706c70dc63f",
-                "490a44bb-1ace-4f1b-82eb-f4d6001b646d",
-                "ade9bd09-0529-4c97-933b-942b8cab8af1",
-                "7d78cd2d-b8c5-471c-ae3c-dd904fb61fd3",
-                "44a0e259-06ec-47c2-8ddd-11a1f77ffee0",
-                "b846eca3-7ef1-430d-b580-9833d5deddf2",
-                "6cc06412-329d-4994-a5a4-d2d727b684a0",
-                "59717a46-d033-42c8-9922-603607cff0b7",
-                "bc759be5-f9fc-4a91-9e68-004b7602eda7",
-                "3e78adc9-2566-4633-ae82-ce18eae3dcd4",
-                "d03d9629-9549-41d3-859d-eee6fe9416a0",
-                "e42865ca-a2c7-479a-bcf9-dc6dd9442586",
-                "f1d0339f-8f9a-47e8-8069-81de217842fc",
-                "2ba3da98-58d0-421f-96d0-4725f53d5e63",
-                "398dcaf1-a3b4-40fb-a81b-866b9bb30c30",
-                "00f645a2-8fb3-422c-9f2a-b23055144531",
-                "ef15cab1-c596-48a3-8916-868adca7badc",
-                "7ab7504f-5310-4cac-aef7-889a34c7adc5",
-                "ecbfa90f-0750-45d8-a25f-f35703cdecc5",
-                "3eb834f4-a178-497a-943d-5eab4bc65ede",
-                "c48cbb00-f71a-4aca-ad23-ce1bc2912c28"
+                "477daca2-66fe-4005-9c41-71492b682a1b",
+                "a92457bd-05a8-4b0b-8603-6243e0defc04",
+                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a",
+                "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72",
+                "dda55b95-9e39-46de-9a0f-b4530592e87b",
+                "d80b2610-0caa-4734-aa79-8bd92b04cb63",
+                "fe614cae-b3cc-48ae-b7f7-13ecb3e4b614",
+                "5108547b-8dea-4972-aecd-9dca6d41529c",
+                "818b869d-84dc-49b0-9dd6-8e07560cf84e",
+                "1aec494c-696b-4e92-93e9-68bc173e5bc8",
+                "fa97d2c6-128c-4e92-9a17-cefe8782c82d",
+                "6616dfcd-310e-4812-b9f0-1c5b03919df3",
+                "b68d982c-44fc-48ba-80ef-f3aa62f1da27",
+                "47b14d8f-15ae-4db5-a37a-5e8bcf83a970",
+                "9b0d0b1b-135a-4e23-9c43-96bc550dbf92",
+                "3f77d588-9cc3-4006-be5f-0eedd5e979ff",
+                "c7a16afc-ad50-49f6-bd07-a5b51618e275",
+                "2e58fb7c-6c4b-4522-97e6-21304452f3f8",
+                "ff5dfca5-e6fc-49ce-8608-8beca9112b5d",
+                "5f42627b-6d8c-48f7-80cb-6d05fc3d519f",
+                "73a550da-10d0-434c-ade3-39eb90fd0977",
+                "3d47c000-385a-46e1-a055-fc61167dbdb3",
+                "f85e8521-677d-4bf8-a14d-00e493b2adea",
+                "59b7942e-57aa-4227-b4a2-923a55961dcc",
+                "f28dd861-86a2-480c-8719-9b661bb5a2b5",
+                "0d71ac8e-93d7-46bb-a8d1-cd36f25502e7",
+                "f4ee8368-7715-43b7-8142-532482ce3799",
+                "943411ca-c638-430f-a658-2eff0c996ba7"
             ]
         },
-        "6244bd24-6002-47f9-aabd-626fc6d4e865": {
-            "id": "6244bd24-6002-47f9-aabd-626fc6d4e865",
+        "0634becf-f476-4f73-b8c1-de15f715f624": {
+            "id": "0634becf-f476-4f73-b8c1-de15f715f624",
             "name": "Colonel Weber",
             "contexts": [
-                "a526d2d0-14de-4c70-9c2f-a48be1b39d00",
-                "6eab530a-bc91-470a-b4f6-74536a5600be",
-                "95a6d106-176c-4313-9c4c-94613f60bd0c",
-                "eda0d259-3eab-4547-a56b-abd8d3d90a27",
-                "64d46107-e3b9-40b0-8b48-45e2394dbdbc",
-                "72aefe61-7af7-4bcc-a0bc-3aa0f0a19d1e",
-                "902d49e9-36e3-4cda-a3d8-129ee9ad713a",
-                "ce68a265-b9dc-4824-926b-8c87eee6c906",
-                "6df95865-0394-456d-a3f8-f7c3d4d6c311",
-                "9fe997ec-eb6a-475a-a3c7-bd439f17754d",
-                "e208f545-4a12-4356-b5fd-0e3f2be75ff3",
-                "71eaf12e-9ea9-4ee8-b04a-b5f44f299279",
-                "433ca7b1-6045-40dd-97c7-47e27513f44f",
-                "f97088b2-ea04-4f5d-9603-7dd60d2b8b2b",
-                "6e9ca5da-85aa-449d-b6ec-64ec8acc62eb",
-                "35fbd59d-38c4-4937-9e2c-a686881b5bba",
-                "8e325360-9a26-4b9c-a290-9322f5464a10",
-                "60c6221c-04bb-4d82-8573-7311fb00972e",
-                "9ce28837-5908-45bd-8986-0fb7a6c43643",
-                "658204cd-5293-4350-8ba8-6e3289fb46cc",
-                "840a7cd7-faa6-48f9-90f5-ad44b9d5b6d5"
+                "276f7889-659a-48d4-83c8-87c7b045bcc8",
+                "073675cb-c98d-4bd3-9ab1-bd127a8a87c7",
+                "0cb6c84a-c380-4556-91e6-8925c284be7a",
+                "7d907222-f3dc-44db-a318-13372019c11e",
+                "9370bea5-719c-4b35-837e-c4d079babfd1",
+                "e9de7227-268f-4a9d-9670-f492045ca77e",
+                "1562897d-a909-49c6-99cb-8d2541a599e3",
+                "3bd6bbad-f8a4-4b6d-b1d3-32c60f986886",
+                "5c1c532f-a64e-4ef4-b7ef-8b2ff52f4692",
+                "3db1e88c-ed4e-4788-88e1-e3a2187d2837",
+                "4b14c154-3130-42fc-ab44-8a37331c3058",
+                "d044b9b1-4d6d-445a-8848-f48717117015",
+                "c1224351-45de-47bd-af1a-33325bc3e763",
+                "5db67c3e-957f-4527-b3b4-97d665f046de",
+                "fd30de42-bd8a-44c5-8abb-48538dbf2b81",
+                "bbc57080-2126-453d-bd57-9cab673ca6e1",
+                "97fed275-141b-48ed-9745-7f5f76bed069",
+                "88558e42-70fc-400e-a3f8-d66bcd49e581",
+                "f47be48c-a939-4200-8942-1aab8ca2cdb2",
+                "e4297f47-079b-431a-991f-cef8c4fa78e2",
+                "a153eb55-8483-4c2c-9032-48b8b4a25a91"
             ]
         },
-        "2ecbf80e-6d84-4e4e-be22-47af4bcb62bb": {
-            "id": "2ecbf80e-6d84-4e4e-be22-47af4bcb62bb",
+        "774ba9b5-6fc3-45d2-98ca-76dd36118cea": {
+            "id": "774ba9b5-6fc3-45d2-98ca-76dd36118cea",
             "name": "Heptapods",
             "contexts": [
-                "a3963cf7-f804-49cb-a70f-0272edfdc443",
-                "4243896c-9862-45d2-b687-3c04e49c1e76",
-                "ac6f5975-a2c8-40e9-8f36-705e22aca606",
-                "95f713ba-4920-493f-a1af-a51589f5a22b",
-                "06ae2462-9f6d-4367-ac27-18d16f2ccb1f",
-                "83e38ade-a64a-40db-b1e1-1761a7c34b4d",
-                "d8b52852-816b-4c10-809a-e18d5a8cc1a9",
-                "9700e89f-ee95-45ed-9667-04fa5cd2506c",
-                "6ec64870-a20b-4872-8392-3c4410fbd60c",
-                "ce17df74-f8db-40e6-b6d7-f3c386370fb5",
-                "7e434856-bef8-4148-9170-eb0608acbab2",
-                "d3d64d87-17fb-487b-a4ee-4aaefb12a141",
-                "d1cf1b18-5a83-477f-82e7-949ee49169ed",
-                "f0d4ca96-ec9b-4390-be14-71a2f684d955",
-                "e94ef37d-14b3-4097-b992-5f9e107918a2",
-                "f4d14da5-03f0-467f-ba5b-55a92192cc6f",
-                "b331f8e7-65df-457c-9da1-04e79987e5b8",
-                "bdb55d28-6568-4e25-914c-d245be5ab98a",
-                "874778b3-8fbf-4e77-af43-afcfababef22",
-                "3eb834f4-a178-497a-943d-5eab4bc65ede"
+                "94d4c2e6-ec29-4e5f-9f20-3548628589fb",
+                "6e201608-5f27-4ed0-95f5-17aaa1c101df",
+                "22eb2d5b-a8b2-4929-b54a-a82aa518ae82",
+                "dda55b95-9e39-46de-9a0f-b4530592e87b",
+                "4f373019-1d39-452d-a142-47e7bff44639",
+                "6690e4b3-5695-4323-b8b0-cd6c1c498bc7",
+                "02d22537-15ba-483a-9fe0-672c6894dbce",
+                "9213b543-7d8d-432d-b9b5-8674689d556b",
+                "090fc909-5755-459f-95cd-85ffcafdfec0",
+                "1685ef32-2910-4caf-b333-f1bf35e2b361",
+                "4feb5eb1-4bda-4675-bf3e-1de0f706ceca",
+                "843087f4-ea5f-4d26-b557-e4030e288ec6",
+                "253b0a8a-ef89-427b-974d-13ef422f34d5",
+                "dde78a57-7acf-4fc8-8a1c-22daa1f6221f",
+                "d348d9b3-806e-4095-aa84-dfcb1e089a69",
+                "e05bbdc7-cc13-499b-9df0-1dc1a8ae0b85",
+                "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af",
+                "ea2dea81-a6ec-4c86-ab91-0c82e6cb1f24",
+                "93719b86-252c-4939-bf0d-2fb900d28694",
+                "f4ee8368-7715-43b7-8142-532482ce3799"
             ]
         },
-        "82f79aaf-0d89-464e-b49d-71617b6928db": {
-            "id": "82f79aaf-0d89-464e-b49d-71617b6928db",
+        "0d7d8d83-c887-4bb9-9c8b-e9163f7c5829": {
+            "id": "0d7d8d83-c887-4bb9-9c8b-e9163f7c5829",
             "name": "Flapper",
             "contexts": [
-                "fdf111e9-6167-46dd-8098-5cd12f5203a2",
-                "86656f55-0bb7-4edf-bcae-0a0bc94a7c6b",
-                "766cc153-8afa-45eb-971c-2515907a8134",
-                "ca171915-80a6-41ba-985c-71725b18f90f",
-                "2b74ae97-26d8-4a31-bafe-9cc9af8b3797",
-                "e34aa49a-c176-4428-b15f-d5cfac280f2f",
-                "d49e52b4-20aa-49ea-909d-5d3ac5161d7a",
-                "da16e9a9-f295-439c-a2f8-4a6259c20c0a",
-                "aafbddaa-ce5a-4514-9859-52045f472e5a",
-                "ce6f20e5-b29d-45b2-869c-7399a777203f",
-                "768a2a3a-ab88-4d95-8651-8ea950556dca",
-                "6f818e0b-d754-4c42-a474-9d8c037da411",
-                "433ca7b1-6045-40dd-97c7-47e27513f44f",
-                "1aae787e-b0d2-4d99-b207-aad512c34c34"
+                "6926313a-3168-441f-a9d0-711991599105",
+                "a5066da4-cc43-4e0d-be58-e966e32a28aa",
+                "6ea8266a-2f3d-4e3c-95d4-b874bd6da71b",
+                "d515616c-20f8-4c99-b223-588cb869c4af",
+                "e27b8ab7-02ca-4a51-adb3-ec18a76f5f31",
+                "3125ea9e-39b8-4de4-9c85-08e886a0cc9e",
+                "5c25358d-8cf8-4ed8-baf1-e8ffaa21dd84",
+                "6f310289-36e7-403e-b314-7be45e95c9e1",
+                "8a9cdfb6-5fb3-406c-a31e-eb2963a750b5",
+                "08a8e6d6-caa0-4428-9882-3b89446e7eec",
+                "485bf68b-650a-4f6b-a169-7c062e107eec",
+                "4f71da4e-c31c-407d-a60a-1b398ac0be78",
+                "c1224351-45de-47bd-af1a-33325bc3e763",
+                "026ddc7c-b498-427e-8349-9c06cacc7dcc"
             ]
         },
-        "f55a35bc-c666-4de5-bb67-1383b3242182": {
-            "id": "f55a35bc-c666-4de5-bb67-1383b3242182",
+        "900b9440-f5bc-47be-bdec-94d7f58d6c09": {
+            "id": "900b9440-f5bc-47be-bdec-94d7f58d6c09",
             "name": "Raspberry",
             "contexts": [
-                "fdf111e9-6167-46dd-8098-5cd12f5203a2",
-                "86656f55-0bb7-4edf-bcae-0a0bc94a7c6b",
-                "2b74ae97-26d8-4a31-bafe-9cc9af8b3797",
-                "d49e52b4-20aa-49ea-909d-5d3ac5161d7a",
-                "da16e9a9-f295-439c-a2f8-4a6259c20c0a",
-                "e575e462-a89e-47b8-826c-1849a157ef36",
-                "aafbddaa-ce5a-4514-9859-52045f472e5a",
-                "ce6f20e5-b29d-45b2-869c-7399a777203f",
-                "433ca7b1-6045-40dd-97c7-47e27513f44f",
-                "1aae787e-b0d2-4d99-b207-aad512c34c34",
-                "93e6865a-3726-4e45-ab73-c7da59c01bcd",
-                "b331f8e7-65df-457c-9da1-04e79987e5b8",
-                "658204cd-5293-4350-8ba8-6e3289fb46cc",
-                "f8a2b7ad-1c9f-463b-9296-f0f29974b516"
+                "6926313a-3168-441f-a9d0-711991599105",
+                "a5066da4-cc43-4e0d-be58-e966e32a28aa",
+                "e27b8ab7-02ca-4a51-adb3-ec18a76f5f31",
+                "5c25358d-8cf8-4ed8-baf1-e8ffaa21dd84",
+                "6f310289-36e7-403e-b314-7be45e95c9e1",
+                "4485579b-8db4-470d-8d0a-23396c156467",
+                "8a9cdfb6-5fb3-406c-a31e-eb2963a750b5",
+                "08a8e6d6-caa0-4428-9882-3b89446e7eec",
+                "c1224351-45de-47bd-af1a-33325bc3e763",
+                "026ddc7c-b498-427e-8349-9c06cacc7dcc",
+                "e6702676-333b-4305-a5cc-a6b06263af5d",
+                "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af",
+                "e4297f47-079b-431a-991f-cef8c4fa78e2",
+                "745647a9-2455-4d5b-9eee-b5f479d2af28"
             ]
         },
-        "27123bf9-7faa-4273-9d27-38f51084e2a1": {
-            "id": "27123bf9-7faa-4273-9d27-38f51084e2a1",
+        "087f3e0b-f175-424b-8777-42d96cce51d7": {
+            "id": "087f3e0b-f175-424b-8777-42d96cce51d7",
             "name": "Heptapod",
             "contexts": [
-                "f45107b6-5ee8-4031-b2be-d0470c09cc38",
-                "9ff94e6e-4417-48d7-b8d6-2c8c1c44b2a5",
-                "4e26f16b-19a1-4914-b062-d2680c36e7d4",
-                "952380cd-01ed-4c3e-9b44-bcd34f132d63",
-                "e77c6afe-47e5-4335-8c7e-231739910650",
-                "c15cc06d-da21-478d-b9f2-92d99eb7c0dc",
-                "3b7abe3c-918b-446c-b36c-ab31c65d1df9",
-                "80d48282-e209-4ff6-9893-600f1a134e5b",
-                "e575e462-a89e-47b8-826c-1849a157ef36",
-                "b82b3d3b-af85-4cf4-bb78-5b5c30159fb0",
-                "3f24e244-c618-42b1-af3f-0f4a82d2d215",
-                "a42cce6e-6850-42fb-a3ce-469b406910fb",
-                "6f818e0b-d754-4c42-a474-9d8c037da411"
+                "c4bfb1cd-b5f4-43e5-8581-906edb439057",
+                "119b4ab0-3b85-452a-b1ac-d794f64efced",
+                "1bf1140d-fdae-43f3-964a-f0bd0eb3e0f7",
+                "945f1b09-10b6-4213-a444-653e0f01e630",
+                "4b7e856d-857d-4ffc-914a-d8d9379bf3d2",
+                "fdc512f3-310f-4186-800e-29b1559e7e42",
+                "42947de5-b1c6-487f-8bdf-9e078f729b1d",
+                "af9ba5b0-d4bf-48f9-90c2-0aacfd4cdff5",
+                "4485579b-8db4-470d-8d0a-23396c156467",
+                "de78179c-d795-41d8-a005-51381d09d89d",
+                "3564d46f-7e1d-4951-abff-8e7d703dd604",
+                "ca0b1c2b-6584-4068-80d5-b1bc781f371e",
+                "4f71da4e-c31c-407d-a60a-1b398ac0be78"
             ]
         },
-        "c3557ba5-6746-4504-a458-88ab29dc5b78": {
-            "id": "c3557ba5-6746-4504-a458-88ab29dc5b78",
+        "bedb7562-f7f0-4046-b485-b4a36af548a7": {
+            "id": "bedb7562-f7f0-4046-b485-b4a36af548a7",
             "name": "Mom",
             "contexts": [
-                "1cae7c81-f2ce-43af-b0c5-6197eb22accb",
-                "08af4d1c-ce79-4981-93dc-734aaf4685e0",
-                "6fe1d1a1-9ecb-4a57-8bbd-50803aea7c67",
-                "efe64906-767a-49c8-a765-0edae28275f9",
-                "6fea916c-54e8-46f8-8b0c-abb310164413",
-                "7d78cd2d-b8c5-471c-ae3c-dd904fb61fd3",
-                "9c4f3570-2324-4bf1-ae3b-7966cdeb7459",
-                "44a0e259-06ec-47c2-8ddd-11a1f77ffee0",
-                "59717a46-d033-42c8-9922-603607cff0b7",
-                "1a74ee0a-3317-4627-9652-ad3ee6851f3d",
-                "82286ce1-d679-4293-85f6-d96b3f17e574",
-                "bc759be5-f9fc-4a91-9e68-004b7602eda7",
-                "3e78adc9-2566-4633-ae82-ce18eae3dcd4"
+                "215c7ad4-add6-4005-9f19-603839d0c2e6",
+                "96bc8a23-e37f-4553-bc08-4025849a97f4",
+                "310b63c0-5dbe-4ab4-8298-844b48d2c39d",
+                "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72",
+                "7af00804-c755-4642-b5d6-be7cc55c9249",
+                "fa97d2c6-128c-4e92-9a17-cefe8782c82d",
+                "f80b00af-0d72-40a6-9d4d-c36c625b4b00",
+                "6616dfcd-310e-4812-b9f0-1c5b03919df3",
+                "9b0d0b1b-135a-4e23-9c43-96bc550dbf92",
+                "5b6d0989-6763-4889-ba51-8dc96f52eb7c",
+                "357e0ffe-508a-4949-b07f-14b65eeaa504",
+                "3f77d588-9cc3-4006-be5f-0eedd5e979ff",
+                "c7a16afc-ad50-49f6-bd07-a5b51618e275"
             ]
         },
-        "2bf706d5-6d1c-4ca3-a930-7bd2b71c383d": {
-            "id": "2bf706d5-6d1c-4ca3-a930-7bd2b71c383d",
+        "250aa822-09c2-44b7-9251-72160a4b2476": {
+            "id": "250aa822-09c2-44b7-9251-72160a4b2476",
             "name": "your father",
             "contexts": [
-                "6fead3d0-bfae-4287-861d-653ec71f0977",
-                "c3e19b40-cc5b-46a7-9a66-0231973b18cc",
-                "488ef451-5e8d-40ac-be80-6706c70dc63f",
-                "490a44bb-1ace-4f1b-82eb-f4d6001b646d",
-                "bc759be5-f9fc-4a91-9e68-004b7602eda7",
-                "e42865ca-a2c7-479a-bcf9-dc6dd9442586",
-                "3eb834f4-a178-497a-943d-5eab4bc65ede",
-                "c48cbb00-f71a-4aca-ad23-ce1bc2912c28"
+                "4913ceb2-ce5d-45aa-81fa-a33975f6868c",
+                "d80b2610-0caa-4734-aa79-8bd92b04cb63",
+                "5108547b-8dea-4972-aecd-9dca6d41529c",
+                "818b869d-84dc-49b0-9dd6-8e07560cf84e",
+                "3f77d588-9cc3-4006-be5f-0eedd5e979ff",
+                "ff5dfca5-e6fc-49ce-8608-8beca9112b5d",
+                "f4ee8368-7715-43b7-8142-532482ce3799",
+                "943411ca-c638-430f-a658-2eff0c996ba7"
             ]
         },
-        "f050a526-af03-4d50-9e00-08b2950e5f9c": {
-            "id": "f050a526-af03-4d50-9e00-08b2950e5f9c",
+        "994c65dd-b16b-4b3a-bdcb-3d6b797d3a6b": {
+            "id": "994c65dd-b16b-4b3a-bdcb-3d6b797d3a6b",
             "name": "Burghart",
             "contexts": [
-                "a0707b23-f94d-4336-b02c-abe3a0df8148",
-                "c3d892e8-2817-4e7e-87a9-168d88c1d177",
-                "d0632ce7-57ad-4331-b3bc-3e6b8a8bb925",
-                "f597a9bb-aa73-403f-841a-c8b487cfed7a",
-                "8e325360-9a26-4b9c-a290-9322f5464a10",
-                "9ce28837-5908-45bd-8986-0fb7a6c43643",
-                "394a5c4a-6096-4e80-b5a3-dbccc4b9bb38",
-                "658204cd-5293-4350-8ba8-6e3289fb46cc"
+                "313103a4-2eea-4468-b565-c6af0236491b",
+                "95b9ac0a-a7e4-4a0e-ab40-f4468f061889",
+                "14dcb2e7-d831-4df3-96ca-583508600c2b",
+                "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21",
+                "97fed275-141b-48ed-9745-7f5f76bed069",
+                "f47be48c-a939-4200-8942-1aab8ca2cdb2",
+                "25e141f1-0a2d-4a1e-a2b9-d4ca3e43130b",
+                "e4297f47-079b-431a-991f-cef8c4fa78e2"
             ]
         },
-        "821a6f87-033c-424d-a918-6a1d09082f91": {
-            "id": "821a6f87-033c-424d-a918-6a1d09082f91",
+        "3993de0c-ba86-4487-913f-f66d49d542c0": {
+            "id": "3993de0c-ba86-4487-913f-f66d49d542c0",
             "name": "Weber",
             "contexts": [
-                "dbd5e95c-0cd3-4c72-932f-9454fe5d481b",
-                "86143263-a90f-4f0c-85e3-6d4d5ac33b6e",
-                "83f8ec4b-5e11-4eba-bea6-974e6f4bd727",
-                "94f1b1e1-5131-418f-b652-c7db4579973a",
-                "a60499af-81bf-4cdd-8372-2acb214b42d1",
-                "03b19e27-4b88-40be-9ce5-bf8fde82ed3a"
+                "7ef98b61-3481-4f71-9422-9415d0ad4833",
+                "54c04e91-5761-442e-9210-b95c2af4a8e6",
+                "656b52d5-f216-4c4a-9638-c7f7513d48ba",
+                "aacf6462-21c0-40b4-b72a-0252b1974c50",
+                "02552d92-ebce-44f5-a90a-af9b823cc471",
+                "1384936b-9bd7-4706-9dc1-05b6bdfbf76d"
             ]
         },
-        "35a5d979-8711-4d21-9039-d34eb9d448e5": {
-            "id": "35a5d979-8711-4d21-9039-d34eb9d448e5",
+        "a2528651-e340-494a-b1b1-03ff1e527bf6": {
+            "id": "a2528651-e340-494a-b1b1-03ff1e527bf6",
             "name": "He",
             "contexts": [
-                "9e8fc9a9-63b6-4dbe-b181-f5f1f1b8addd",
-                "6ecd74b9-307d-4094-808f-cfe2f758c5b2",
-                "850f1439-fba2-4d6d-8b60-3886f93bb465",
-                "500eaecc-3d70-43c1-b2d4-465ee3173dae",
-                "59717a46-d033-42c8-9922-603607cff0b7",
-                "f5bc9dbf-9714-49bb-b2cf-8a9336f26d6d"
+                "b2c959cd-ab4a-4850-8e77-b85b92ceb0a6",
+                "3b0b1823-d6bd-4c93-9b0b-89b9374a8517",
+                "8d450c15-6d15-4fff-948e-3810512ef559",
+                "66cfdff9-d853-4d03-9935-99a107576719",
+                "9b0d0b1b-135a-4e23-9c43-96bc550dbf92",
+                "344d5a7f-2d6a-4571-8aac-593f7ff23172"
             ]
         },
-        "e7aaf4d5-4bce-4383-8769-453b03e4976b": {
-            "id": "e7aaf4d5-4bce-4383-8769-453b03e4976b",
+        "269aa741-d113-4529-9107-8df1e0aac3ab": {
+            "id": "269aa741-d113-4529-9107-8df1e0aac3ab",
             "name": "Nelson",
             "contexts": [
-                "78afe3bd-9c2c-47ba-81bb-24877772e68d",
-                "6fe1d1a1-9ecb-4a57-8bbd-50803aea7c67",
-                "efe64906-767a-49c8-a765-0edae28275f9",
-                "488ef451-5e8d-40ac-be80-6706c70dc63f",
-                "490a44bb-1ace-4f1b-82eb-f4d6001b646d"
+                "bbb9f2a2-8021-4b2a-a325-9a5efc30d609",
+                "310b63c0-5dbe-4ab4-8298-844b48d2c39d",
+                "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72",
+                "5108547b-8dea-4972-aecd-9dca6d41529c",
+                "818b869d-84dc-49b0-9dd6-8e07560cf84e"
             ]
         },
-        "a409b537-ce0e-4b18-b834-31b49bf155cd": {
-            "id": "a409b537-ce0e-4b18-b834-31b49bf155cd",
+        "be1ff4b7-da2c-4d03-a9ca-c1134684f128": {
+            "id": "be1ff4b7-da2c-4d03-a9ca-c1134684f128",
             "name": "Gary Donnelly",
             "contexts": [
-                "6eab530a-bc91-470a-b4f6-74536a5600be",
-                "64d46107-e3b9-40b0-8b48-45e2394dbdbc",
-                "9cf4c473-e697-4b2e-85be-6bc01844d85c",
-                "ce68a265-b9dc-4824-926b-8c87eee6c906",
-                "167b1a39-9308-4394-80b5-0fdbd04b715b"
+                "073675cb-c98d-4bd3-9ab1-bd127a8a87c7",
+                "9370bea5-719c-4b35-837e-c4d079babfd1",
+                "ef795da1-e666-414b-9e09-302efa3d5486",
+                "3bd6bbad-f8a4-4b6d-b1d3-32c60f986886",
+                "99bb7e2e-265f-467e-ae42-75b37e112832"
             ]
         },
-        "5da696ee-ce07-43b6-9f5d-3a997dd7cf60": {
-            "id": "5da696ee-ce07-43b6-9f5d-3a997dd7cf60",
+        "7459c88a-3824-4ae2-9e7d-49006ce19d6a": {
+            "id": "7459c88a-3824-4ae2-9e7d-49006ce19d6a",
             "name": "he",
             "contexts": [
-                "37c211f4-fcc7-4e0f-a8fd-7044dff234d6",
-                "69d20a36-803d-419f-928d-9e9dfd07e4d3",
-                "c3e19b40-cc5b-46a7-9a66-0231973b18cc",
-                "a38439f8-954e-4f13-bd5d-76c3fad2533e",
-                "9d898ba7-e838-4041-8f4a-76ed54ca43ef"
+                "48a6cc66-fb3e-40f1-a00a-64cea61a8c9e",
+                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a",
+                "d80b2610-0caa-4734-aa79-8bd92b04cb63",
+                "6f6f8e6b-66e8-4b60-b67d-1ce33fa1c9f6",
+                "873fd072-0fba-4413-8c28-ff1c2dd86bcc"
             ]
         },
-        "f9408fc7-f53d-4426-ab3d-4c18c1b33845": {
-            "id": "f9408fc7-f53d-4426-ab3d-4c18c1b33845",
+        "c1f6fd45-4bec-4274-bbdb-ba9548acf314": {
+            "id": "c1f6fd45-4bec-4274-bbdb-ba9548acf314",
             "name": "your dad",
             "contexts": [
-                "b609c609-66c4-4b7c-9043-5ada76b003f6",
-                "78afe3bd-9c2c-47ba-81bb-24877772e68d",
-                "6fead3d0-bfae-4287-861d-653ec71f0977",
-                "6cc06412-329d-4994-a5a4-d2d727b684a0"
+                "3a84a7d6-00f8-4017-bacf-bceb7ea103ef",
+                "bbb9f2a2-8021-4b2a-a325-9a5efc30d609",
+                "4913ceb2-ce5d-45aa-81fa-a33975f6868c",
+                "47b14d8f-15ae-4db5-a37a-5e8bcf83a970"
             ]
         },
-        "33288ae6-fd9b-48b3-a1df-967983154be5": {
-            "id": "33288ae6-fd9b-48b3-a1df-967983154be5",
+        "58de3825-56f7-4c74-941f-0ecfa3cfc055": {
+            "id": "58de3825-56f7-4c74-941f-0ecfa3cfc055",
             "name": "Hossner",
             "contexts": [
-                "57a2879f-5e50-4580-b8e3-02993b27b7d0",
-                "119e6328-d348-4c61-955b-163fd1e74607",
-                "a0707b23-f94d-4336-b02c-abe3a0df8148",
-                "c3d892e8-2817-4e7e-87a9-168d88c1d177"
+                "a8ab577e-ee5f-4773-94ae-2c761da51bf8",
+                "d95ab694-6746-47c5-8850-7b896c77b754",
+                "313103a4-2eea-4468-b565-c6af0236491b",
+                "95b9ac0a-a7e4-4a0e-ab40-f4468f061889"
             ]
         },
-        "f78400a9-ef7d-4e44-ab29-5f74098bd049": {
-            "id": "f78400a9-ef7d-4e44-ab29-5f74098bd049",
+        "11ef831f-6014-430c-9b45-f046664641f3": {
+            "id": "11ef831f-6014-430c-9b45-f046664641f3",
             "name": "dad",
             "contexts": [
-                "6251ca28-f7ca-40da-b0bf-7a49cecb2678",
-                "78afe3bd-9c2c-47ba-81bb-24877772e68d",
-                "ce17df74-f8db-40e6-b6d7-f3c386370fb5"
+                "a92457bd-05a8-4b0b-8603-6243e0defc04",
+                "bbb9f2a2-8021-4b2a-a325-9a5efc30d609",
+                "1685ef32-2910-4caf-b333-f1bf35e2b361"
             ]
         },
-        "e52ba739-94f9-458b-82f1-a5fab028a829": {
-            "id": "e52ba739-94f9-458b-82f1-a5fab028a829",
+        "0328d8da-c4d0-414e-b6f0-3c8128931db7": {
+            "id": "0328d8da-c4d0-414e-b6f0-3c8128931db7",
             "name": "what\u2019s-her-name",
             "contexts": [
-                "78afe3bd-9c2c-47ba-81bb-24877772e68d",
-                "488ef451-5e8d-40ac-be80-6706c70dc63f",
-                "490a44bb-1ace-4f1b-82eb-f4d6001b646d"
+                "bbb9f2a2-8021-4b2a-a325-9a5efc30d609",
+                "5108547b-8dea-4972-aecd-9dca6d41529c",
+                "818b869d-84dc-49b0-9dd6-8e07560cf84e"
             ]
         },
-        "4a58919c-aaad-41db-be33-0fa4a7e48f91": {
-            "id": "4a58919c-aaad-41db-be33-0fa4a7e48f91",
+        "20dbc8d4-4dad-408f-b380-be81afa42373": {
+            "id": "20dbc8d4-4dad-408f-b380-be81afa42373",
             "name": "The colonel",
             "contexts": [
-                "9e723336-99be-457e-bc73-5af71f922d7a",
-                "69d20a36-803d-419f-928d-9e9dfd07e4d3",
-                "86143263-a90f-4f0c-85e3-6d4d5ac33b6e"
+                "f8c9e525-6147-4b8c-8112-ac2253b223d0",
+                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a",
+                "54c04e91-5761-442e-9210-b95c2af4a8e6"
             ]
         },
-        "18275f59-ce41-45a2-bba6-59b3278c2002": {
-            "id": "18275f59-ce41-45a2-bba6-59b3278c2002",
+        "dd6be756-1812-432f-8f5a-ee14afbf0cef": {
+            "id": "dd6be756-1812-432f-8f5a-ee14afbf0cef",
             "name": "You",
             "contexts": [
-                "02a48c86-333d-48ef-af96-5128b6548098",
-                "9c4f3570-2324-4bf1-ae3b-7966cdeb7459",
-                "0df8dd3d-e5a3-48f8-a0eb-7556e044fdff"
+                "55c344ff-6432-4e74-a6cb-e28463cac1cf",
+                "f80b00af-0d72-40a6-9d4d-c36c625b4b00",
+                "629de05a-4b73-4d9a-8d44-b55a4d4449b3"
             ]
         },
-        "2c01377c-46d4-42d6-8062-145c77256356": {
-            "id": "2c01377c-46d4-42d6-8062-145c77256356",
+        "01691c23-cf9a-4016-92d5-227c85b834f9": {
+            "id": "01691c23-cf9a-4016-92d5-227c85b834f9",
             "name": "Louise",
             "contexts": [
-                "850f1439-fba2-4d6d-8b60-3886f93bb465",
-                "fb641602-1046-4b25-b0c3-6b8e15880f03",
-                "3e78adc9-2566-4633-ae82-ce18eae3dcd4"
+                "8d450c15-6d15-4fff-948e-3810512ef559",
+                "117238ac-55c3-4267-a954-3f1dfa964704",
+                "c7a16afc-ad50-49f6-bd07-a5b51618e275"
             ]
         },
-        "329cacb5-e2cd-49bd-b853-70bf95e8a668": {
-            "id": "329cacb5-e2cd-49bd-b853-70bf95e8a668",
+        "37418e35-f632-4a24-be6c-c04e76f773ec": {
+            "id": "37418e35-f632-4a24-be6c-c04e76f773ec",
             "name": "Dad",
             "contexts": [
-                "82286ce1-d679-4293-85f6-d96b3f17e574",
-                "167af14d-5653-455a-a68b-a455465e05c7",
-                "bc759be5-f9fc-4a91-9e68-004b7602eda7"
+                "357e0ffe-508a-4949-b07f-14b65eeaa504",
+                "6d122e4b-df15-4227-995f-6e5ecdd6ecff",
+                "3f77d588-9cc3-4006-be5f-0eedd5e979ff"
             ]
         },
-        "817939da-2a3c-4491-866f-3dc5c071740e": {
-            "id": "817939da-2a3c-4491-866f-3dc5c071740e",
+        "6d2b797d-69bd-426c-8604-663d086e2a3a": {
+            "id": "6d2b797d-69bd-426c-8604-663d086e2a3a",
             "name": "Humans",
             "contexts": [
-                "d3d64d87-17fb-487b-a4ee-4aaefb12a141",
-                "d1cf1b18-5a83-477f-82e7-949ee49169ed",
-                "b331f8e7-65df-457c-9da1-04e79987e5b8"
+                "843087f4-ea5f-4d26-b557-e4030e288ec6",
+                "253b0a8a-ef89-427b-974d-13ef422f34d5",
+                "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af"
             ]
         },
-        "9384b1fc-63c7-4845-9e53-ad48fe45b732": {
-            "id": "9384b1fc-63c7-4845-9e53-ad48fe45b732",
+        "8fcb6053-9ac5-4825-b470-152178517d0e": {
+            "id": "8fcb6053-9ac5-4825-b470-152178517d0e",
             "name": "Your father",
             "contexts": [
-                "f6f49d26-42c8-41e1-9d3b-55a7f06c5986",
-                "03b19e27-4b88-40be-9ce5-bf8fde82ed3a"
+                "e1b26386-5fd1-486f-857a-0d96efbea876",
+                "1384936b-9bd7-4706-9dc1-05b6bdfbf76d"
             ]
         },
-        "fd87f00c-43d2-4ff6-8845-17efd4fa430f": {
-            "id": "fd87f00c-43d2-4ff6-8845-17efd4fa430f",
+        "e2926679-6a1a-47e2-8c92-4a08d08a5e78": {
+            "id": "e2926679-6a1a-47e2-8c92-4a08d08a5e78",
             "name": "Mother",
             "contexts": [
-                "6251ca28-f7ca-40da-b0bf-7a49cecb2678",
-                "16ef7b0b-b4bc-40ea-b5e0-9d1826c598f2"
+                "a92457bd-05a8-4b0b-8603-6243e0defc04",
+                "66c9b93f-77d5-4dd6-9b0b-a3f73d75a7c5"
             ]
         },
-        "fda9ea07-821b-4f15-a8dc-04aa093e785e": {
-            "id": "fda9ea07-821b-4f15-a8dc-04aa093e785e",
+        "3b6ed47a-2f09-48ee-adc7-227497831651": {
+            "id": "3b6ed47a-2f09-48ee-adc7-227497831651",
             "name": "Louise Banks",
             "contexts": [
-                "a526d2d0-14de-4c70-9c2f-a48be1b39d00",
-                "6eab530a-bc91-470a-b4f6-74536a5600be"
+                "276f7889-659a-48d4-83c8-87c7b045bcc8",
+                "073675cb-c98d-4bd3-9ab1-bd127a8a87c7"
             ]
         },
-        "29481e48-7743-4919-8dd5-7d14fd32052c": {
-            "id": "29481e48-7743-4919-8dd5-7d14fd32052c",
+        "48f48c15-28cd-4cf7-af2c-a0b127662f9c": {
+            "id": "48f48c15-28cd-4cf7-af2c-a0b127662f9c",
             "name": "She",
             "contexts": [
-                "5944dfa2-9b61-490e-9c91-b4262458f8ee",
-                "45195bef-a593-4288-8e55-3dfcc22d8598"
+                "5ba5e2ad-a7b6-42ad-9b99-0f7d66bf0a65",
+                "49ad5b34-b2a2-4eef-bb51-0f85f1fb85fb"
             ]
         },
-        "204bcc15-f46b-4d85-b02a-d4a9c07dbd81": {
-            "id": "204bcc15-f46b-4d85-b02a-d4a9c07dbd81",
+        "940c401d-c6b0-48fe-97b0-7316490e6510": {
+            "id": "940c401d-c6b0-48fe-97b0-7316490e6510",
             "name": "Human",
             "contexts": [
-                "4e26f16b-19a1-4914-b062-d2680c36e7d4",
-                "3b7abe3c-918b-446c-b36c-ab31c65d1df9"
+                "1bf1140d-fdae-43f3-964a-f0bd0eb3e0f7",
+                "42947de5-b1c6-487f-8bdf-9e078f729b1d"
             ]
         },
-        "7d80ba2e-5366-4818-9af2-a4315aeb5046": {
-            "id": "7d80ba2e-5366-4818-9af2-a4315aeb5046",
+        "fbe63c35-5244-4294-8e80-60df6d811243": {
+            "id": "fbe63c35-5244-4294-8e80-60df6d811243",
             "name": "Aborigine",
             "contexts": [
-                "11c5616b-5313-4d56-9e7b-6d66f379393f",
-                "049f78b8-1278-4677-ac2a-b30efa250b5b"
+                "a37f8971-2c66-4a50-844b-5b05bc4d4931",
+                "fd822633-91f4-4d74-aa08-8d1305a70ea4"
             ]
         },
-        "25de97e2-af15-4a9a-9e12-5c41d56def9e": {
-            "id": "25de97e2-af15-4a9a-9e12-5c41d56def9e",
+        "524d67e1-4a1f-47db-8f27-4ef7db7be7f1": {
+            "id": "524d67e1-4a1f-47db-8f27-4ef7db7be7f1",
             "name": "Roxie",
             "contexts": [
-                "08af4d1c-ce79-4981-93dc-734aaf4685e0",
-                "6fe1d1a1-9ecb-4a57-8bbd-50803aea7c67"
+                "96bc8a23-e37f-4553-bc08-4025849a97f4",
+                "310b63c0-5dbe-4ab4-8298-844b48d2c39d"
             ]
         },
-        "c783e51d-2dbd-446a-a0b4-f2dd1ce9e8dc": {
-            "id": "c783e51d-2dbd-446a-a0b4-f2dd1ce9e8dc",
+        "617a87f3-4cda-4aef-92c3-e0253166e441": {
+            "id": "617a87f3-4cda-4aef-92c3-e0253166e441",
             "name": "Heptapod B",
             "contexts": [
-                "cab8a86c-d339-435b-83d2-80170ad26336",
-                "71eaf12e-9ea9-4ee8-b04a-b5f44f299279"
+                "e505fc6e-c545-42da-9f2f-b19592fbae91",
+                "d044b9b1-4d6d-445a-8848-f48717117015"
             ]
         },
-        "c9f3ca76-3846-4675-9021-b564c6ac4e28": {
-            "id": "c9f3ca76-3846-4675-9021-b564c6ac4e28",
+        "83f77afb-ae85-4965-ab33-37faab48b0a3": {
+            "id": "83f77afb-ae85-4965-ab33-37faab48b0a3",
             "name": "her",
             "contexts": [
-                "c8f598f1-e3d4-41a6-8d04-ceb55bbb4dbf",
-                "d23f072b-96ec-4511-9e84-8250cc7426f5"
+                "68c338d8-d605-4d82-8fba-cd37af339c32",
+                "09e06d6b-aa72-4953-9d94-ec4d74c3e4eb"
             ]
         },
-        "4269a96e-72d2-473b-8949-062f46c790f5": {
-            "id": "4269a96e-72d2-473b-8949-062f46c790f5",
+        "210d63d5-0828-4d53-9135-89333e841219": {
+            "id": "210d63d5-0828-4d53-9135-89333e841219",
             "name": "Colonel",
             "contexts": [
-                "971ef276-bf86-4ba3-a688-c8ce84868b28",
-                "03b19e27-4b88-40be-9ce5-bf8fde82ed3a"
+                "10bbb36e-8b05-4d6f-86ce-10121021f634",
+                "1384936b-9bd7-4706-9dc1-05b6bdfbf76d"
             ]
         },
-        "b1e840f3-e3d5-4f8f-89ea-e4d3eca77a00": {
-            "id": "b1e840f3-e3d5-4f8f-89ea-e4d3eca77a00",
+        "2339d393-3692-4511-8183-0a51df204cff": {
+            "id": "2339d393-3692-4511-8183-0a51df204cff",
             "name": "Your dad",
             "contexts": [
-                "f6f49d26-42c8-41e1-9d3b-55a7f06c5986"
+                "e1b26386-5fd1-486f-857a-0d96efbea876"
             ]
         },
-        "c31ab348-4f76-4cfa-939e-f9e296da64e6": {
-            "id": "c31ab348-4f76-4cfa-939e-f9e296da64e6",
+        "8a14d04d-9afc-4e6d-b160-e4631679bf22": {
+            "id": "8a14d04d-9afc-4e6d-b160-e4631679bf22",
             "name": "An orderly",
             "contexts": [
-                "6fead3d0-bfae-4287-861d-653ec71f0977"
+                "4913ceb2-ce5d-45aa-81fa-a33975f6868c"
             ]
         },
-        "4ba8d7af-332b-432a-875b-17e0e0e126e2": {
-            "id": "4ba8d7af-332b-432a-875b-17e0e0e126e2",
+        "7464891d-c568-4467-952c-29a7b9dd8bd0": {
+            "id": "7464891d-c568-4467-952c-29a7b9dd8bd0",
             "name": "MP",
             "contexts": [
-                "5944dfa2-9b61-490e-9c91-b4262458f8ee"
+                "5ba5e2ad-a7b6-42ad-9b99-0f7d66bf0a65"
             ]
         },
-        "4ba11ab5-6bde-4f59-805d-9535cd07cd67": {
-            "id": "4ba11ab5-6bde-4f59-805d-9535cd07cd67",
+        "e26ac666-c757-4f04-886c-1f49b6c445d6": {
+            "id": "e26ac666-c757-4f04-886c-1f49b6c445d6",
             "name": "Aliens",
             "contexts": [
-                "222c0236-904d-41c7-809e-683b5db65110"
+                "158fe327-cb99-4e47-b4f0-fea461cdf999"
             ]
         },
-        "5a9565a8-0fe8-40ca-a677-d840af4b0542": {
-            "id": "5a9565a8-0fe8-40ca-a677-d840af4b0542",
+        "dc2daf52-cf97-407b-9f7c-8f3c8e729505": {
+            "id": "dc2daf52-cf97-407b-9f7c-8f3c8e729505",
             "name": "Amazon",
             "contexts": [
-                "f45107b6-5ee8-4031-b2be-d0470c09cc38"
+                "c4bfb1cd-b5f4-43e5-8581-906edb439057"
             ]
         },
-        "a73990df-cbfc-45d6-be42-568f7692aae4": {
-            "id": "a73990df-cbfc-45d6-be42-568f7692aae4",
+        "8d5a4de6-bf53-4c50-b5ee-f7acd374ec03": {
+            "id": "8d5a4de6-bf53-4c50-b5ee-f7acd374ec03",
             "name": "Captain Cook",
             "contexts": [
-                "11c5616b-5313-4d56-9e7b-6d66f379393f"
+                "a37f8971-2c66-4a50-844b-5b05bc4d4931"
             ]
         },
-        "1dc6a2a2-aa21-4a6d-9445-7bb631ef9bb6": {
-            "id": "1dc6a2a2-aa21-4a6d-9445-7bb631ef9bb6",
+        "3afc9807-bbce-4695-85c4-17674aa48450": {
+            "id": "3afc9807-bbce-4695-85c4-17674aa48450",
             "name": "Sailors",
             "contexts": [
-                "11c5616b-5313-4d56-9e7b-6d66f379393f"
+                "a37f8971-2c66-4a50-844b-5b05bc4d4931"
             ]
         },
-        "8659afac-0a26-4eac-a76f-36a684a1533e": {
-            "id": "8659afac-0a26-4eac-a76f-36a684a1533e",
+        "3982b77f-5e27-4768-b900-93f0982ba4ef": {
+            "id": "3982b77f-5e27-4768-b900-93f0982ba4ef",
             "name": "Cook",
             "contexts": [
-                "049f78b8-1278-4677-ac2a-b30efa250b5b"
+                "fd822633-91f4-4d74-aa08-8d1305a70ea4"
             ]
         },
-        "c5cb6e55-2ea8-4bed-8f26-696025ebb138": {
-            "id": "c5cb6e55-2ea8-4bed-8f26-696025ebb138",
+        "66908285-09b4-4633-bc57-21170e71d5c5": {
+            "id": "66908285-09b4-4633-bc57-21170e71d5c5",
             "name": "Sharon",
             "contexts": [
-                "7020dc91-1762-4d38-97fb-1e4657d62ee4"
+                "f43665d6-fb32-45f3-ac92-29db3e00cd14"
             ]
         },
-        "9c8b2226-2bc3-4794-82fe-3900d7169a20": {
-            "id": "9c8b2226-2bc3-4794-82fe-3900d7169a20",
+        "6c9d4df1-9410-429b-a0ae-2532c3dd35f7": {
+            "id": "6c9d4df1-9410-429b-a0ae-2532c3dd35f7",
             "name": "they",
             "contexts": [
-                "69d20a36-803d-419f-928d-9e9dfd07e4d3"
+                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a"
             ]
         },
-        "60334c5f-960b-4cb7-86b3-3cdd194ced16": {
-            "id": "60334c5f-960b-4cb7-86b3-3cdd194ced16",
+        "cf281a22-3969-4bb9-a14f-de563d3d9b4b": {
+            "id": "cf281a22-3969-4bb9-a14f-de563d3d9b4b",
             "name": "we",
             "contexts": [
-                "69d20a36-803d-419f-928d-9e9dfd07e4d3"
+                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a"
             ]
         },
-        "9178be48-64f4-47c3-84f2-9c0b6baf3e66": {
-            "id": "9178be48-64f4-47c3-84f2-9c0b6baf3e66",
+        "16f65c7f-e0f3-4199-9c47-1691a76f55ca": {
+            "id": "16f65c7f-e0f3-4199-9c47-1691a76f55ca",
             "name": "me",
             "contexts": [
-                "490a44bb-1ace-4f1b-82eb-f4d6001b646d"
+                "818b869d-84dc-49b0-9dd6-8e07560cf84e"
             ]
         },
-        "3994744b-273a-48ce-bdf5-8b7435193eae": {
-            "id": "3994744b-273a-48ce-bdf5-8b7435193eae",
+        "5c538d3b-1429-4191-a5f7-362e34b1c657": {
+            "id": "5c538d3b-1429-4191-a5f7-362e34b1c657",
             "name": "My own mother",
             "contexts": [
-                "ade9bd09-0529-4c97-933b-942b8cab8af1"
+                "1aec494c-696b-4e92-93e9-68bc173e5bc8"
             ]
         },
-        "1356e264-4794-4bb6-bf1a-5af0bdaa9277": {
-            "id": "1356e264-4794-4bb6-bf1a-5af0bdaa9277",
+        "fc5079d3-7eba-4835-b13c-e8a6d714edd4": {
+            "id": "fc5079d3-7eba-4835-b13c-e8a6d714edd4",
             "name": "Physicists",
             "contexts": [
-                "d8b52852-816b-4c10-809a-e18d5a8cc1a9"
+                "02d22537-15ba-483a-9fe0-672c6894dbce"
             ]
         },
-        "70f0a59b-1c36-48d4-ba40-3f61b2995508": {
-            "id": "70f0a59b-1c36-48d4-ba40-3f61b2995508",
+        "9188d981-b6b0-48ef-bd08-c984568da091": {
+            "id": "9188d981-b6b0-48ef-bd08-c984568da091",
             "name": "Linguists",
             "contexts": [
-                "d8b52852-816b-4c10-809a-e18d5a8cc1a9"
+                "02d22537-15ba-483a-9fe0-672c6894dbce"
             ]
         },
-        "be5ce654-7f18-4308-8679-fecdfd2fe014": {
-            "id": "be5ce654-7f18-4308-8679-fecdfd2fe014",
+        "6ed22720-f6e3-4378-b937-0df875a1a61f": {
+            "id": "6ed22720-f6e3-4378-b937-0df875a1a61f",
             "name": "Scientists",
             "contexts": [
-                "7d78cd2d-b8c5-471c-ae3c-dd904fb61fd3"
+                "fa97d2c6-128c-4e92-9a17-cefe8782c82d"
             ]
         },
-        "8c32c85e-867f-41e7-a3b6-f572dd29c5af": {
-            "id": "8c32c85e-867f-41e7-a3b6-f572dd29c5af",
+        "76f1faff-ab9e-4ef8-be49-502bc319d311": {
+            "id": "76f1faff-ab9e-4ef8-be49-502bc319d311",
             "name": "Tourists",
             "contexts": [
-                "7d78cd2d-b8c5-471c-ae3c-dd904fb61fd3"
+                "fa97d2c6-128c-4e92-9a17-cefe8782c82d"
             ]
         },
-        "aea49a13-8d1c-4e58-8079-77401af44edd": {
-            "id": "aea49a13-8d1c-4e58-8079-77401af44edd",
+        "5e4b95c5-0aba-4157-baec-c611020cdae7": {
+            "id": "5e4b95c5-0aba-4157-baec-c611020cdae7",
             "name": "Moorehead",
             "contexts": [
-                "6ec64870-a20b-4872-8392-3c4410fbd60c"
+                "090fc909-5755-459f-95cd-85ffcafdfec0"
             ]
         },
-        "5023ccb1-4a63-4dae-8f13-5b25b2889bc6": {
-            "id": "5023ccb1-4a63-4dae-8f13-5b25b2889bc6",
+        "42ca1500-9682-4210-a742-a1516d60c6d8": {
+            "id": "42ca1500-9682-4210-a742-a1516d60c6d8",
             "name": "Fermat",
             "contexts": [
-                "cf4515ce-b939-4e73-842a-147858e742fe"
+                "0ddbccce-2b6a-43b0-a530-2ff9b50e7e93"
             ]
         },
-        "1275b4bd-5fd8-430b-8c85-db16d8851e53": {
-            "id": "1275b4bd-5fd8-430b-8c85-db16d8851e53",
+        "51984ffb-8539-4bbf-9e04-a8fde216b1b9": {
+            "id": "51984ffb-8539-4bbf-9e04-a8fde216b1b9",
             "name": "Puppy",
             "contexts": [
-                "b846eca3-7ef1-430d-b580-9833d5deddf2"
+                "b68d982c-44fc-48ba-80ef-f3aa62f1da27"
             ]
         },
-        "e0a52079-8b1d-4fe5-a43f-4aadf8dbfbf2": {
-            "id": "e0a52079-8b1d-4fe5-a43f-4aadf8dbfbf2",
+        "a231ffa4-b562-49cf-9618-7f7e2df317ce": {
+            "id": "a231ffa4-b562-49cf-9618-7f7e2df317ce",
             "name": "Your",
             "contexts": [
-                "ce17df74-f8db-40e6-b6d7-f3c386370fb5"
+                "1685ef32-2910-4caf-b333-f1bf35e2b361"
             ]
         },
-        "0391c798-1ef9-4af4-a1a1-71d757ba4385": {
-            "id": "0391c798-1ef9-4af4-a1a1-71d757ba4385",
+        "9e82a3f0-2d96-4803-bebb-a97bdc7adc98": {
+            "id": "9e82a3f0-2d96-4803-bebb-a97bdc7adc98",
             "name": "mine",
             "contexts": [
-                "ce17df74-f8db-40e6-b6d7-f3c386370fb5"
+                "1685ef32-2910-4caf-b333-f1bf35e2b361"
             ]
         },
-        "d131a5d9-ade0-4b1c-9d58-c70441074316": {
-            "id": "d131a5d9-ade0-4b1c-9d58-c70441074316",
+        "44076c14-8e54-4c94-af77-18beda9090ca": {
+            "id": "44076c14-8e54-4c94-af77-18beda9090ca",
             "name": "Boys",
             "contexts": [
-                "ce17df74-f8db-40e6-b6d7-f3c386370fb5"
+                "1685ef32-2910-4caf-b333-f1bf35e2b361"
             ]
         },
-        "b7e02d63-5791-47db-8719-8b9bf2004b50": {
-            "id": "b7e02d63-5791-47db-8719-8b9bf2004b50",
+        "9acade0b-3545-4c62-bff6-d65f2c60ea66": {
+            "id": "9acade0b-3545-4c62-bff6-d65f2c60ea66",
             "name": "Cisneros",
             "contexts": [
-                "1a74ee0a-3317-4627-9652-ad3ee6851f3d"
+                "5b6d0989-6763-4889-ba51-8dc96f52eb7c"
             ]
         },
-        "81837d21-6556-457b-be4d-b80ea6b9bfbe": {
-            "id": "81837d21-6556-457b-be4d-b80ea6b9bfbe",
+        "39144003-35a7-4e99-9ece-5c6152e13c67": {
+            "id": "39144003-35a7-4e99-9ece-5c6152e13c67",
             "name": "Comedienne",
             "contexts": [
-                "07f20383-abe5-42f4-8064-fe78f3b97d46"
+                "1ad3060e-64d4-473f-8638-af3ecaa1d747"
             ]
         },
-        "208004f0-b23a-4121-81b1-b2f55d44dbdc": {
-            "id": "208004f0-b23a-4121-81b1-b2f55d44dbdc",
+        "3b00b001-a6b1-4dc3-a4b3-4ac80a82b915": {
+            "id": "3b00b001-a6b1-4dc3-a4b3-4ac80a82b915",
             "name": "\ueecaiend",
             "contexts": [
-                "07f20383-abe5-42f4-8064-fe78f3b97d46"
+                "1ad3060e-64d4-473f-8638-af3ecaa1d747"
             ]
         },
-        "3867610e-4a0a-41e2-be13-b011a0c4c5ca": {
-            "id": "3867610e-4a0a-41e2-be13-b011a0c4c5ca",
+        "91091f50-48f6-4e7f-9c42-e55b0c4a04c0": {
+            "id": "91091f50-48f6-4e7f-9c42-e55b0c4a04c0",
             "name": "God",
             "contexts": [
-                "629d1b88-641d-4414-92f3-c8a960d676d0"
+                "95ec26e1-0f12-417f-a186-0986817354af"
             ]
         },
-        "4eb0b74b-5377-4b32-bfc4-016e127d6eb9": {
-            "id": "4eb0b74b-5377-4b32-bfc4-016e127d6eb9",
+        "3c625ab3-f493-4944-84ec-99bc9c1eea49": {
+            "id": "3c625ab3-f493-4944-84ec-99bc9c1eea49",
             "name": "Mr. Hossner",
             "contexts": [
-                "3e78adc9-2566-4633-ae82-ce18eae3dcd4"
+                "c7a16afc-ad50-49f6-bd07-a5b51618e275"
             ]
         },
-        "7f641863-3cf7-48c7-94d9-a79eda16d8d1": {
-            "id": "7f641863-3cf7-48c7-94d9-a79eda16d8d1",
+        "a79a3bc8-5680-4aac-a836-50337ee8e0f4": {
+            "id": "a79a3bc8-5680-4aac-a836-50337ee8e0f4",
             "name": "mom",
             "contexts": [
-                "a43d3c69-2ca8-43eb-a4e2-10aa6a2eb9ab"
+                "814ada17-0292-422b-a707-6960ba7d6d10"
             ]
         },
-        "50e534f1-b061-4137-bef9-9b5e2b45bf18": {
-            "id": "50e534f1-b061-4137-bef9-9b5e2b45bf18",
+        "4e9a7e09-3805-44b7-9d00-0385d7775608": {
+            "id": "4e9a7e09-3805-44b7-9d00-0385d7775608",
             "name": "Child",
             "contexts": [
-                "a43d3c69-2ca8-43eb-a4e2-10aa6a2eb9ab"
+                "814ada17-0292-422b-a707-6960ba7d6d10"
             ]
         },
-        "6350fe66-9ac2-43fb-9822-c13f0bb87e4e": {
-            "id": "6350fe66-9ac2-43fb-9822-c13f0bb87e4e",
+        "c43baad7-ab91-4828-9e52-77db695d982f": {
+            "id": "c43baad7-ab91-4828-9e52-77db695d982f",
             "name": "Person",
             "contexts": [
-                "cadae330-3418-48c9-9104-c821feb662f2"
+                "44842350-ff19-4c17-a12f-aff74ebfbdd4"
             ]
         },
-        "4bf62f84-cdad-4e51-8e3a-6ada0c3f5477": {
-            "id": "4bf62f84-cdad-4e51-8e3a-6ada0c3f5477",
+        "1c6552fb-8071-42fd-ae56-5bbfbc12a940": {
+            "id": "1c6552fb-8071-42fd-ae56-5bbfbc12a940",
             "name": "she",
             "contexts": [
-                "cadae330-3418-48c9-9104-c821feb662f2"
+                "44842350-ff19-4c17-a12f-aff74ebfbdd4"
             ]
         },
-        "bd76b227-c11c-421c-80dc-0946eff5d7c9": {
-            "id": "bd76b227-c11c-421c-80dc-0946eff5d7c9",
+        "b85ff076-6557-4806-8a7b-9935ed5851f7": {
+            "id": "b85ff076-6557-4806-8a7b-9935ed5851f7",
             "name": "Book of Ages",
             "contexts": [
-                "a20a8bbd-a574-4f83-ac69-551bace8b876"
+                "c46fdfc8-093a-4e2d-8e3c-ac535ed4dffa"
             ]
         },
-        "355d35c4-432f-4c6b-a743-a5f7bc128fff": {
-            "id": "355d35c4-432f-4c6b-a743-a5f7bc128fff",
+        "b74dbc00-273f-4664-a3e9-1c998960a8bf": {
+            "id": "b74dbc00-273f-4664-a3e9-1c998960a8bf",
             "name": "\ueecaee",
             "contexts": [
-                "a20a8bbd-a574-4f83-ac69-551bace8b876"
+                "c46fdfc8-093a-4e2d-8e3c-ac535ed4dffa"
             ]
         },
-        "8d4959c9-d2d7-4812-a9f7-12faa4337a5f": {
-            "id": "8d4959c9-d2d7-4812-a9f7-12faa4337a5f",
+        "67e511c3-7f0a-4222-ae40-edb2013991fb": {
+            "id": "67e511c3-7f0a-4222-ae40-edb2013991fb",
             "name": "Rabbit",
             "contexts": [
-                "16ef7b0b-b4bc-40ea-b5e0-9d1826c598f2"
+                "66c9b93f-77d5-4dd6-9b0b-a3f73d75a7c5"
             ]
         },
-        "b68b251b-dbe7-4903-b93e-b972f1f5e442": {
-            "id": "b68b251b-dbe7-4903-b93e-b972f1f5e442",
+        "949151ac-047e-4211-8d9a-fcfc7d41a5d0": {
+            "id": "949151ac-047e-4211-8d9a-fcfc7d41a5d0",
             "name": "Young girl",
             "contexts": [
-                "16ef7b0b-b4bc-40ea-b5e0-9d1826c598f2"
+                "66c9b93f-77d5-4dd6-9b0b-a3f73d75a7c5"
             ]
         },
-        "faa64e80-87ae-428e-85b1-29967c06ea2f": {
-            "id": "faa64e80-87ae-428e-85b1-29967c06ea2f",
+        "c11a4943-723e-4a18-ad2f-216f717b80d7": {
+            "id": "c11a4943-723e-4a18-ad2f-216f717b80d7",
             "name": "Heptapod A",
             "contexts": [
-                "71eaf12e-9ea9-4ee8-b04a-b5f44f299279"
+                "d044b9b1-4d6d-445a-8848-f48717117015"
             ]
         },
-        "00ef3d51-a5b5-4989-beaa-d98f1fb0f48a": {
-            "id": "00ef3d51-a5b5-4989-beaa-d98f1fb0f48a",
+        "f021d4e1-d7af-4d7e-9ec7-4ce250ee3468": {
+            "id": "f021d4e1-d7af-4d7e-9ec7-4ce250ee3468",
             "name": "Goldilocks",
             "contexts": [
-                "a9011eeb-f5e8-4c19-97ac-6b6b813aa960"
+                "72c83da1-889e-4d0b-a6c1-fc57d3d3a4ed"
             ]
         },
-        "c9aa516d-2181-4187-b9a0-ee0ec98ea5fd": {
-            "id": "c9aa516d-2181-4187-b9a0-ee0ec98ea5fd",
+        "6211c3d3-7205-45f6-80ff-a2c604a577bd": {
+            "id": "6211c3d3-7205-45f6-80ff-a2c604a577bd",
             "name": "Papa Bear",
             "contexts": [
-                "a9011eeb-f5e8-4c19-97ac-6b6b813aa960"
+                "72c83da1-889e-4d0b-a6c1-fc57d3d3a4ed"
             ]
         },
-        "c77cf264-5bf5-4469-9281-2f3e2b8b2057": {
-            "id": "c77cf264-5bf5-4469-9281-2f3e2b8b2057",
+        "a695c74b-288a-4134-be43-509a74d68e30": {
+            "id": "a695c74b-288a-4134-be43-509a74d68e30",
             "name": "Mama Bear",
             "contexts": [
-                "a9011eeb-f5e8-4c19-97ac-6b6b813aa960"
+                "72c83da1-889e-4d0b-a6c1-fc57d3d3a4ed"
             ]
         },
-        "4dc51a7a-f6e0-4c8d-9f2c-d3971eec9ac3": {
-            "id": "4dc51a7a-f6e0-4c8d-9f2c-d3971eec9ac3",
+        "c379ffc4-b68e-4a33-825f-0b4163b58b24": {
+            "id": "c379ffc4-b68e-4a33-825f-0b4163b58b24",
             "name": "Nuclear physicist",
             "contexts": [
-                "f597a9bb-aa73-403f-841a-c8b487cfed7a"
+                "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21"
             ]
         },
-        "771d5791-47af-487e-b07c-a01f9a6a10bd": {
-            "id": "771d5791-47af-487e-b07c-a01f9a6a10bd",
+        "cc39ba5b-c90d-4dbb-957d-8552bae8f801": {
+            "id": "cc39ba5b-c90d-4dbb-957d-8552bae8f801",
             "name": "Biologists",
             "contexts": [
-                "f597a9bb-aa73-403f-841a-c8b487cfed7a"
+                "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21"
             ]
         },
-        "9e475583-193b-4a22-bf61-555ea23c9a29": {
-            "id": "9e475583-193b-4a22-bf61-555ea23c9a29",
+        "d06d4ab2-373d-41a9-b1d2-0f33875bada8": {
+            "id": "d06d4ab2-373d-41a9-b1d2-0f33875bada8",
             "name": "Anthropologists",
             "contexts": [
-                "f597a9bb-aa73-403f-841a-c8b487cfed7a"
+                "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21"
             ]
         },
-        "26eeb69a-56a5-4f87-a042-7a0702799b3e": {
-            "id": "26eeb69a-56a5-4f87-a042-7a0702799b3e",
+        "a2d2a32b-dcae-412b-aebc-46a01aa2b4e2": {
+            "id": "a2d2a32b-dcae-412b-aebc-46a01aa2b4e2",
             "name": "Military brass",
             "contexts": [
-                "f597a9bb-aa73-403f-841a-c8b487cfed7a"
+                "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21"
             ]
         },
-        "9bb0857b-bfea-4a7e-8466-e180bb50c1c2": {
-            "id": "9bb0857b-bfea-4a7e-8466-e180bb50c1c2",
+        "54f8810c-c96e-4b42-b6f3-0046fa0e7097": {
+            "id": "54f8810c-c96e-4b42-b6f3-0046fa0e7097",
             "name": "Diplomats",
             "contexts": [
-                "f597a9bb-aa73-403f-841a-c8b487cfed7a"
+                "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21"
             ]
         }
     },
     "contexts": {
-        "f6f49d26-42c8-41e1-9d3b-55a7f06c5986": {
-            "id": "f6f49d26-42c8-41e1-9d3b-55a7f06c5986",
+        "e1b26386-5fd1-486f-857a-0d96efbea876": {
+            "id": "e1b26386-5fd1-486f-857a-0d96efbea876",
             "chunk_num": 1,
             "page_nums": [
                 1
@@ -851,8 +851,8 @@
                 "I"
             ]
         },
-        "b609c609-66c4-4b7c-9043-5ada76b003f6": {
-            "id": "b609c609-66c4-4b7c-9043-5ada76b003f6",
+        "3a84a7d6-00f8-4017-bacf-bceb7ea103ef": {
+            "id": "3a84a7d6-00f8-4017-bacf-bceb7ea103ef",
             "chunk_num": 2,
             "page_nums": [
                 1
@@ -863,8 +863,8 @@
                 "I"
             ]
         },
-        "4a1133df-0e99-46e4-95e1-6a6ea218e036": {
-            "id": "4a1133df-0e99-46e4-95e1-6a6ea218e036",
+        "477daca2-66fe-4005-9c41-71492b682a1b": {
+            "id": "477daca2-66fe-4005-9c41-71492b682a1b",
             "chunk_num": 3,
             "page_nums": [
                 1
@@ -875,8 +875,8 @@
                 "you"
             ]
         },
-        "6251ca28-f7ca-40da-b0bf-7a49cecb2678": {
-            "id": "6251ca28-f7ca-40da-b0bf-7a49cecb2678",
+        "a92457bd-05a8-4b0b-8603-6243e0defc04": {
+            "id": "a92457bd-05a8-4b0b-8603-6243e0defc04",
             "chunk_num": 4,
             "page_nums": [
                 1
@@ -888,8 +888,8 @@
                 "dad"
             ]
         },
-        "78afe3bd-9c2c-47ba-81bb-24877772e68d": {
-            "id": "78afe3bd-9c2c-47ba-81bb-24877772e68d",
+        "bbb9f2a2-8021-4b2a-a325-9a5efc30d609": {
+            "id": "bbb9f2a2-8021-4b2a-a325-9a5efc30d609",
             "chunk_num": 5,
             "page_nums": [
                 1,
@@ -904,8 +904,8 @@
                 "what\u2019s-her-name"
             ]
         },
-        "a526d2d0-14de-4c70-9c2f-a48be1b39d00": {
-            "id": "a526d2d0-14de-4c70-9c2f-a48be1b39d00",
+        "276f7889-659a-48d4-83c8-87c7b045bcc8": {
+            "id": "276f7889-659a-48d4-83c8-87c7b045bcc8",
             "chunk_num": 6,
             "page_nums": [
                 2
@@ -916,8 +916,8 @@
                 "Louise Banks"
             ]
         },
-        "6eab530a-bc91-470a-b4f6-74536a5600be": {
-            "id": "6eab530a-bc91-470a-b4f6-74536a5600be",
+        "073675cb-c98d-4bd3-9ab1-bd127a8a87c7": {
+            "id": "073675cb-c98d-4bd3-9ab1-bd127a8a87c7",
             "chunk_num": 7,
             "page_nums": [
                 2
@@ -929,8 +929,8 @@
                 "Gary Donnelly"
             ]
         },
-        "95a6d106-176c-4313-9c4c-94613f60bd0c": {
-            "id": "95a6d106-176c-4313-9c4c-94613f60bd0c",
+        "0cb6c84a-c380-4556-91e6-8925c284be7a": {
+            "id": "0cb6c84a-c380-4556-91e6-8925c284be7a",
             "chunk_num": 8,
             "page_nums": [
                 2
@@ -940,8 +940,8 @@
                 "Colonel Weber"
             ]
         },
-        "eda0d259-3eab-4547-a56b-abd8d3d90a27": {
-            "id": "eda0d259-3eab-4547-a56b-abd8d3d90a27",
+        "7d907222-f3dc-44db-a318-13372019c11e": {
+            "id": "7d907222-f3dc-44db-a318-13372019c11e",
             "chunk_num": 9,
             "page_nums": [
                 2
@@ -951,8 +951,8 @@
                 "Colonel Weber"
             ]
         },
-        "64d46107-e3b9-40b0-8b48-45e2394dbdbc": {
-            "id": "64d46107-e3b9-40b0-8b48-45e2394dbdbc",
+        "9370bea5-719c-4b35-837e-c4d079babfd1": {
+            "id": "9370bea5-719c-4b35-837e-c4d079babfd1",
             "chunk_num": 10,
             "page_nums": [
                 2,
@@ -964,8 +964,8 @@
                 "Gary Donnelly"
             ]
         },
-        "9cf4c473-e697-4b2e-85be-6bc01844d85c": {
-            "id": "9cf4c473-e697-4b2e-85be-6bc01844d85c",
+        "ef795da1-e666-414b-9e09-302efa3d5486": {
+            "id": "ef795da1-e666-414b-9e09-302efa3d5486",
             "chunk_num": 11,
             "page_nums": [
                 3
@@ -975,8 +975,8 @@
                 "Gary Donnelly"
             ]
         },
-        "72aefe61-7af7-4bcc-a0bc-3aa0f0a19d1e": {
-            "id": "72aefe61-7af7-4bcc-a0bc-3aa0f0a19d1e",
+        "e9de7227-268f-4a9d-9670-f492045ca77e": {
+            "id": "e9de7227-268f-4a9d-9670-f492045ca77e",
             "chunk_num": 12,
             "page_nums": [
                 3
@@ -987,8 +987,8 @@
                 "I"
             ]
         },
-        "902d49e9-36e3-4cda-a3d8-129ee9ad713a": {
-            "id": "902d49e9-36e3-4cda-a3d8-129ee9ad713a",
+        "1562897d-a909-49c6-99cb-8d2541a599e3": {
+            "id": "1562897d-a909-49c6-99cb-8d2541a599e3",
             "chunk_num": 13,
             "page_nums": [
                 3
@@ -998,8 +998,8 @@
                 "Colonel Weber"
             ]
         },
-        "ce68a265-b9dc-4824-926b-8c87eee6c906": {
-            "id": "ce68a265-b9dc-4824-926b-8c87eee6c906",
+        "3bd6bbad-f8a4-4b6d-b1d3-32c60f986886": {
+            "id": "3bd6bbad-f8a4-4b6d-b1d3-32c60f986886",
             "chunk_num": 14,
             "page_nums": [
                 3
@@ -1010,8 +1010,8 @@
                 "Gary Donnelly"
             ]
         },
-        "9e723336-99be-457e-bc73-5af71f922d7a": {
-            "id": "9e723336-99be-457e-bc73-5af71f922d7a",
+        "f8c9e525-6147-4b8c-8112-ac2253b223d0": {
+            "id": "f8c9e525-6147-4b8c-8112-ac2253b223d0",
             "chunk_num": 15,
             "page_nums": [
                 3,
@@ -1022,8 +1022,8 @@
                 "The colonel"
             ]
         },
-        "6fead3d0-bfae-4287-861d-653ec71f0977": {
-            "id": "6fead3d0-bfae-4287-861d-653ec71f0977",
+        "4913ceb2-ce5d-45aa-81fa-a33975f6868c": {
+            "id": "4913ceb2-ce5d-45aa-81fa-a33975f6868c",
             "chunk_num": 16,
             "page_nums": [
                 4
@@ -1036,8 +1036,8 @@
                 "An orderly"
             ]
         },
-        "5944dfa2-9b61-490e-9c91-b4262458f8ee": {
-            "id": "5944dfa2-9b61-490e-9c91-b4262458f8ee",
+        "5ba5e2ad-a7b6-42ad-9b99-0f7d66bf0a65": {
+            "id": "5ba5e2ad-a7b6-42ad-9b99-0f7d66bf0a65",
             "chunk_num": 17,
             "page_nums": [
                 4
@@ -1049,8 +1049,8 @@
                 "She"
             ]
         },
-        "167b1a39-9308-4394-80b5-0fdbd04b715b": {
-            "id": "167b1a39-9308-4394-80b5-0fdbd04b715b",
+        "99bb7e2e-265f-467e-ae42-75b37e112832": {
+            "id": "99bb7e2e-265f-467e-ae42-75b37e112832",
             "chunk_num": 18,
             "page_nums": [
                 4
@@ -1060,8 +1060,8 @@
                 "Gary Donnelly"
             ]
         },
-        "41702c8e-6a6a-4b8d-927c-4c1ee55656ca": {
-            "id": "41702c8e-6a6a-4b8d-927c-4c1ee55656ca",
+        "e7af8207-dc66-4471-8356-c87be4f8db01": {
+            "id": "e7af8207-dc66-4471-8356-c87be4f8db01",
             "chunk_num": 19,
             "page_nums": [
                 4
@@ -1071,8 +1071,8 @@
                 "Gary"
             ]
         },
-        "37c211f4-fcc7-4e0f-a8fd-7044dff234d6": {
-            "id": "37c211f4-fcc7-4e0f-a8fd-7044dff234d6",
+        "48a6cc66-fb3e-40f1-a00a-64cea61a8c9e": {
+            "id": "48a6cc66-fb3e-40f1-a00a-64cea61a8c9e",
             "chunk_num": 20,
             "page_nums": [
                 4,
@@ -1084,8 +1084,8 @@
                 "I"
             ]
         },
-        "2bb58f7a-e5da-48f0-9e85-94a79d087e79": {
-            "id": "2bb58f7a-e5da-48f0-9e85-94a79d087e79",
+        "8f9c727e-a75d-4847-b03b-cb4209013bcb": {
+            "id": "8f9c727e-a75d-4847-b03b-cb4209013bcb",
             "chunk_num": 21,
             "page_nums": [
                 5
@@ -1095,8 +1095,8 @@
                 "Gary"
             ]
         },
-        "222c0236-904d-41c7-809e-683b5db65110": {
-            "id": "222c0236-904d-41c7-809e-683b5db65110",
+        "158fe327-cb99-4e47-b4f0-fea461cdf999": {
+            "id": "158fe327-cb99-4e47-b4f0-fea461cdf999",
             "chunk_num": 22,
             "page_nums": [
                 5
@@ -1106,8 +1106,8 @@
                 "Aliens"
             ]
         },
-        "a3963cf7-f804-49cb-a70f-0272edfdc443": {
-            "id": "a3963cf7-f804-49cb-a70f-0272edfdc443",
+        "94d4c2e6-ec29-4e5f-9f20-3548628589fb": {
+            "id": "94d4c2e6-ec29-4e5f-9f20-3548628589fb",
             "chunk_num": 23,
             "page_nums": [
                 5
@@ -1118,8 +1118,8 @@
                 "Heptapods"
             ]
         },
-        "019eb0ce-d046-4321-b29a-04140df5ce34": {
-            "id": "019eb0ce-d046-4321-b29a-04140df5ce34",
+        "0fa297f4-bc1a-4afb-8874-8593f430bd4d": {
+            "id": "0fa297f4-bc1a-4afb-8874-8593f430bd4d",
             "chunk_num": 24,
             "page_nums": [
                 5
@@ -1129,8 +1129,8 @@
                 "Gary"
             ]
         },
-        "f45107b6-5ee8-4031-b2be-d0470c09cc38": {
-            "id": "f45107b6-5ee8-4031-b2be-d0470c09cc38",
+        "c4bfb1cd-b5f4-43e5-8581-906edb439057": {
+            "id": "c4bfb1cd-b5f4-43e5-8581-906edb439057",
             "chunk_num": 25,
             "page_nums": [
                 5
@@ -1141,8 +1141,8 @@
                 "Heptapod"
             ]
         },
-        "9ff94e6e-4417-48d7-b8d6-2c8c1c44b2a5": {
-            "id": "9ff94e6e-4417-48d7-b8d6-2c8c1c44b2a5",
+        "119b4ab0-3b85-452a-b1ac-d794f64efced": {
+            "id": "119b4ab0-3b85-452a-b1ac-d794f64efced",
             "chunk_num": 26,
             "page_nums": [
                 5,
@@ -1154,8 +1154,8 @@
                 "Heptapod"
             ]
         },
-        "4e26f16b-19a1-4914-b062-d2680c36e7d4": {
-            "id": "4e26f16b-19a1-4914-b062-d2680c36e7d4",
+        "1bf1140d-fdae-43f3-964a-f0bd0eb3e0f7": {
+            "id": "1bf1140d-fdae-43f3-964a-f0bd0eb3e0f7",
             "chunk_num": 27,
             "page_nums": [
                 6
@@ -1167,8 +1167,8 @@
                 "Heptapod"
             ]
         },
-        "952380cd-01ed-4c3e-9b44-bcd34f132d63": {
-            "id": "952380cd-01ed-4c3e-9b44-bcd34f132d63",
+        "945f1b09-10b6-4213-a444-653e0f01e630": {
+            "id": "945f1b09-10b6-4213-a444-653e0f01e630",
             "chunk_num": 28,
             "page_nums": [
                 6
@@ -1178,8 +1178,8 @@
                 "Heptapod"
             ]
         },
-        "e77c6afe-47e5-4335-8c7e-231739910650": {
-            "id": "e77c6afe-47e5-4335-8c7e-231739910650",
+        "4b7e856d-857d-4ffc-914a-d8d9379bf3d2": {
+            "id": "4b7e856d-857d-4ffc-914a-d8d9379bf3d2",
             "chunk_num": 29,
             "page_nums": [
                 6
@@ -1190,8 +1190,8 @@
                 "Gary"
             ]
         },
-        "c15cc06d-da21-478d-b9f2-92d99eb7c0dc": {
-            "id": "c15cc06d-da21-478d-b9f2-92d99eb7c0dc",
+        "fdc512f3-310f-4186-800e-29b1559e7e42": {
+            "id": "fdc512f3-310f-4186-800e-29b1559e7e42",
             "chunk_num": 30,
             "page_nums": [
                 6
@@ -1201,8 +1201,8 @@
                 "Heptapod"
             ]
         },
-        "79055612-db6f-4872-9e77-865aab66eff2": {
-            "id": "79055612-db6f-4872-9e77-865aab66eff2",
+        "b435828b-8117-498a-a588-89bfdf13a0ca": {
+            "id": "b435828b-8117-498a-a588-89bfdf13a0ca",
             "chunk_num": 31,
             "page_nums": [
                 6,
@@ -1213,8 +1213,8 @@
                 "Gary"
             ]
         },
-        "11c5616b-5313-4d56-9e7b-6d66f379393f": {
-            "id": "11c5616b-5313-4d56-9e7b-6d66f379393f",
+        "a37f8971-2c66-4a50-844b-5b05bc4d4931": {
+            "id": "a37f8971-2c66-4a50-844b-5b05bc4d4931",
             "chunk_num": 32,
             "page_nums": [
                 7
@@ -1226,8 +1226,8 @@
                 "Sailors"
             ]
         },
-        "049f78b8-1278-4677-ac2a-b30efa250b5b": {
-            "id": "049f78b8-1278-4677-ac2a-b30efa250b5b",
+        "fd822633-91f4-4d74-aa08-8d1305a70ea4": {
+            "id": "fd822633-91f4-4d74-aa08-8d1305a70ea4",
             "chunk_num": 33,
             "page_nums": [
                 7
@@ -1238,8 +1238,8 @@
                 "Aborigine"
             ]
         },
-        "1cae7c81-f2ce-43af-b0c5-6197eb22accb": {
-            "id": "1cae7c81-f2ce-43af-b0c5-6197eb22accb",
+        "215c7ad4-add6-4005-9f19-603839d0c2e6": {
+            "id": "215c7ad4-add6-4005-9f19-603839d0c2e6",
             "chunk_num": 34,
             "page_nums": [
                 7
@@ -1249,8 +1249,8 @@
                 "Mom"
             ]
         },
-        "7020dc91-1762-4d38-97fb-1e4657d62ee4": {
-            "id": "7020dc91-1762-4d38-97fb-1e4657d62ee4",
+        "f43665d6-fb32-45f3-ac92-29db3e00cd14": {
+            "id": "f43665d6-fb32-45f3-ac92-29db3e00cd14",
             "chunk_num": 35,
             "page_nums": [
                 7,
@@ -1262,8 +1262,8 @@
                 "Gary"
             ]
         },
-        "6df95865-0394-456d-a3f8-f7c3d4d6c311": {
-            "id": "6df95865-0394-456d-a3f8-f7c3d4d6c311",
+        "5c1c532f-a64e-4ef4-b7ef-8b2ff52f4692": {
+            "id": "5c1c532f-a64e-4ef4-b7ef-8b2ff52f4692",
             "chunk_num": 36,
             "page_nums": [
                 7,
@@ -1275,8 +1275,8 @@
                 "Colonel Weber"
             ]
         },
-        "dbd5e95c-0cd3-4c72-932f-9454fe5d481b": {
-            "id": "dbd5e95c-0cd3-4c72-932f-9454fe5d481b",
+        "7ef98b61-3481-4f71-9422-9415d0ad4833": {
+            "id": "7ef98b61-3481-4f71-9422-9415d0ad4833",
             "chunk_num": 37,
             "page_nums": [
                 8
@@ -1287,8 +1287,8 @@
                 "Weber"
             ]
         },
-        "4243896c-9862-45d2-b687-3c04e49c1e76": {
-            "id": "4243896c-9862-45d2-b687-3c04e49c1e76",
+        "6e201608-5f27-4ed0-95f5-17aaa1c101df": {
+            "id": "6e201608-5f27-4ed0-95f5-17aaa1c101df",
             "chunk_num": 38,
             "page_nums": [
                 8
@@ -1298,8 +1298,8 @@
                 "Heptapods"
             ]
         },
-        "69d20a36-803d-419f-928d-9e9dfd07e4d3": {
-            "id": "69d20a36-803d-419f-928d-9e9dfd07e4d3",
+        "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a": {
+            "id": "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a",
             "chunk_num": 39,
             "page_nums": [
                 8
@@ -1314,8 +1314,8 @@
                 "The colonel"
             ]
         },
-        "86143263-a90f-4f0c-85e3-6d4d5ac33b6e": {
-            "id": "86143263-a90f-4f0c-85e3-6d4d5ac33b6e",
+        "54c04e91-5761-442e-9210-b95c2af4a8e6": {
+            "id": "54c04e91-5761-442e-9210-b95c2af4a8e6",
             "chunk_num": 40,
             "page_nums": [
                 8,
@@ -1328,8 +1328,8 @@
                 "Weber"
             ]
         },
-        "83f8ec4b-5e11-4eba-bea6-974e6f4bd727": {
-            "id": "83f8ec4b-5e11-4eba-bea6-974e6f4bd727",
+        "656b52d5-f216-4c4a-9638-c7f7513d48ba": {
+            "id": "656b52d5-f216-4c4a-9638-c7f7513d48ba",
             "chunk_num": 41,
             "page_nums": [
                 9
@@ -1340,8 +1340,8 @@
                 "Weber"
             ]
         },
-        "08af4d1c-ce79-4981-93dc-734aaf4685e0": {
-            "id": "08af4d1c-ce79-4981-93dc-734aaf4685e0",
+        "96bc8a23-e37f-4553-bc08-4025849a97f4": {
+            "id": "96bc8a23-e37f-4553-bc08-4025849a97f4",
             "chunk_num": 42,
             "page_nums": [
                 9
@@ -1352,8 +1352,8 @@
                 "Mom"
             ]
         },
-        "6fe1d1a1-9ecb-4a57-8bbd-50803aea7c67": {
-            "id": "6fe1d1a1-9ecb-4a57-8bbd-50803aea7c67",
+        "310b63c0-5dbe-4ab4-8298-844b48d2c39d": {
+            "id": "310b63c0-5dbe-4ab4-8298-844b48d2c39d",
             "chunk_num": 43,
             "page_nums": [
                 9
@@ -1366,8 +1366,8 @@
                 "Roxie"
             ]
         },
-        "efe64906-767a-49c8-a765-0edae28275f9": {
-            "id": "efe64906-767a-49c8-a765-0edae28275f9",
+        "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72": {
+            "id": "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72",
             "chunk_num": 44,
             "page_nums": [
                 9
@@ -1380,8 +1380,8 @@
                 "I"
             ]
         },
-        "3b7abe3c-918b-446c-b36c-ab31c65d1df9": {
-            "id": "3b7abe3c-918b-446c-b36c-ab31c65d1df9",
+        "42947de5-b1c6-487f-8bdf-9e078f729b1d": {
+            "id": "42947de5-b1c6-487f-8bdf-9e078f729b1d",
             "chunk_num": 45,
             "page_nums": [
                 9,
@@ -1393,8 +1393,8 @@
                 "Heptapod"
             ]
         },
-        "95708390-db39-40ba-bcee-d723ff7517e7": {
-            "id": "95708390-db39-40ba-bcee-d723ff7517e7",
+        "07376530-23e4-4c5c-8a9e-7522842d0ec4": {
+            "id": "07376530-23e4-4c5c-8a9e-7522842d0ec4",
             "chunk_num": 46,
             "page_nums": [
                 10
@@ -1402,8 +1402,8 @@
             "text": "I compiled two parallel corpora: one of spoken utterances, one of writing samples. Based on \ufb01rst impressions, their writing appeared to be logographic, which was disappointing; I\u2019d been hoping for an alphabetic script to help us learn their speech. Their logograms might include some phonetic information, but \ufb01nding it would be a lot harder than with an alphabetic script. By getting up close to the looking glass, I was able to point to various heptapod body parts, such as limbs, digits, and eyes, and elicit terms for each. It turned out that they had an ori\ufb01ce on the underside of",
             "characters": []
         },
-        "fdf111e9-6167-46dd-8098-5cd12f5203a2": {
-            "id": "fdf111e9-6167-46dd-8098-5cd12f5203a2",
+        "6926313a-3168-441f-a9d0-711991599105": {
+            "id": "6926313a-3168-441f-a9d0-711991599105",
             "chunk_num": 47,
             "page_nums": [
                 10
@@ -1414,8 +1414,8 @@
                 "Raspberry"
             ]
         },
-        "9aecfdfd-f29a-47a9-9e65-7f1f302c483e": {
-            "id": "9aecfdfd-f29a-47a9-9e65-7f1f302c483e",
+        "420fd74b-9d98-4bc8-9594-e96fa6923a6b": {
+            "id": "420fd74b-9d98-4bc8-9594-e96fa6923a6b",
             "chunk_num": 48,
             "page_nums": [
                 10
@@ -1425,8 +1425,8 @@
                 "Gary"
             ]
         },
-        "86656f55-0bb7-4edf-bcae-0a0bc94a7c6b": {
-            "id": "86656f55-0bb7-4edf-bcae-0a0bc94a7c6b",
+        "a5066da4-cc43-4e0d-be58-e966e32a28aa": {
+            "id": "a5066da4-cc43-4e0d-be58-e966e32a28aa",
             "chunk_num": 49,
             "page_nums": [
                 10
@@ -1438,8 +1438,8 @@
                 "Flapper"
             ]
         },
-        "766cc153-8afa-45eb-971c-2515907a8134": {
-            "id": "766cc153-8afa-45eb-971c-2515907a8134",
+        "6ea8266a-2f3d-4e3c-95d4-b874bd6da71b": {
+            "id": "6ea8266a-2f3d-4e3c-95d4-b874bd6da71b",
             "chunk_num": 50,
             "page_nums": [
                 10
@@ -1449,8 +1449,8 @@
                 "Flapper"
             ]
         },
-        "ca171915-80a6-41ba-985c-71725b18f90f": {
-            "id": "ca171915-80a6-41ba-985c-71725b18f90f",
+        "d515616c-20f8-4c99-b223-588cb869c4af": {
+            "id": "d515616c-20f8-4c99-b223-588cb869c4af",
             "chunk_num": 51,
             "page_nums": [
                 10,
@@ -1462,8 +1462,8 @@
                 "Gary"
             ]
         },
-        "2b74ae97-26d8-4a31-bafe-9cc9af8b3797": {
-            "id": "2b74ae97-26d8-4a31-bafe-9cc9af8b3797",
+        "e27b8ab7-02ca-4a51-adb3-ec18a76f5f31": {
+            "id": "e27b8ab7-02ca-4a51-adb3-ec18a76f5f31",
             "chunk_num": 52,
             "page_nums": [
                 11
@@ -1475,8 +1475,8 @@
                 "Flapper"
             ]
         },
-        "e34aa49a-c176-4428-b15f-d5cfac280f2f": {
-            "id": "e34aa49a-c176-4428-b15f-d5cfac280f2f",
+        "3125ea9e-39b8-4de4-9c85-08e886a0cc9e": {
+            "id": "3125ea9e-39b8-4de4-9c85-08e886a0cc9e",
             "chunk_num": 53,
             "page_nums": [
                 11
@@ -1486,8 +1486,8 @@
                 "Flapper"
             ]
         },
-        "80d48282-e209-4ff6-9893-600f1a134e5b": {
-            "id": "80d48282-e209-4ff6-9893-600f1a134e5b",
+        "af9ba5b0-d4bf-48f9-90c2-0aacfd4cdff5": {
+            "id": "af9ba5b0-d4bf-48f9-90c2-0aacfd4cdff5",
             "chunk_num": 54,
             "page_nums": [
                 11
@@ -1497,8 +1497,8 @@
                 "Heptapod"
             ]
         },
-        "60045f04-ab55-4204-a086-42ad017b2865": {
-            "id": "60045f04-ab55-4204-a086-42ad017b2865",
+        "8cd5f0b9-3ff4-4129-a1c9-2ca1e751f015": {
+            "id": "8cd5f0b9-3ff4-4129-a1c9-2ca1e751f015",
             "chunk_num": 55,
             "page_nums": [
                 11
@@ -1508,8 +1508,8 @@
                 "Gary"
             ]
         },
-        "f9cda30c-60b4-43d8-a4eb-a953ca062cf4": {
-            "id": "f9cda30c-60b4-43d8-a4eb-a953ca062cf4",
+        "ea2cc78f-8ee5-4c77-ab49-034dbaf2cc23": {
+            "id": "ea2cc78f-8ee5-4c77-ab49-034dbaf2cc23",
             "chunk_num": 56,
             "page_nums": [
                 11,
@@ -1520,8 +1520,8 @@
                 "Gary"
             ]
         },
-        "d49e52b4-20aa-49ea-909d-5d3ac5161d7a": {
-            "id": "d49e52b4-20aa-49ea-909d-5d3ac5161d7a",
+        "5c25358d-8cf8-4ed8-baf1-e8ffaa21dd84": {
+            "id": "5c25358d-8cf8-4ed8-baf1-e8ffaa21dd84",
             "chunk_num": 57,
             "page_nums": [
                 12
@@ -1532,8 +1532,8 @@
                 "Raspberry"
             ]
         },
-        "9fe997ec-eb6a-475a-a3c7-bd439f17754d": {
-            "id": "9fe997ec-eb6a-475a-a3c7-bd439f17754d",
+        "3db1e88c-ed4e-4788-88e1-e3a2187d2837": {
+            "id": "3db1e88c-ed4e-4788-88e1-e3a2187d2837",
             "chunk_num": 58,
             "page_nums": [
                 12
@@ -1543,8 +1543,8 @@
                 "Colonel Weber"
             ]
         },
-        "ac6f5975-a2c8-40e9-8f36-705e22aca606": {
-            "id": "ac6f5975-a2c8-40e9-8f36-705e22aca606",
+        "22eb2d5b-a8b2-4929-b54a-a82aa518ae82": {
+            "id": "22eb2d5b-a8b2-4929-b54a-a82aa518ae82",
             "chunk_num": 59,
             "page_nums": [
                 12
@@ -1554,8 +1554,8 @@
                 "Heptapods"
             ]
         },
-        "da16e9a9-f295-439c-a2f8-4a6259c20c0a": {
-            "id": "da16e9a9-f295-439c-a2f8-4a6259c20c0a",
+        "6f310289-36e7-403e-b314-7be45e95c9e1": {
+            "id": "6f310289-36e7-403e-b314-7be45e95c9e1",
             "chunk_num": 60,
             "page_nums": [
                 12
@@ -1566,8 +1566,8 @@
                 "Raspberry"
             ]
         },
-        "e208f545-4a12-4356-b5fd-0e3f2be75ff3": {
-            "id": "e208f545-4a12-4356-b5fd-0e3f2be75ff3",
+        "4b14c154-3130-42fc-ab44-8a37331c3058": {
+            "id": "4b14c154-3130-42fc-ab44-8a37331c3058",
             "chunk_num": 61,
             "page_nums": [
                 12
@@ -1577,8 +1577,8 @@
                 "Colonel Weber"
             ]
         },
-        "95f713ba-4920-493f-a1af-a51589f5a22b": {
-            "id": "95f713ba-4920-493f-a1af-a51589f5a22b",
+        "dda55b95-9e39-46de-9a0f-b4530592e87b": {
+            "id": "dda55b95-9e39-46de-9a0f-b4530592e87b",
             "chunk_num": 62,
             "page_nums": [
                 12,
@@ -1591,8 +1591,8 @@
                 "you"
             ]
         },
-        "6fea916c-54e8-46f8-8b0c-abb310164413": {
-            "id": "6fea916c-54e8-46f8-8b0c-abb310164413",
+        "7af00804-c755-4642-b5d6-be7cc55c9249": {
+            "id": "7af00804-c755-4642-b5d6-be7cc55c9249",
             "chunk_num": 63,
             "page_nums": [
                 13
@@ -1603,8 +1603,8 @@
                 "I"
             ]
         },
-        "ad6d900c-7699-4e58-85e3-7403899adf63": {
-            "id": "ad6d900c-7699-4e58-85e3-7403899adf63",
+        "2be357ea-f18b-40ae-a140-3a99849570c0": {
+            "id": "2be357ea-f18b-40ae-a140-3a99849570c0",
             "chunk_num": 64,
             "page_nums": [
                 13
@@ -1614,8 +1614,8 @@
                 "Gary"
             ]
         },
-        "508a88ac-3e4f-421b-8968-396234b2d70e": {
-            "id": "508a88ac-3e4f-421b-8968-396234b2d70e",
+        "e4874f20-d95b-4e37-ac94-c5f0f894fbfb": {
+            "id": "e4874f20-d95b-4e37-ac94-c5f0f894fbfb",
             "chunk_num": 65,
             "page_nums": [
                 13
@@ -1625,8 +1625,8 @@
                 "Gary"
             ]
         },
-        "20082bb3-1bcf-4bfd-bcc0-34a806c072b3": {
-            "id": "20082bb3-1bcf-4bfd-bcc0-34a806c072b3",
+        "b6ae19bf-ecaa-40e1-82cf-c3337d62af6b": {
+            "id": "b6ae19bf-ecaa-40e1-82cf-c3337d62af6b",
             "chunk_num": 66,
             "page_nums": [
                 13
@@ -1634,8 +1634,8 @@
             "text": "line \u201c\u2014is \u2018se- masiographic\u2019 writing, because it conveys meaning without reference to speech. There\u2019s no correspondence between its components and any particular sounds.\u201d \u201cAnd you think all of heptapod writing is like this?\u201d \u201cFrom what I\u2019ve seen so far, yes. It\u2019s not picture writing, it\u2019s far more complex. It has its own system of rules for constructing sentences, like a visual syntax that\u2019s unrelated to the syntax for their spoken language.\u201d \u201cA visual syntax? Can you show me an example?\u201d \u201cComing right up.\u201d I sat down at my desk and, using the computer, pulled up a \ueecaame \ueecaom the recording",
             "characters": []
         },
-        "e575e462-a89e-47b8-826c-1849a157ef36": {
-            "id": "e575e462-a89e-47b8-826c-1849a157ef36",
+        "4485579b-8db4-470d-8d0a-23396c156467": {
+            "id": "4485579b-8db4-470d-8d0a-23396c156467",
             "chunk_num": 67,
             "page_nums": [
                 13,
@@ -1647,8 +1647,8 @@
                 "Heptapod"
             ]
         },
-        "b82b3d3b-af85-4cf4-bb78-5b5c30159fb0": {
-            "id": "b82b3d3b-af85-4cf4-bb78-5b5c30159fb0",
+        "de78179c-d795-41d8-a005-51381d09d89d": {
+            "id": "de78179c-d795-41d8-a005-51381d09d89d",
             "chunk_num": 68,
             "page_nums": [
                 14
@@ -1658,8 +1658,8 @@
                 "Heptapod"
             ]
         },
-        "3f24e244-c618-42b1-af3f-0f4a82d2d215": {
-            "id": "3f24e244-c618-42b1-af3f-0f4a82d2d215",
+        "3564d46f-7e1d-4951-abff-8e7d703dd604": {
+            "id": "3564d46f-7e1d-4951-abff-8e7d703dd604",
             "chunk_num": 69,
             "page_nums": [
                 14
@@ -1670,8 +1670,8 @@
                 "Heptapod"
             ]
         },
-        "a874674d-3ce5-42cb-9b1f-2579ee8a31ce": {
-            "id": "a874674d-3ce5-42cb-9b1f-2579ee8a31ce",
+        "e9dc1bcd-5c47-453d-bcb9-749c05f9534e": {
+            "id": "e9dc1bcd-5c47-453d-bcb9-749c05f9534e",
             "chunk_num": 70,
             "page_nums": [
                 14
@@ -1679,8 +1679,8 @@
             "text": "the logogram for \u2018read\u2019 and others. And changing the curve of those strokes has no parallel in their speech; with the spoken version of these verbs, they add a pre\ufb01x to the verb to express ease of manner, and the pre\ufb01xes for \u2018see\u2019 and \u2018hear\u2019 are di\ufb00erent. \u201cThere are other examples, but you get the idea. It\u2019s essentially a grammar in two dimensions.\u201d He began pacing thoughtfully. \u201cIs there anything like this in human writing sys- tems?\u201d \u201cMathematical equations, notations for music and dance. But those are all very specialized; we couldn\u2019t record this conversation using them. But I suspect,",
             "characters": []
         },
-        "404c768d-e927-4977-84df-bccfb7c25af4": {
-            "id": "404c768d-e927-4977-84df-bccfb7c25af4",
+        "8495a957-887b-4d16-8d94-9d60463d889c": {
+            "id": "8495a957-887b-4d16-8d94-9d60463d889c",
             "chunk_num": 71,
             "page_nums": [
                 14
@@ -1690,8 +1690,8 @@
                 "Gary"
             ]
         },
-        "06ae2462-9f6d-4367-ac27-18d16f2ccb1f": {
-            "id": "06ae2462-9f6d-4367-ac27-18d16f2ccb1f",
+        "4f373019-1d39-452d-a142-47e7bff44639": {
+            "id": "4f373019-1d39-452d-a142-47e7bff44639",
             "chunk_num": 72,
             "page_nums": [
                 14,
@@ -1703,8 +1703,8 @@
                 "Heptapods"
             ]
         },
-        "8eae7d43-3ea1-4a18-81b2-925b82d7073e": {
-            "id": "8eae7d43-3ea1-4a18-81b2-925b82d7073e",
+        "1a330118-adf3-4bd7-ac09-c24f0e66aade": {
+            "id": "1a330118-adf3-4bd7-ac09-c24f0e66aade",
             "chunk_num": 73,
             "page_nums": [
                 15
@@ -1712,8 +1712,8 @@
             "text": "about them.\u201d \u201cSo I take it this means we won\u2019t be able to use their writing to help us learn their spoken language.\u201d I sighed. \u201cYeah, that\u2019s the most immediate implication. But I don\u2019t think we should ignore either Heptapod A or B; we need a two-pronged approach.\u201d I pointed at the screen. \u201cI\u2019ll bet you that learning their two-dimensional grammar will help you when it comes time to learn their mathematical notation.\u201d \u201cYou\u2019ve got a point there. So are we ready to start asking about their mathematics?\u201d \u201cNot yet. We need a better grasp on this writing system before",
             "characters": []
         },
-        "c3e19b40-cc5b-46a7-9a66-0231973b18cc": {
-            "id": "c3e19b40-cc5b-46a7-9a66-0231973b18cc",
+        "d80b2610-0caa-4734-aa79-8bd92b04cb63": {
+            "id": "d80b2610-0caa-4734-aa79-8bd92b04cb63",
             "chunk_num": 74,
             "page_nums": [
                 15
@@ -1726,8 +1726,8 @@
                 "you"
             ]
         },
-        "02a48c86-333d-48ef-af96-5128b6548098": {
-            "id": "02a48c86-333d-48ef-af96-5128b6548098",
+        "55c344ff-6432-4e74-a6cb-e28463cac1cf": {
+            "id": "55c344ff-6432-4e74-a6cb-e28463cac1cf",
             "chunk_num": 75,
             "page_nums": [
                 15
@@ -1738,8 +1738,8 @@
                 "I"
             ]
         },
-        "8e6137a4-b953-4c1c-856f-51969b528503": {
-            "id": "8e6137a4-b953-4c1c-856f-51969b528503",
+        "fe614cae-b3cc-48ae-b7f7-13ecb3e4b614": {
+            "id": "fe614cae-b3cc-48ae-b7f7-13ecb3e4b614",
             "chunk_num": 76,
             "page_nums": [
                 15
@@ -1750,8 +1750,8 @@
                 "you"
             ]
         },
-        "513e4e33-aa6a-4a85-9fb4-207cea6eeb00": {
-            "id": "513e4e33-aa6a-4a85-9fb4-207cea6eeb00",
+        "322e061b-9f98-4dac-a47d-6b3ada3cfcd3": {
+            "id": "322e061b-9f98-4dac-a47d-6b3ada3cfcd3",
             "chunk_num": 77,
             "page_nums": [
                 15,
@@ -1760,8 +1760,8 @@
             "text": "been used in the past; I suggested the term \u201csemagram\u201d instead. It appeared that a semagram corresponded roughly to a written word in human languages: it was meaningful on its own, and in combination with other semagrams 16 could form endless statements. We couldn\u2019t de\ufb01ne it precisely, but then no one had ever satisfactorily de\ufb01ned \u201cword\u201d for human languages either. When it came to sen- tences in Heptapod B, though, things became much more confusing. The language had no written punctuation: Its syntax was indicated in the way the semagrams were combined, and there was no need to indicate the",
             "characters": []
         },
-        "a42cce6e-6850-42fb-a3ce-469b406910fb": {
-            "id": "a42cce6e-6850-42fb-a3ce-469b406910fb",
+        "ca0b1c2b-6584-4068-80d5-b1bc781f371e": {
+            "id": "ca0b1c2b-6584-4068-80d5-b1bc781f371e",
             "chunk_num": 78,
             "page_nums": [
                 16
@@ -1771,8 +1771,8 @@
                 "Heptapod"
             ]
         },
-        "488ef451-5e8d-40ac-be80-6706c70dc63f": {
-            "id": "488ef451-5e8d-40ac-be80-6706c70dc63f",
+        "5108547b-8dea-4972-aecd-9dca6d41529c": {
+            "id": "5108547b-8dea-4972-aecd-9dca6d41529c",
             "chunk_num": 79,
             "page_nums": [
                 16
@@ -1785,8 +1785,8 @@
                 "what\u2019s-her-name"
             ]
         },
-        "490a44bb-1ace-4f1b-82eb-f4d6001b646d": {
-            "id": "490a44bb-1ace-4f1b-82eb-f4d6001b646d",
+        "818b869d-84dc-49b0-9dd6-8e07560cf84e": {
+            "id": "818b869d-84dc-49b0-9dd6-8e07560cf84e",
             "chunk_num": 80,
             "page_nums": [
                 16
@@ -1800,8 +1800,8 @@
                 "me"
             ]
         },
-        "ade9bd09-0529-4c97-933b-942b8cab8af1": {
-            "id": "ade9bd09-0529-4c97-933b-942b8cab8af1",
+        "1aec494c-696b-4e92-93e9-68bc173e5bc8": {
+            "id": "1aec494c-696b-4e92-93e9-68bc173e5bc8",
             "chunk_num": 81,
             "page_nums": [
                 16
@@ -1813,8 +1813,8 @@
                 "My own mother"
             ]
         },
-        "b33391d3-2473-4664-bec3-5dc58a092e8b": {
-            "id": "b33391d3-2473-4664-bec3-5dc58a092e8b",
+        "3a0db6b5-46dc-40fa-bc27-f5cf6b3b39fb": {
+            "id": "3a0db6b5-46dc-40fa-bc27-f5cf6b3b39fb",
             "chunk_num": 82,
             "page_nums": [
                 16,
@@ -1823,8 +1823,8 @@
             "text": "makes you happy, and that\u2019ll be all I ask for. As time went on, the teams at each looking glass began working in earnest on learning heptapod terminology for elementary mathematics and physics. We worked together on presentations, with the linguists focusing on procedure and the physicists focusing on subject matter. The physicists showed us previously devised systems for communicating with aliens, based on mathematics, but those were intended for use over a radio telescope. We reworked them for face-to-face communication. 17 Our teams were successful with basic arithmetic, but we hit a road block with geometry and algebra. We",
             "characters": []
         },
-        "83e38ade-a64a-40db-b1e1-1761a7c34b4d": {
-            "id": "83e38ade-a64a-40db-b1e1-1761a7c34b4d",
+        "6690e4b3-5695-4323-b8b0-cd6c1c498bc7": {
+            "id": "6690e4b3-5695-4323-b8b0-cd6c1c498bc7",
             "chunk_num": 83,
             "page_nums": [
                 17
@@ -1834,8 +1834,8 @@
                 "Heptapods"
             ]
         },
-        "d8b52852-816b-4c10-809a-e18d5a8cc1a9": {
-            "id": "d8b52852-816b-4c10-809a-e18d5a8cc1a9",
+        "02d22537-15ba-483a-9fe0-672c6894dbce": {
+            "id": "02d22537-15ba-483a-9fe0-672c6894dbce",
             "chunk_num": 84,
             "page_nums": [
                 17
@@ -1847,8 +1847,8 @@
                 "Linguists"
             ]
         },
-        "f9a0ecae-630b-43d7-a940-20de67a5ba0c": {
-            "id": "f9a0ecae-630b-43d7-a940-20de67a5ba0c",
+        "81453026-1b47-48de-9a25-5518abdbc97f": {
+            "id": "81453026-1b47-48de-9a25-5518abdbc97f",
             "chunk_num": 85,
             "page_nums": [
                 17
@@ -1856,8 +1856,8 @@
             "text": "progress decoding the grammar of the spoken language, Heptapod A. It didn\u2019t follow the pat- tern of human languages, as expected, but it was comprehensible so far: \ueecaee word order, even to the extent that there was no preferred order for the clauses in a condi- tional statement, in de\ufb01ance of a human language \u201cuniversal.\u201d It also appeared that the heptapods had no objection to many levels of center-embedding of clauses, something that quickly defeated humans. Peculiar, but not impenetrable. Much more interesting were the newly discovered morphological and grammat- ical processes in Heptapod B that were uniquely two-dimensional. Depending",
             "characters": []
         },
-        "d80f7512-b2d6-4f4c-92fb-26c60597b557": {
-            "id": "d80f7512-b2d6-4f4c-92fb-26c60597b557",
+        "244eb249-bdfa-4c24-b331-87307c2c9691": {
+            "id": "244eb249-bdfa-4c24-b331-87307c2c9691",
             "chunk_num": 86,
             "page_nums": [
                 17
@@ -1865,8 +1865,8 @@
             "text": "ical processes in Heptapod B that were uniquely two-dimensional. Depending on a semagram\u2019s declension, in\ufb02ections could be indicated by varying a certain stroke\u2019s cur- vature, or its thickness, or its manner of undulation; or by varying the relative sizes of two radicals, or their relative distance to another radical, or their orientations; or various other means. These were non-segmental graphemes; they couldn\u2019t be isolated \ueecaom the rest of a semagram. And despite how such traits behaved in human writing, these had nothing to do with calligraphic style; their meanings were de\ufb01ned according to a consistent and unambiguous grammar. We regularly",
             "characters": []
         },
-        "9700e89f-ee95-45ed-9667-04fa5cd2506c": {
-            "id": "9700e89f-ee95-45ed-9667-04fa5cd2506c",
+        "9213b543-7d8d-432d-b9b5-8674689d556b": {
+            "id": "9213b543-7d8d-432d-b9b5-8674689d556b",
             "chunk_num": 87,
             "page_nums": [
                 17
@@ -1876,8 +1876,8 @@
                 "Heptapods"
             ]
         },
-        "7d78cd2d-b8c5-471c-ae3c-dd904fb61fd3": {
-            "id": "7d78cd2d-b8c5-471c-ae3c-dd904fb61fd3",
+        "fa97d2c6-128c-4e92-9a17-cefe8782c82d": {
+            "id": "fa97d2c6-128c-4e92-9a17-cefe8782c82d",
             "chunk_num": 88,
             "page_nums": [
                 17,
@@ -1892,8 +1892,8 @@
                 "Mom"
             ]
         },
-        "9c4f3570-2324-4bf1-ae3b-7966cdeb7459": {
-            "id": "9c4f3570-2324-4bf1-ae3b-7966cdeb7459",
+        "f80b00af-0d72-40a6-9d4d-c36c625b4b00": {
+            "id": "f80b00af-0d72-40a6-9d4d-c36c625b4b00",
             "chunk_num": 89,
             "page_nums": [
                 18
@@ -1905,8 +1905,8 @@
                 "Mom"
             ]
         },
-        "44a0e259-06ec-47c2-8ddd-11a1f77ffee0": {
-            "id": "44a0e259-06ec-47c2-8ddd-11a1f77ffee0",
+        "6616dfcd-310e-4812-b9f0-1c5b03919df3": {
+            "id": "6616dfcd-310e-4812-b9f0-1c5b03919df3",
             "chunk_num": 90,
             "page_nums": [
                 18
@@ -1917,8 +1917,8 @@
                 "you"
             ]
         },
-        "286fa025-fc7d-4bed-bc0d-3c734d6fde0e": {
-            "id": "286fa025-fc7d-4bed-bc0d-3c734d6fde0e",
+        "71cfba87-970f-46d9-be38-7396cf1d9105": {
+            "id": "71cfba87-970f-46d9-be38-7396cf1d9105",
             "chunk_num": 91,
             "page_nums": [
                 18
@@ -1926,8 +1926,8 @@
             "text": "about me at all!\u201d It won\u2019t have been that long since you e\u01ccoyed going shopping with me; it will forever astonish me; it will forever astonish me how quickly you grow out of one phase and enter another. Living with you will be like aiming for a moving target; you\u2019ll always be further along than I expect. I looked at the sentence in Heptapod B that I had just written, using simple pen and paper. Like all the sentences I generated myself, this one looked misshapen, like a heptapod-written sentence that had been smashed with a hammer and then inexpertly",
             "characters": []
         },
-        "db221fc9-3eef-44c1-bbc3-978c0dc10ed8": {
-            "id": "db221fc9-3eef-44c1-bbc3-978c0dc10ed8",
+        "786c98e6-6edc-49b8-8deb-527685958268": {
+            "id": "786c98e6-6edc-49b8-8deb-527685958268",
             "chunk_num": 92,
             "page_nums": [
                 18,
@@ -1938,8 +1938,8 @@
                 "Gary"
             ]
         },
-        "9e8fc9a9-63b6-4dbe-b181-f5f1f1b8addd": {
-            "id": "9e8fc9a9-63b6-4dbe-b181-f5f1f1b8addd",
+        "b2c959cd-ab4a-4850-8e77-b85b92ceb0a6": {
+            "id": "b2c959cd-ab4a-4850-8e77-b85b92ceb0a6",
             "chunk_num": 93,
             "page_nums": [
                 18,
@@ -1951,8 +1951,8 @@
                 "I"
             ]
         },
-        "6ecd74b9-307d-4094-808f-cfe2f758c5b2": {
-            "id": "6ecd74b9-307d-4094-808f-cfe2f758c5b2",
+        "3b0b1823-d6bd-4c93-9b0b-89b9374a8517": {
+            "id": "3b0b1823-d6bd-4c93-9b0b-89b9374a8517",
             "chunk_num": 94,
             "page_nums": [
                 19
@@ -1963,8 +1963,8 @@
                 "He"
             ]
         },
-        "17be8795-7213-4f50-a0f5-7921a9ca8984": {
-            "id": "17be8795-7213-4f50-a0f5-7921a9ca8984",
+        "f95beab0-e2e3-4b56-8433-ee11d80f5b20": {
+            "id": "f95beab0-e2e3-4b56-8433-ee11d80f5b20",
             "chunk_num": 95,
             "page_nums": [
                 19
@@ -1974,8 +1974,8 @@
                 "Gary"
             ]
         },
-        "6ec64870-a20b-4872-8392-3c4410fbd60c": {
-            "id": "6ec64870-a20b-4872-8392-3c4410fbd60c",
+        "090fc909-5755-459f-95cd-85ffcafdfec0": {
+            "id": "090fc909-5755-459f-95cd-85ffcafdfec0",
             "chunk_num": 96,
             "page_nums": [
                 19
@@ -1986,8 +1986,8 @@
                 "Heptapods"
             ]
         },
-        "92175e2f-f483-4c59-96d4-c1c19e536232": {
-            "id": "92175e2f-f483-4c59-96d4-c1c19e536232",
+        "f9f17fc9-982a-4552-87c8-ebe68fc5b7d3": {
+            "id": "f9f17fc9-982a-4552-87c8-ebe68fc5b7d3",
             "chunk_num": 97,
             "page_nums": [
                 19
@@ -1997,8 +1997,8 @@
                 "Gary"
             ]
         },
-        "b144f4c0-49e1-40d1-b330-64c6725ffe00": {
-            "id": "b144f4c0-49e1-40d1-b330-64c6725ffe00",
+        "35aca875-2e0f-47f5-92e8-65c280348cfc": {
+            "id": "35aca875-2e0f-47f5-92e8-65c280348cfc",
             "chunk_num": 98,
             "page_nums": [
                 19,
@@ -2007,8 +2007,8 @@
             "text": "describe it mathe- matically. And not ordinary calculus; you need the calculus of variations. We thought that some simple theorem of geometry or algebra would be the breakthrough.\u201d 20 \u201cCurious indeed. You think the heptapods\u2019 idea of what\u2019s simple doesn\u2019t match ours?\u201d \u201cExactly, which is why I\u2019m dying to see what their mathematical description of Fermat\u2019s Principle looks like.\u201d He paced as he talked. \u201cIf their version of the calculus of variations is simpler to them than their equivalent of algebra, that might explain why we\u2019ve had so much trouble talking about physics; their entire system of mathematics may be",
             "characters": []
         },
-        "850f1439-fba2-4d6d-8b60-3886f93bb465": {
-            "id": "850f1439-fba2-4d6d-8b60-3886f93bb465",
+        "8d450c15-6d15-4fff-948e-3810512ef559": {
+            "id": "8d450c15-6d15-4fff-948e-3810512ef559",
             "chunk_num": 99,
             "page_nums": [
                 20
@@ -2019,8 +2019,8 @@
                 "Louise"
             ]
         },
-        "cf4515ce-b939-4e73-842a-147858e742fe": {
-            "id": "cf4515ce-b939-4e73-842a-147858e742fe",
+        "0ddbccce-2b6a-43b0-a530-2ff9b50e7e93": {
+            "id": "0ddbccce-2b6a-43b0-a530-2ff9b50e7e93",
             "chunk_num": 100,
             "page_nums": [
                 20
@@ -2030,8 +2030,8 @@
                 "Fermat"
             ]
         },
-        "500eaecc-3d70-43c1-b2d4-465ee3173dae": {
-            "id": "500eaecc-3d70-43c1-b2d4-465ee3173dae",
+        "66cfdff9-d853-4d03-9935-99a107576719": {
+            "id": "66cfdff9-d853-4d03-9935-99a107576719",
             "chunk_num": 101,
             "page_nums": [
                 20
@@ -2041,8 +2041,8 @@
                 "He"
             ]
         },
-        "fb641602-1046-4b25-b0c3-6b8e15880f03": {
-            "id": "fb641602-1046-4b25-b0c3-6b8e15880f03",
+        "117238ac-55c3-4267-a954-3f1dfa964704": {
+            "id": "117238ac-55c3-4267-a954-3f1dfa964704",
             "chunk_num": 102,
             "page_nums": [
                 20
@@ -2052,8 +2052,8 @@
                 "Louise"
             ]
         },
-        "73dc1534-d21a-4e40-9c3d-5e42b23a3289": {
-            "id": "73dc1534-d21a-4e40-9c3d-5e42b23a3289",
+        "900bec07-50f9-4697-9878-a7a62423eb0c": {
+            "id": "900bec07-50f9-4697-9878-a7a62423eb0c",
             "chunk_num": 103,
             "page_nums": [
                 20,
@@ -2062,8 +2062,8 @@
             "text": "knee, the pain feels like it\u2019s my own. It\u2019ll be like growing an errant limb, an extension of myself whose sensory nerves report pain just \ufb01ne, but whose motor nerves don\u2019t convey my commands at all. It\u2019s so unfair: 21 I\u2019m going to give birth to an animated voodoo doll of myself. I didn\u2019t see this in the contract when I signed up. Was this part of the deal? And then there will be the times when I see you laughing. Like the time you\u2019ll be playing with the neighbor\u2019s puppy, poking your hands through the chain-link fence separating our",
             "characters": []
         },
-        "b846eca3-7ef1-430d-b580-9833d5deddf2": {
-            "id": "b846eca3-7ef1-430d-b580-9833d5deddf2",
+        "b68d982c-44fc-48ba-80ef-f3aa62f1da27": {
+            "id": "b68d982c-44fc-48ba-80ef-f3aa62f1da27",
             "chunk_num": 104,
             "page_nums": [
                 21
@@ -2074,8 +2074,8 @@
                 "you"
             ]
         },
-        "5087b69e-de7d-434d-b6b0-08bac25dfc68": {
-            "id": "5087b69e-de7d-434d-b6b0-08bac25dfc68",
+        "b2ff3c21-6027-41f2-a758-16053e2ffe44": {
+            "id": "b2ff3c21-6027-41f2-a758-16053e2ffe44",
             "chunk_num": 105,
             "page_nums": [
                 21
@@ -2085,8 +2085,8 @@
                 "Gary"
             ]
         },
-        "fd8329a3-3751-479a-b826-6fc873c3ecc7": {
-            "id": "fd8329a3-3751-479a-b826-6fc873c3ecc7",
+        "55e518a1-8da8-47ab-a02c-7d5b4ad6dfbb": {
+            "id": "55e518a1-8da8-47ab-a02c-7d5b4ad6dfbb",
             "chunk_num": 106,
             "page_nums": [
                 21
@@ -2096,8 +2096,8 @@
                 "Gary"
             ]
         },
-        "ce17df74-f8db-40e6-b6d7-f3c386370fb5": {
-            "id": "ce17df74-f8db-40e6-b6d7-f3c386370fb5",
+        "1685ef32-2910-4caf-b333-f1bf35e2b361": {
+            "id": "1685ef32-2910-4caf-b333-f1bf35e2b361",
             "chunk_num": 107,
             "page_nums": [
                 21
@@ -2112,8 +2112,8 @@
                 "Boys"
             ]
         },
-        "6cc06412-329d-4994-a5a4-d2d727b684a0": {
-            "id": "6cc06412-329d-4994-a5a4-d2d727b684a0",
+        "47b14d8f-15ae-4db5-a37a-5e8bcf83a970": {
+            "id": "47b14d8f-15ae-4db5-a37a-5e8bcf83a970",
             "chunk_num": 108,
             "page_nums": [
                 21,
@@ -2126,8 +2126,8 @@
                 "you"
             ]
         },
-        "59717a46-d033-42c8-9922-603607cff0b7": {
-            "id": "59717a46-d033-42c8-9922-603607cff0b7",
+        "9b0d0b1b-135a-4e23-9c43-96bc550dbf92": {
+            "id": "9b0d0b1b-135a-4e23-9c43-96bc550dbf92",
             "chunk_num": 109,
             "page_nums": [
                 22
@@ -2140,8 +2140,8 @@
                 "Mom"
             ]
         },
-        "1a74ee0a-3317-4627-9652-ad3ee6851f3d": {
-            "id": "1a74ee0a-3317-4627-9652-ad3ee6851f3d",
+        "5b6d0989-6763-4889-ba51-8dc96f52eb7c": {
+            "id": "5b6d0989-6763-4889-ba51-8dc96f52eb7c",
             "chunk_num": 110,
             "page_nums": [
                 22
@@ -2152,8 +2152,8 @@
                 "Cisneros"
             ]
         },
-        "aafbddaa-ce5a-4514-9859-52045f472e5a": {
-            "id": "aafbddaa-ce5a-4514-9859-52045f472e5a",
+        "8a9cdfb6-5fb3-406c-a31e-eb2963a750b5": {
+            "id": "8a9cdfb6-5fb3-406c-a31e-eb2963a750b5",
             "chunk_num": 111,
             "page_nums": [
                 22
@@ -2164,8 +2164,8 @@
                 "Raspberry"
             ]
         },
-        "ce6f20e5-b29d-45b2-869c-7399a777203f": {
-            "id": "ce6f20e5-b29d-45b2-869c-7399a777203f",
+        "08a8e6d6-caa0-4428-9882-3b89446e7eec": {
+            "id": "08a8e6d6-caa0-4428-9882-3b89446e7eec",
             "chunk_num": 112,
             "page_nums": [
                 22
@@ -2176,8 +2176,8 @@
                 "Raspberry"
             ]
         },
-        "a320bea2-0aac-460f-8c5d-4b38d16f4a95": {
-            "id": "a320bea2-0aac-460f-8c5d-4b38d16f4a95",
+        "7cba85a0-e4f4-43c9-930b-461e9ef109e0": {
+            "id": "7cba85a0-e4f4-43c9-930b-461e9ef109e0",
             "chunk_num": 113,
             "page_nums": [
                 22
@@ -2185,8 +2185,8 @@
             "text": "atmosphere were nitrogen, argon, and oxygen; and \ufb01\ueecbeen twenty-eighths of the planet\u2019s surface was covered by water. The \ufb01rst words of the spoken utterance translated literally as \u201cinequality-of-size rocky- orbiter rocky-orbiters related-as-primary- to-secondary.\u201d Then I rewound the videotape until the time signature matched the one in the transcription. I started playing the tape, and watched the web of semagrams being spun out of inky spider\u2019s silk. I rewound it and played it several times. Finally I \ueecaoze the video right a\ueecber the \ufb01rst stroke was completed and before the second one was begun; all that was visible onscreen was a",
             "characters": []
         },
-        "768a2a3a-ab88-4d95-8651-8ea950556dca": {
-            "id": "768a2a3a-ab88-4d95-8651-8ea950556dca",
+        "485bf68b-650a-4f6b-a169-7c062e107eec": {
+            "id": "485bf68b-650a-4f6b-a169-7c062e107eec",
             "chunk_num": 114,
             "page_nums": [
                 22,
@@ -2197,8 +2197,8 @@
                 "Flapper"
             ]
         },
-        "6f818e0b-d754-4c42-a474-9d8c037da411": {
-            "id": "6f818e0b-d754-4c42-a474-9d8c037da411",
+        "4f71da4e-c31c-407d-a60a-1b398ac0be78": {
+            "id": "4f71da4e-c31c-407d-a60a-1b398ac0be78",
             "chunk_num": 115,
             "page_nums": [
                 23
@@ -2209,8 +2209,8 @@
                 "Heptapod"
             ]
         },
-        "07f20383-abe5-42f4-8064-fe78f3b97d46": {
-            "id": "07f20383-abe5-42f4-8064-fe78f3b97d46",
+        "1ad3060e-64d4-473f-8638-af3ecaa1d747": {
+            "id": "1ad3060e-64d4-473f-8638-af3ecaa1d747",
             "chunk_num": 116,
             "page_nums": [
                 23
@@ -2221,8 +2221,8 @@
                 "\ueecaiend"
             ]
         },
-        "45195bef-a593-4288-8e55-3dfcc22d8598": {
-            "id": "45195bef-a593-4288-8e55-3dfcc22d8598",
+        "49ad5b34-b2a2-4eef-bb51-0f85f1fb85fb": {
+            "id": "49ad5b34-b2a2-4eef-bb51-0f85f1fb85fb",
             "chunk_num": 117,
             "page_nums": [
                 23
@@ -2234,8 +2234,8 @@
                 "I"
             ]
         },
-        "f5bc9dbf-9714-49bb-b2cf-8a9336f26d6d": {
-            "id": "f5bc9dbf-9714-49bb-b2cf-8a9336f26d6d",
+        "344d5a7f-2d6a-4571-8aac-593f7ff23172": {
+            "id": "344d5a7f-2d6a-4571-8aac-593f7ff23172",
             "chunk_num": 118,
             "page_nums": [
                 23
@@ -2246,8 +2246,8 @@
                 "He"
             ]
         },
-        "7ecc8fd0-17df-4c79-b69c-dd7d7d5196e3": {
-            "id": "7ecc8fd0-17df-4c79-b69c-dd7d7d5196e3",
+        "a3bb1e01-16e7-4a88-a5c0-cc6adc898aa4": {
+            "id": "a3bb1e01-16e7-4a88-a5c0-cc6adc898aa4",
             "chunk_num": 119,
             "page_nums": [
                 23,
@@ -2258,8 +2258,8 @@
                 "Gary"
             ]
         },
-        "09845b5b-07ab-4e9e-a325-8d608ca3a6da": {
-            "id": "09845b5b-07ab-4e9e-a325-8d608ca3a6da",
+        "2e193ab9-49f0-49db-866c-69202bf00e6a": {
+            "id": "2e193ab9-49f0-49db-866c-69202bf00e6a",
             "chunk_num": 120,
             "page_nums": [
                 24
@@ -2267,8 +2267,8 @@
             "text": "water\u2019s surface is the cause, and the change in direction is the e\ufb00ect. But Fermat\u2019s Principle sounds weird because it describes light\u2019s behavior in goal-oriented terms. It sounds like a commandment to a light beam: \u2018Thou shalt minimize or maximize the time taken to reach thy destination.\u2019\u201d I considered it. \u201cGo on.\u201d \u201cIt\u2019s an old question in the philosophy of physics. People have been talking about it since Fermat \ufb01rst formulated it in the 1600s; Planck wrote volumes about it. The thing is, while the common formulation of physical laws is causal, a variational principle like Fermat\u2019s is purposive, almost",
             "characters": []
         },
-        "c4518354-859d-45bb-bcce-d3c4fe679812": {
-            "id": "c4518354-859d-45bb-bcce-d3c4fe679812",
+        "706b5079-b9ef-47fb-a113-aa30e60ccc36": {
+            "id": "706b5079-b9ef-47fb-a113-aa30e60ccc36",
             "chunk_num": 121,
             "page_nums": [
                 24
@@ -2278,8 +2278,8 @@
                 "Gary"
             ]
         },
-        "ac8b14e1-0f83-4c93-909f-ed0817088749": {
-            "id": "ac8b14e1-0f83-4c93-909f-ed0817088749",
+        "abdc8d13-37d0-4af4-a9bf-ef8b959b832a": {
+            "id": "abdc8d13-37d0-4af4-a9bf-ef8b959b832a",
             "chunk_num": 122,
             "page_nums": [
                 24
@@ -2289,8 +2289,8 @@
                 "Gary"
             ]
         },
-        "409c51c9-3a08-41ca-95ee-cac8653cfcd6": {
-            "id": "409c51c9-3a08-41ca-95ee-cac8653cfcd6",
+        "139d75ff-2e78-4030-a05f-3ab90d2b0859": {
+            "id": "139d75ff-2e78-4030-a05f-3ab90d2b0859",
             "chunk_num": 123,
             "page_nums": [
                 24
@@ -2300,8 +2300,8 @@
                 "Gary"
             ]
         },
-        "82286ce1-d679-4293-85f6-d96b3f17e574": {
-            "id": "82286ce1-d679-4293-85f6-d96b3f17e574",
+        "357e0ffe-508a-4949-b07f-14b65eeaa504": {
+            "id": "357e0ffe-508a-4949-b07f-14b65eeaa504",
             "chunk_num": 124,
             "page_nums": [
                 24,
@@ -2314,8 +2314,8 @@
                 "Dad"
             ]
         },
-        "167af14d-5653-455a-a68b-a455465e05c7": {
-            "id": "167af14d-5653-455a-a68b-a455465e05c7",
+        "6d122e4b-df15-4227-995f-6e5ecdd6ecff": {
+            "id": "6d122e4b-df15-4227-995f-6e5ecdd6ecff",
             "chunk_num": 125,
             "page_nums": [
                 25
@@ -2325,8 +2325,8 @@
                 "Dad"
             ]
         },
-        "bc759be5-f9fc-4a91-9e68-004b7602eda7": {
-            "id": "bc759be5-f9fc-4a91-9e68-004b7602eda7",
+        "3f77d588-9cc3-4006-be5f-0eedd5e979ff": {
+            "id": "3f77d588-9cc3-4006-be5f-0eedd5e979ff",
             "chunk_num": 126,
             "page_nums": [
                 25
@@ -2339,8 +2339,8 @@
                 "Mom"
             ]
         },
-        "0df8dd3d-e5a3-48f8-a0eb-7556e044fdff": {
-            "id": "0df8dd3d-e5a3-48f8-a0eb-7556e044fdff",
+        "629de05a-4b73-4d9a-8d44-b55a4d4449b3": {
+            "id": "629de05a-4b73-4d9a-8d44-b55a4d4449b3",
             "chunk_num": 127,
             "page_nums": [
                 25
@@ -2351,8 +2351,8 @@
                 "I"
             ]
         },
-        "cab8a86c-d339-435b-83d2-80170ad26336": {
-            "id": "cab8a86c-d339-435b-83d2-80170ad26336",
+        "e505fc6e-c545-42da-9f2f-b19592fbae91": {
+            "id": "e505fc6e-c545-42da-9f2f-b19592fbae91",
             "chunk_num": 128,
             "page_nums": [
                 25
@@ -2362,8 +2362,8 @@
                 "Heptapod B"
             ]
         },
-        "a38439f8-954e-4f13-bd5d-76c3fad2533e": {
-            "id": "a38439f8-954e-4f13-bd5d-76c3fad2533e",
+        "6f6f8e6b-66e8-4b60-b67d-1ce33fa1c9f6": {
+            "id": "6f6f8e6b-66e8-4b60-b67d-1ce33fa1c9f6",
             "chunk_num": 129,
             "page_nums": [
                 25,
@@ -2375,8 +2375,8 @@
                 "he"
             ]
         },
-        "75b1a90e-71c0-4134-aa55-e8e3ea9d3ba7": {
-            "id": "75b1a90e-71c0-4134-aa55-e8e3ea9d3ba7",
+        "5e3e3de8-8428-49c7-a9d3-66a35c9130b2": {
+            "id": "5e3e3de8-8428-49c7-a9d3-66a35c9130b2",
             "chunk_num": 130,
             "page_nums": [
                 26
@@ -2384,8 +2384,8 @@
             "text": "like to have one\u2019s thoughts be manually coded, to reason using an inner pair of hands instead of an inner voice. With Heptapod B, I was experiencing something just as foreign: my thoughts were becoming graphically coded. There were trance-like moments during the day when my thoughts weren\u2019t expressed with my internal voice; instead, I saw semagrams with my mind\u2019s eye, sprouting like \ueecaost on a windowpane. As I grew more \ufb02uent, semagraphic designs would appear fully-formed, articulat- ing even complex ideas all at once. My thought processes weren\u2019t moving any faster as a result, though. Instead of racing forward,",
             "characters": []
         },
-        "57a2879f-5e50-4580-b8e3-02993b27b7d0": {
-            "id": "57a2879f-5e50-4580-b8e3-02993b27b7d0",
+        "a8ab577e-ee5f-4773-94ae-2c761da51bf8": {
+            "id": "a8ab577e-ee5f-4773-94ae-2c761da51bf8",
             "chunk_num": 131,
             "page_nums": [
                 26
@@ -2395,8 +2395,8 @@
                 "Hossner"
             ]
         },
-        "119e6328-d348-4c61-955b-163fd1e74607": {
-            "id": "119e6328-d348-4c61-955b-163fd1e74607",
+        "d95ab694-6746-47c5-8850-7b896c77b754": {
+            "id": "d95ab694-6746-47c5-8850-7b896c77b754",
             "chunk_num": 132,
             "page_nums": [
                 26
@@ -2407,8 +2407,8 @@
                 "Gary"
             ]
         },
-        "629d1b88-641d-4414-92f3-c8a960d676d0": {
-            "id": "629d1b88-641d-4414-92f3-c8a960d676d0",
+        "95ec26e1-0f12-417f-a186-0986817354af": {
+            "id": "95ec26e1-0f12-417f-a186-0986817354af",
             "chunk_num": 133,
             "page_nums": [
                 26
@@ -2418,8 +2418,8 @@
                 "God"
             ]
         },
-        "7e434856-bef8-4148-9170-eb0608acbab2": {
-            "id": "7e434856-bef8-4148-9170-eb0608acbab2",
+        "4feb5eb1-4bda-4675-bf3e-1de0f706ceca": {
+            "id": "4feb5eb1-4bda-4675-bf3e-1de0f706ceca",
             "chunk_num": 134,
             "page_nums": [
                 26,
@@ -2431,8 +2431,8 @@
                 "Heptapods"
             ]
         },
-        "3e78adc9-2566-4633-ae82-ce18eae3dcd4": {
-            "id": "3e78adc9-2566-4633-ae82-ce18eae3dcd4",
+        "c7a16afc-ad50-49f6-bd07-a5b51618e275": {
+            "id": "c7a16afc-ad50-49f6-bd07-a5b51618e275",
             "chunk_num": 135,
             "page_nums": [
                 27
@@ -2446,8 +2446,8 @@
                 "Mr. Hossner"
             ]
         },
-        "a0707b23-f94d-4336-b02c-abe3a0df8148": {
-            "id": "a0707b23-f94d-4336-b02c-abe3a0df8148",
+        "313103a4-2eea-4468-b565-c6af0236491b": {
+            "id": "313103a4-2eea-4468-b565-c6af0236491b",
             "chunk_num": 136,
             "page_nums": [
                 27
@@ -2459,8 +2459,8 @@
                 "Burghart"
             ]
         },
-        "c3d892e8-2817-4e7e-87a9-168d88c1d177": {
-            "id": "c3d892e8-2817-4e7e-87a9-168d88c1d177",
+        "95b9ac0a-a7e4-4a0e-ab40-f4468f061889": {
+            "id": "95b9ac0a-a7e4-4a0e-ab40-f4468f061889",
             "chunk_num": 137,
             "page_nums": [
                 27
@@ -2472,8 +2472,8 @@
                 "Burghart"
             ]
         },
-        "9ca1391a-d580-4077-96d5-10096fe149ce": {
-            "id": "9ca1391a-d580-4077-96d5-10096fe149ce",
+        "67b708a7-4d20-4da5-980c-bab461129d94": {
+            "id": "67b708a7-4d20-4da5-980c-bab461129d94",
             "chunk_num": 138,
             "page_nums": [
                 27
@@ -2483,8 +2483,8 @@
                 "Gary"
             ]
         },
-        "a82f1820-3e8b-4a2d-9e47-a0603765a5cf": {
-            "id": "a82f1820-3e8b-4a2d-9e47-a0603765a5cf",
+        "13588df7-2e5f-4af4-b78d-6eb57607728f": {
+            "id": "13588df7-2e5f-4af4-b78d-6eb57607728f",
             "chunk_num": 139,
             "page_nums": [
                 27,
@@ -2493,8 +2493,8 @@
             "text": "given moment in time. And these were conductive to a chronological, causal interpretation 28 of events: one moment growing out of another, causes and e\ufb00ects created a chain reaction that grew \ueecaom past to future. In contrast, the physical attributes that the heptapods found intuitive, like \u201caction\u201d or those other things de\ufb01ned by integrals, were meaningful only over a period of time. And these were conductive to a teleological interpretation of events: by viewing events over a period of time, one recognized that there was a requirement that had to be satis\ufb01ed, a goal of minimizing or maximizing. And one",
             "characters": []
         },
-        "d03d9629-9549-41d3-859d-eee6fe9416a0": {
-            "id": "d03d9629-9549-41d3-859d-eee6fe9416a0",
+        "2e58fb7c-6c4b-4522-97e6-21304452f3f8": {
+            "id": "2e58fb7c-6c4b-4522-97e6-21304452f3f8",
             "chunk_num": 140,
             "page_nums": [
                 28
@@ -2505,8 +2505,8 @@
                 "you"
             ]
         },
-        "a43d3c69-2ca8-43eb-a4e2-10aa6a2eb9ab": {
-            "id": "a43d3c69-2ca8-43eb-a4e2-10aa6a2eb9ab",
+        "814ada17-0292-422b-a707-6960ba7d6d10": {
+            "id": "814ada17-0292-422b-a707-6960ba7d6d10",
             "chunk_num": 141,
             "page_nums": [
                 28
@@ -2517,8 +2517,8 @@
                 "Child"
             ]
         },
-        "6af3248f-aceb-4c66-b449-2869271b5d0e": {
-            "id": "6af3248f-aceb-4c66-b449-2869271b5d0e",
+        "6418e381-a0ca-41ab-adbb-9d78aac94a87": {
+            "id": "6418e381-a0ca-41ab-adbb-9d78aac94a87",
             "chunk_num": 142,
             "page_nums": [
                 28
@@ -2528,8 +2528,8 @@
                 "Gary"
             ]
         },
-        "cadae330-3418-48c9-9104-c821feb662f2": {
-            "id": "cadae330-3418-48c9-9104-c821feb662f2",
+        "44842350-ff19-4c17-a12f-aff74ebfbdd4": {
+            "id": "44842350-ff19-4c17-a12f-aff74ebfbdd4",
             "chunk_num": 143,
             "page_nums": [
                 28
@@ -2540,8 +2540,8 @@
                 "she"
             ]
         },
-        "c8f598f1-e3d4-41a6-8d04-ceb55bbb4dbf": {
-            "id": "c8f598f1-e3d4-41a6-8d04-ceb55bbb4dbf",
+        "68c338d8-d605-4d82-8fba-cd37af339c32": {
+            "id": "68c338d8-d605-4d82-8fba-cd37af339c32",
             "chunk_num": 144,
             "page_nums": [
                 28,
@@ -2552,8 +2552,8 @@
                 "her"
             ]
         },
-        "d23f072b-96ec-4511-9e84-8250cc7426f5": {
-            "id": "d23f072b-96ec-4511-9e84-8250cc7426f5",
+        "09e06d6b-aa72-4953-9d94-ec4d74c3e4eb": {
+            "id": "09e06d6b-aa72-4953-9d94-ec4d74c3e4eb",
             "chunk_num": 145,
             "page_nums": [
                 29
@@ -2563,8 +2563,8 @@
                 "her"
             ]
         },
-        "a20a8bbd-a574-4f83-ac69-551bace8b876": {
-            "id": "a20a8bbd-a574-4f83-ac69-551bace8b876",
+        "c46fdfc8-093a-4e2d-8e3c-ac535ed4dffa": {
+            "id": "c46fdfc8-093a-4e2d-8e3c-ac535ed4dffa",
             "chunk_num": 146,
             "page_nums": [
                 29
@@ -2575,8 +2575,8 @@
                 "\ueecaee"
             ]
         },
-        "7df22863-6c4e-4214-844a-29d906a6d8b3": {
-            "id": "7df22863-6c4e-4214-844a-29d906a6d8b3",
+        "47549de4-c23f-4f74-8d1b-61da8d0b268f": {
+            "id": "47549de4-c23f-4f74-8d1b-61da8d0b268f",
             "chunk_num": 147,
             "page_nums": [
                 29
@@ -2586,8 +2586,8 @@
                 "Gary"
             ]
         },
-        "9d898ba7-e838-4041-8f4a-76ed54ca43ef": {
-            "id": "9d898ba7-e838-4041-8f4a-76ed54ca43ef",
+        "873fd072-0fba-4413-8c28-ff1c2dd86bcc": {
+            "id": "873fd072-0fba-4413-8c28-ff1c2dd86bcc",
             "chunk_num": 148,
             "page_nums": [
                 29
@@ -2598,8 +2598,8 @@
                 "I"
             ]
         },
-        "47529c90-e48e-48c8-b4e8-f64900c3efb1": {
-            "id": "47529c90-e48e-48c8-b4e8-f64900c3efb1",
+        "4eb01ef3-8021-4c82-a340-21e04fe558ca": {
+            "id": "4eb01ef3-8021-4c82-a340-21e04fe558ca",
             "chunk_num": 149,
             "page_nums": [
                 29,
@@ -2610,8 +2610,8 @@
                 "Gary"
             ]
         },
-        "e42865ca-a2c7-479a-bcf9-dc6dd9442586": {
-            "id": "e42865ca-a2c7-479a-bcf9-dc6dd9442586",
+        "ff5dfca5-e6fc-49ce-8608-8beca9112b5d": {
+            "id": "ff5dfca5-e6fc-49ce-8608-8beca9112b5d",
             "chunk_num": 150,
             "page_nums": [
                 30
@@ -2623,8 +2623,8 @@
                 "your father"
             ]
         },
-        "80fc01ac-c3f5-49c9-ad57-df25887a1188": {
-            "id": "80fc01ac-c3f5-49c9-ad57-df25887a1188",
+        "bdf9f12e-91e4-47e4-817b-113df77da051": {
+            "id": "bdf9f12e-91e4-47e4-817b-113df77da051",
             "chunk_num": 151,
             "page_nums": [
                 30
@@ -2634,8 +2634,8 @@
                 "Gary"
             ]
         },
-        "16ef7b0b-b4bc-40ea-b5e0-9d1826c598f2": {
-            "id": "16ef7b0b-b4bc-40ea-b5e0-9d1826c598f2",
+        "66c9b93f-77d5-4dd6-9b0b-a3f73d75a7c5": {
+            "id": "66c9b93f-77d5-4dd6-9b0b-a3f73d75a7c5",
             "chunk_num": 152,
             "page_nums": [
                 30
@@ -2647,8 +2647,8 @@
                 "Mother"
             ]
         },
-        "d3d64d87-17fb-487b-a4ee-4aaefb12a141": {
-            "id": "d3d64d87-17fb-487b-a4ee-4aaefb12a141",
+        "843087f4-ea5f-4d26-b557-e4030e288ec6": {
+            "id": "843087f4-ea5f-4d26-b557-e4030e288ec6",
             "chunk_num": 153,
             "page_nums": [
                 30
@@ -2659,8 +2659,8 @@
                 "Heptapods"
             ]
         },
-        "d1cf1b18-5a83-477f-82e7-949ee49169ed": {
-            "id": "d1cf1b18-5a83-477f-82e7-949ee49169ed",
+        "253b0a8a-ef89-427b-974d-13ef422f34d5": {
+            "id": "253b0a8a-ef89-427b-974d-13ef422f34d5",
             "chunk_num": 154,
             "page_nums": [
                 30,
@@ -2672,8 +2672,8 @@
                 "Heptapods"
             ]
         },
-        "f1d0339f-8f9a-47e8-8069-81de217842fc": {
-            "id": "f1d0339f-8f9a-47e8-8069-81de217842fc",
+        "5f42627b-6d8c-48f7-80cb-6d05fc3d519f": {
+            "id": "5f42627b-6d8c-48f7-80cb-6d05fc3d519f",
             "chunk_num": 155,
             "page_nums": [
                 31
@@ -2684,8 +2684,8 @@
                 "you"
             ]
         },
-        "2ba3da98-58d0-421f-96d0-4725f53d5e63": {
-            "id": "2ba3da98-58d0-421f-96d0-4725f53d5e63",
+        "73a550da-10d0-434c-ade3-39eb90fd0977": {
+            "id": "73a550da-10d0-434c-ade3-39eb90fd0977",
             "chunk_num": 156,
             "page_nums": [
                 31
@@ -2696,8 +2696,8 @@
                 "you"
             ]
         },
-        "d1b25572-7ff5-4a95-a532-a3228c314157": {
-            "id": "d1b25572-7ff5-4a95-a532-a3228c314157",
+        "eff5b83a-0397-48cf-ad77-f1a6c93465e1": {
+            "id": "eff5b83a-0397-48cf-ad77-f1a6c93465e1",
             "chunk_num": 157,
             "page_nums": [
                 31
@@ -2707,8 +2707,8 @@
                 "Gary"
             ]
         },
-        "398dcaf1-a3b4-40fb-a81b-866b9bb30c30": {
-            "id": "398dcaf1-a3b4-40fb-a81b-866b9bb30c30",
+        "3d47c000-385a-46e1-a055-fc61167dbdb3": {
+            "id": "3d47c000-385a-46e1-a055-fc61167dbdb3",
             "chunk_num": 158,
             "page_nums": [
                 31
@@ -2719,8 +2719,8 @@
                 "you"
             ]
         },
-        "1c78dc27-f561-40ed-9713-0472b0e3a41e": {
-            "id": "1c78dc27-f561-40ed-9713-0472b0e3a41e",
+        "bd3d09cb-43f9-4ee1-bffc-91e666ff10f7": {
+            "id": "bd3d09cb-43f9-4ee1-bffc-91e666ff10f7",
             "chunk_num": 159,
             "page_nums": [
                 31,
@@ -2731,8 +2731,8 @@
                 "I"
             ]
         },
-        "453e6469-d952-4a87-9070-42a586f8d6c6": {
-            "id": "453e6469-d952-4a87-9070-42a586f8d6c6",
+        "8839b083-58c7-44fa-a3af-0dc6fc69f69b": {
+            "id": "8839b083-58c7-44fa-a3af-0dc6fc69f69b",
             "chunk_num": 160,
             "page_nums": [
                 32
@@ -2740,8 +2740,8 @@
             "text": "system like Heptapod B; it was better suited for a species with a simultaneous mode of consciousness. For them, speech was a bottleneck because it required that one word follow another sequentially. With writing, on the other hand, every mark on a page was visible simultaneously. Why constrain writing with a glottographic straitjacket, demanding that it be just as sequential as speech? It would never occur to them. Semasiographic writing naturally took advantage of the page\u2019s two-dimensionality; instead of doling out morphemes one at a time, it o\ufb00ered an entire page full of them all at once. And now that",
             "characters": []
         },
-        "71eaf12e-9ea9-4ee8-b04a-b5f44f299279": {
-            "id": "71eaf12e-9ea9-4ee8-b04a-b5f44f299279",
+        "d044b9b1-4d6d-445a-8848-f48717117015": {
+            "id": "d044b9b1-4d6d-445a-8848-f48717117015",
             "chunk_num": 161,
             "page_nums": [
                 32
@@ -2754,8 +2754,8 @@
                 "Colonel Weber"
             ]
         },
-        "433ca7b1-6045-40dd-97c7-47e27513f44f": {
-            "id": "433ca7b1-6045-40dd-97c7-47e27513f44f",
+        "c1224351-45de-47bd-af1a-33325bc3e763": {
+            "id": "c1224351-45de-47bd-af1a-33325bc3e763",
             "chunk_num": 162,
             "page_nums": [
                 32
@@ -2768,8 +2768,8 @@
                 "Gary"
             ]
         },
-        "00f645a2-8fb3-422c-9f2a-b23055144531": {
-            "id": "00f645a2-8fb3-422c-9f2a-b23055144531",
+        "f85e8521-677d-4bf8-a14d-00e493b2adea": {
+            "id": "f85e8521-677d-4bf8-a14d-00e493b2adea",
             "chunk_num": 163,
             "page_nums": [
                 32
@@ -2780,8 +2780,8 @@
                 "you"
             ]
         },
-        "ef15cab1-c596-48a3-8916-868adca7badc": {
-            "id": "ef15cab1-c596-48a3-8916-868adca7badc",
+        "59b7942e-57aa-4227-b4a2-923a55961dcc": {
+            "id": "59b7942e-57aa-4227-b4a2-923a55961dcc",
             "chunk_num": 164,
             "page_nums": [
                 32,
@@ -2792,8 +2792,8 @@
                 "you"
             ]
         },
-        "7ab7504f-5310-4cac-aef7-889a34c7adc5": {
-            "id": "7ab7504f-5310-4cac-aef7-889a34c7adc5",
+        "f28dd861-86a2-480c-8719-9b661bb5a2b5": {
+            "id": "f28dd861-86a2-480c-8719-9b661bb5a2b5",
             "chunk_num": 165,
             "page_nums": [
                 33
@@ -2804,8 +2804,8 @@
                 "I"
             ]
         },
-        "f0d4ca96-ec9b-4390-be14-71a2f684d955": {
-            "id": "f0d4ca96-ec9b-4390-be14-71a2f684d955",
+        "dde78a57-7acf-4fc8-8a1c-22daa1f6221f": {
+            "id": "dde78a57-7acf-4fc8-8a1c-22daa1f6221f",
             "chunk_num": 166,
             "page_nums": [
                 33
@@ -2815,8 +2815,8 @@
                 "Heptapods"
             ]
         },
-        "09f45581-e624-42ed-bc0d-c4928543fe20": {
-            "id": "09f45581-e624-42ed-bc0d-c4928543fe20",
+        "b8bc0652-14f4-4ae9-a2ff-6e0fbc4d0214": {
+            "id": "b8bc0652-14f4-4ae9-a2ff-6e0fbc4d0214",
             "chunk_num": 167,
             "page_nums": [
                 33
@@ -2824,8 +2824,8 @@
             "text": "not meaningful, but neither is coercion; it\u2019s simply a di\ufb00erent context, no more or less valid than the other. It\u2019s like that famous optical illusion, the drawing of either an elegant young woman, face turned away \ueecaom the viewer, or a wart-nosed crone, chin tucked down on her chest. There\u2019s no \u201ccorrect\u201d interpretation; both are equally valid. But you can\u2019t see both at the same time. Similarly, knowledge of the future was incompatible with \ueecaee will. What made it possible for me to exercise \ueecaeedom of choice also made it impossible for me to know the future. Conversely, now that",
             "characters": []
         },
-        "d0632ce7-57ad-4331-b3bc-3e6b8a8bb925": {
-            "id": "d0632ce7-57ad-4331-b3bc-3e6b8a8bb925",
+        "14dcb2e7-d831-4df3-96ca-583508600c2b": {
+            "id": "14dcb2e7-d831-4df3-96ca-583508600c2b",
             "chunk_num": 168,
             "page_nums": [
                 33
@@ -2835,8 +2835,8 @@
                 "Burghart"
             ]
         },
-        "e94ef37d-14b3-4097-b992-5f9e107918a2": {
-            "id": "e94ef37d-14b3-4097-b992-5f9e107918a2",
+        "d348d9b3-806e-4095-aa84-dfcb1e089a69": {
+            "id": "d348d9b3-806e-4095-aa84-dfcb1e089a69",
             "chunk_num": 169,
             "page_nums": [
                 33
@@ -2846,8 +2846,8 @@
                 "Heptapods"
             ]
         },
-        "f4d14da5-03f0-467f-ba5b-55a92192cc6f": {
-            "id": "f4d14da5-03f0-467f-ba5b-55a92192cc6f",
+        "e05bbdc7-cc13-499b-9df0-1dc1a8ae0b85": {
+            "id": "e05bbdc7-cc13-499b-9df0-1dc1a8ae0b85",
             "chunk_num": 170,
             "page_nums": [
                 33,
@@ -2858,8 +2858,8 @@
                 "Heptapods"
             ]
         },
-        "a9011eeb-f5e8-4c19-97ac-6b6b813aa960": {
-            "id": "a9011eeb-f5e8-4c19-97ac-6b6b813aa960",
+        "72c83da1-889e-4d0b-a6c1-fc57d3d3a4ed": {
+            "id": "72c83da1-889e-4d0b-a6c1-fc57d3d3a4ed",
             "chunk_num": 171,
             "page_nums": [
                 34
@@ -2871,8 +2871,8 @@
                 "Mama Bear"
             ]
         },
-        "94f1b1e1-5131-418f-b652-c7db4579973a": {
-            "id": "94f1b1e1-5131-418f-b652-c7db4579973a",
+        "aacf6462-21c0-40b4-b72a-0252b1974c50": {
+            "id": "aacf6462-21c0-40b4-b72a-0252b1974c50",
             "chunk_num": 172,
             "page_nums": [
                 34
@@ -2883,8 +2883,8 @@
                 "Weber"
             ]
         },
-        "f97088b2-ea04-4f5d-9603-7dd60d2b8b2b": {
-            "id": "f97088b2-ea04-4f5d-9603-7dd60d2b8b2b",
+        "5db67c3e-957f-4527-b3b4-97d665f046de": {
+            "id": "5db67c3e-957f-4527-b3b4-97d665f046de",
             "chunk_num": 173,
             "page_nums": [
                 34
@@ -2894,8 +2894,8 @@
                 "Colonel Weber"
             ]
         },
-        "6e9ca5da-85aa-449d-b6ec-64ec8acc62eb": {
-            "id": "6e9ca5da-85aa-449d-b6ec-64ec8acc62eb",
+        "fd30de42-bd8a-44c5-8abb-48538dbf2b81": {
+            "id": "fd30de42-bd8a-44c5-8abb-48538dbf2b81",
             "chunk_num": 174,
             "page_nums": [
                 34,
@@ -2906,8 +2906,8 @@
                 "Colonel Weber"
             ]
         },
-        "35fbd59d-38c4-4937-9e2c-a686881b5bba": {
-            "id": "35fbd59d-38c4-4937-9e2c-a686881b5bba",
+        "bbc57080-2126-453d-bd57-9cab673ca6e1": {
+            "id": "bbc57080-2126-453d-bd57-9cab673ca6e1",
             "chunk_num": 175,
             "page_nums": [
                 35
@@ -2919,8 +2919,8 @@
                 "Colonel Weber"
             ]
         },
-        "a60499af-81bf-4cdd-8372-2acb214b42d1": {
-            "id": "a60499af-81bf-4cdd-8372-2acb214b42d1",
+        "02552d92-ebce-44f5-a90a-af9b823cc471": {
+            "id": "02552d92-ebce-44f5-a90a-af9b823cc471",
             "chunk_num": 176,
             "page_nums": [
                 35
@@ -2931,8 +2931,8 @@
                 "Weber"
             ]
         },
-        "971ef276-bf86-4ba3-a688-c8ce84868b28": {
-            "id": "971ef276-bf86-4ba3-a688-c8ce84868b28",
+        "10bbb36e-8b05-4d6f-86ce-10121021f634": {
+            "id": "10bbb36e-8b05-4d6f-86ce-10121021f634",
             "chunk_num": 177,
             "page_nums": [
                 35
@@ -2942,8 +2942,8 @@
                 "Colonel"
             ]
         },
-        "16c810ee-07c1-4594-a030-2f1ca634970f": {
-            "id": "16c810ee-07c1-4594-a030-2f1ca634970f",
+        "132e77c1-1cd8-455a-85f2-815f15255d2e": {
+            "id": "132e77c1-1cd8-455a-85f2-815f15255d2e",
             "chunk_num": 178,
             "page_nums": [
                 35
@@ -2951,8 +2951,8 @@
             "text": "mold of human, sequential languages, and no amount of immersion in an alien language can completely reshape it. My world-view is an amalgam of human and heptapod. Before I learned how to think in Heptapod B, my memories grew like a col- umn of cigarette ash, laid down by the in\ufb01nitesimal sliver of combustion that was my consciousness, marking the sequential present. A\ueecber I learned Heptapod B, new memories fell into place like gigantic blocks, each one measuring years in duration, and though they didn\u2019t arrive in order or land contiguously, they soon composed a period of \ufb01ve decades. It",
             "characters": []
         },
-        "1aae787e-b0d2-4d99-b207-aad512c34c34": {
-            "id": "1aae787e-b0d2-4d99-b207-aad512c34c34",
+        "026ddc7c-b498-427e-8349-9c06cacc7dcc": {
+            "id": "026ddc7c-b498-427e-8349-9c06cacc7dcc",
             "chunk_num": 179,
             "page_nums": [
                 35,
@@ -2964,8 +2964,8 @@
                 "Raspberry"
             ]
         },
-        "93e6865a-3726-4e45-ab73-c7da59c01bcd": {
-            "id": "93e6865a-3726-4e45-ab73-c7da59c01bcd",
+        "e6702676-333b-4305-a5cc-a6b06263af5d": {
+            "id": "e6702676-333b-4305-a5cc-a6b06263af5d",
             "chunk_num": 180,
             "page_nums": [
                 36
@@ -2975,8 +2975,8 @@
                 "Raspberry"
             ]
         },
-        "f597a9bb-aa73-403f-841a-c8b487cfed7a": {
-            "id": "f597a9bb-aa73-403f-841a-c8b487cfed7a",
+        "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21": {
+            "id": "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21",
             "chunk_num": 181,
             "page_nums": [
                 36
@@ -2992,8 +2992,8 @@
                 "Diplomats"
             ]
         },
-        "8e325360-9a26-4b9c-a290-9322f5464a10": {
-            "id": "8e325360-9a26-4b9c-a290-9322f5464a10",
+        "97fed275-141b-48ed-9745-7f5f76bed069": {
+            "id": "97fed275-141b-48ed-9745-7f5f76bed069",
             "chunk_num": 182,
             "page_nums": [
                 36
@@ -3004,8 +3004,8 @@
                 "Burghart"
             ]
         },
-        "60c6221c-04bb-4d82-8573-7311fb00972e": {
-            "id": "60c6221c-04bb-4d82-8573-7311fb00972e",
+        "88558e42-70fc-400e-a3f8-d66bcd49e581": {
+            "id": "88558e42-70fc-400e-a3f8-d66bcd49e581",
             "chunk_num": 183,
             "page_nums": [
                 36
@@ -3016,8 +3016,8 @@
                 "Colonel Weber"
             ]
         },
-        "b331f8e7-65df-457c-9da1-04e79987e5b8": {
-            "id": "b331f8e7-65df-457c-9da1-04e79987e5b8",
+        "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af": {
+            "id": "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af",
             "chunk_num": 184,
             "page_nums": [
                 36,
@@ -3030,8 +3030,8 @@
                 "Raspberry"
             ]
         },
-        "9ce28837-5908-45bd-8986-0fb7a6c43643": {
-            "id": "9ce28837-5908-45bd-8986-0fb7a6c43643",
+        "f47be48c-a939-4200-8942-1aab8ca2cdb2": {
+            "id": "f47be48c-a939-4200-8942-1aab8ca2cdb2",
             "chunk_num": 185,
             "page_nums": [
                 37
@@ -3043,8 +3043,8 @@
                 "Burghart"
             ]
         },
-        "394a5c4a-6096-4e80-b5a3-dbccc4b9bb38": {
-            "id": "394a5c4a-6096-4e80-b5a3-dbccc4b9bb38",
+        "25e141f1-0a2d-4a1e-a2b9-d4ca3e43130b": {
+            "id": "25e141f1-0a2d-4a1e-a2b9-d4ca3e43130b",
             "chunk_num": 186,
             "page_nums": [
                 37
@@ -3054,8 +3054,8 @@
                 "Burghart"
             ]
         },
-        "658204cd-5293-4350-8ba8-6e3289fb46cc": {
-            "id": "658204cd-5293-4350-8ba8-6e3289fb46cc",
+        "e4297f47-079b-431a-991f-cef8c4fa78e2": {
+            "id": "e4297f47-079b-431a-991f-cef8c4fa78e2",
             "chunk_num": 187,
             "page_nums": [
                 37
@@ -3067,8 +3067,8 @@
                 "Colonel Weber"
             ]
         },
-        "f8a2b7ad-1c9f-463b-9296-f0f29974b516": {
-            "id": "f8a2b7ad-1c9f-463b-9296-f0f29974b516",
+        "745647a9-2455-4d5b-9eee-b5f479d2af28": {
+            "id": "745647a9-2455-4d5b-9eee-b5f479d2af28",
             "chunk_num": 188,
             "page_nums": [
                 37
@@ -3079,8 +3079,8 @@
                 "Raspberry"
             ]
         },
-        "840a7cd7-faa6-48f9-90f5-ad44b9d5b6d5": {
-            "id": "840a7cd7-faa6-48f9-90f5-ad44b9d5b6d5",
+        "a153eb55-8483-4c2c-9032-48b8b4a25a91": {
+            "id": "a153eb55-8483-4c2c-9032-48b8b4a25a91",
             "chunk_num": 189,
             "page_nums": [
                 37,
@@ -3092,8 +3092,8 @@
                 "Gary"
             ]
         },
-        "03b19e27-4b88-40be-9ce5-bf8fde82ed3a": {
-            "id": "03b19e27-4b88-40be-9ce5-bf8fde82ed3a",
+        "1384936b-9bd7-4706-9dc1-05b6bdfbf76d": {
+            "id": "1384936b-9bd7-4706-9dc1-05b6bdfbf76d",
             "chunk_num": 190,
             "page_nums": [
                 38
@@ -3105,8 +3105,8 @@
                 "Your father"
             ]
         },
-        "ecbfa90f-0750-45d8-a25f-f35703cdecc5": {
-            "id": "ecbfa90f-0750-45d8-a25f-f35703cdecc5",
+        "0d71ac8e-93d7-46bb-a8d1-cd36f25502e7": {
+            "id": "0d71ac8e-93d7-46bb-a8d1-cd36f25502e7",
             "chunk_num": 191,
             "page_nums": [
                 38
@@ -3117,8 +3117,8 @@
                 "I"
             ]
         },
-        "30ebaf32-b781-4e62-aba9-9b72e1bf0c35": {
-            "id": "30ebaf32-b781-4e62-aba9-9b72e1bf0c35",
+        "a3172b2c-3cb6-46ed-b65b-d7968449f4f9": {
+            "id": "a3172b2c-3cb6-46ed-b65b-d7968449f4f9",
             "chunk_num": 192,
             "page_nums": [
                 38
@@ -3126,8 +3126,8 @@
             "text": "many times. So that\u2019s what it looks like. I\u2019ll feel elated at this evidence of a unique motherchild bond, this certitude that you\u2019re the one I carried. Even if I had never laid eyes on you before, I\u2019d be able to pick you out \ueecaom a sea of babies: Not that one. No, not her either. Wait, that one over there. Yes, that\u2019s her. She\u2019s mine. That \ufb01nal \u201cgi\ueecb exchange\u201d was the last we ever saw of the heptapods. All at once, all over the world, their looking glasses became transparent and their ships le\ueecb orbit. Subsequent analysis of the",
             "characters": []
         },
-        "bdb55d28-6568-4e25-914c-d245be5ab98a": {
-            "id": "bdb55d28-6568-4e25-914c-d245be5ab98a",
+        "ea2dea81-a6ec-4c86-ab91-0c82e6cb1f24": {
+            "id": "ea2dea81-a6ec-4c86-ab91-0c82e6cb1f24",
             "chunk_num": 193,
             "page_nums": [
                 38
@@ -3137,8 +3137,8 @@
                 "Heptapods"
             ]
         },
-        "874778b3-8fbf-4e77-af43-afcfababef22": {
-            "id": "874778b3-8fbf-4e77-af43-afcfababef22",
+        "93719b86-252c-4939-bf0d-2fb900d28694": {
+            "id": "93719b86-252c-4939-bf0d-2fb900d28694",
             "chunk_num": 194,
             "page_nums": [
                 38,
@@ -3149,8 +3149,8 @@
                 "Heptapods"
             ]
         },
-        "3eb834f4-a178-497a-943d-5eab4bc65ede": {
-            "id": "3eb834f4-a178-497a-943d-5eab4bc65ede",
+        "f4ee8368-7715-43b7-8142-532482ce3799": {
+            "id": "f4ee8368-7715-43b7-8142-532482ce3799",
             "chunk_num": 195,
             "page_nums": [
                 39
@@ -3162,8 +3162,8 @@
                 "you"
             ]
         },
-        "c48cbb00-f71a-4aca-ad23-ce1bc2912c28": {
-            "id": "c48cbb00-f71a-4aca-ad23-ce1bc2912c28",
+        "943411ca-c638-430f-a658-2eff0c996ba7": {
+            "id": "943411ca-c638-430f-a658-2eff0c996ba7",
             "chunk_num": 196,
             "page_nums": [
                 39
