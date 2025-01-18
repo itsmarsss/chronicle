@@ -1,8 +1,12 @@
 import pypdf
 import json
+import os
+
+# Get project root directory
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 text_data = []
-with open('story_of_your_life.pdf', 'rb') as file:
+with open(os.path.join(PROJECT_ROOT, 'story_of_your_life.pdf'), 'rb') as file:
     pdf_reader = pypdf.PdfReader(file)
     num_pages = len(pdf_reader.pages)
     for page_num in range(num_pages):
@@ -21,5 +25,9 @@ with open('story_of_your_life.pdf', 'rb') as file:
 
 print(json.dumps(text_data, indent=4))
 
-with open('./temp/transcript.json', 'w') as outfile:
+# Ensure temp directory exists
+temp_dir = os.path.join(PROJECT_ROOT, 'temp')
+os.makedirs(temp_dir, exist_ok=True)
+
+with open(os.path.join(temp_dir, 'transcript.json'), 'w') as outfile:
     json.dump(text_data, outfile, indent=4)

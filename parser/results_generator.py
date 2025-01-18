@@ -1,8 +1,13 @@
 import json
 import uuid
+import os
+
+# Get project root directory
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Load the merged chunks data
-with open('./temp/merged_chunks.json', 'r') as infile:
+temp_dir = os.path.join(PROJECT_ROOT, 'temp')
+with open(os.path.join(temp_dir, 'merged_chunks.json'), 'r') as infile:
     merged_data = json.load(infile)
 
 # Initialize dictionaries for characters and contexts
@@ -65,7 +70,7 @@ results = {
 }
 
 # Save the results to a new JSON file
-with open('results.json', 'w') as outfile:
+with open(os.path.join(PROJECT_ROOT, 'parser', 'results.json'), 'w') as outfile:
     json.dump(results, outfile, indent=4)
 
 print("Results saved to 'results.json'.")

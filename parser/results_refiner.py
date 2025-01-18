@@ -1,10 +1,14 @@
 import json
+import os
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
+# Get project root directory
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 # Load the results data
-with open('results.json', 'r') as infile:
+with open(os.path.join(PROJECT_ROOT, 'parser', 'results.json'), 'r') as infile:
     results = json.load(infile)
 
 # Initialize the Sentence-BERT model for name vectorization
@@ -163,7 +167,7 @@ refined_results = {
 }
 
 # Save the refined results to a new JSON file
-with open('refined_results.json', 'w') as outfile:
+with open(os.path.join(PROJECT_ROOT, 'parser', 'refined_results.json'), 'w') as outfile:
     json.dump(refined_results, outfile, indent=4)
 
 print("Refined results saved to 'refined_results.json'.")
