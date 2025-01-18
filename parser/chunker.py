@@ -1,11 +1,16 @@
 import json
+import os
+
+# Get project root directory
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Configuration parameters
 chunk_size_words = 100  # Number of words per chunk
 overlap_size_words = 10  # Number of words overlapping between chunks
 
 # Load data from transcript.json
-with open('./temp/transcript.json', 'r') as infile:
+temp_dir = os.path.join(PROJECT_ROOT, 'temp')
+with open(os.path.join(temp_dir, 'transcript.json'), 'r') as infile:
     data = json.load(infile)
 
 # Collect words and their corresponding page numbers
@@ -38,5 +43,5 @@ while start_index < total_words:
     start_index += chunk_size_words - overlap_size_words
 
 # Save chunks to chunks.json
-with open('./temp/chunks.json', 'w') as outfile:
+with open(os.path.join(temp_dir, 'chunks.json'), 'w') as outfile:
     json.dump(chunks, outfile, indent=4)

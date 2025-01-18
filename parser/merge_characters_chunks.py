@@ -1,11 +1,16 @@
 import json
+import os
+
+# Get project root directory
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+temp_dir = os.path.join(PROJECT_ROOT, 'temp')
 
 # Load the characters JSON
-with open('./temp/characters.json', 'r') as characters_file:
+with open(os.path.join(temp_dir, 'characters.json'), 'r') as characters_file:
     characters_data = json.load(characters_file)
 
 # Load the chunks JSON
-with open('./temp/chunks.json', 'r') as chunks_file:
+with open(os.path.join(temp_dir, 'chunks.json'), 'r') as chunks_file:
     chunks_data = json.load(chunks_file)
 
 # Create a dictionary to map chunk_num to characters
@@ -32,7 +37,7 @@ for chunk in chunks_data:
         })
 
 # Save the merged data to a new JSON file
-with open('./temp/merged_chunks.json', 'w') as outfile:
+with open(os.path.join(temp_dir, 'merged_chunks.json'), 'w') as outfile:
     json.dump(merged_data, outfile, indent=4)
 
 print("Merged data saved to 'merged_chunks.json'.")

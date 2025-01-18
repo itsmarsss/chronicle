@@ -5,6 +5,12 @@ import os
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# Get project root directory
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+temp_dir = os.path.join(PROJECT_ROOT, 'temp')
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
 load_dotenv()
 
 cumulative_characters = []
@@ -14,7 +20,7 @@ client = OpenAI(
 )
 
 # Load chunks data
-with open('./temp/chunks.json', 'r') as infile:
+with open(os.path.join(temp_dir, 'chunks.json'), 'r') as infile:
     chunks = json.load(infile)
 
 # Function to process each chunk
@@ -80,7 +86,7 @@ with ThreadPoolExecutor(max_workers=10) as executor:
             print(f"Processed chunk {result['chunk_num']}/{len(chunks)}")
 
 # Save the cumulative characters data to a JSON file
-with open('./temp/cumulative_characters.json', 'w') as outfile:
+with open(os.path.join(temp_dir, 'cumulative_characters.json'), 'w') as outfile:
     json.dump(cumulative_characters, outfile, indent=4)
 
 # Collect all unique character names across all chunks
@@ -154,5 +160,5 @@ for attempt in range(retries):
             print(f"Failed after {retries} attempts. Moving on.")
 
 # Save the refined characters to a JSON file
-with open('./temp/characters.json', 'w') as outfile:
+with open(os.path.join(temp_dir, 'characters.json'), 'w') as outfile:
     json.dump(cumulative_characters, outfile, indent=4)
