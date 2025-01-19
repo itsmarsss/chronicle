@@ -5,8 +5,8 @@ import os
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Configuration parameters
-chunk_size_words = 100  # Number of words per chunk
-overlap_size_words = 10  # Number of words overlapping between chunks
+chunk_size_words = 500  # Number of words per chunk
+overlap_size_words = 100  # Number of words overlapping between chunks
 
 # Load data from transcript.json
 temp_dir = os.path.join(PROJECT_ROOT, 'temp')
@@ -45,3 +45,5 @@ while start_index < total_words:
 # Save chunks to chunks.json
 with open(os.path.join(temp_dir, 'chunks.json'), 'w') as outfile:
     json.dump(chunks, outfile, indent=4)
+
+print("Chunks saved to 'chunks.json'.")

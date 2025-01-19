@@ -26,24 +26,15 @@ def cosine_sim(v1, v2):
 def find_most_specific_name(names):
     return max(names, key=lambda name: (len(name.split()), len(name)))  # Prefer longer names
 
-# List of generic words to ignore
-GENERIC_WORDS = {"he", "she", "they", "it", "him", "her", "them", "I", "you", "we", "Mr.", "Mrs.", "Dr.", "Prof."}
-
-# Helper function to check if a name is generic
-def is_generic_name(name):
-    return name.lower() in GENERIC_WORDS
-
 # Adjusted function to group similar character names
-def group_similar_characters(characters_dict, similarity_threshold=0.8):
+def group_similar_characters(characters_dict, similarity_threshold=0.9):
     grouped_characters = []
-    character_ids = list(characters_dict.keys())  # Work with IDs
+    character_ids = list(characters_dict.keys())
     total_ids = len(character_ids)
     
     print(f"Starting to group {total_ids} characters...")
     
-    # Precompute the vectors for all names
     name_vectors = {id: get_name_vector(characters_dict[id]["name"]) for id in character_ids}
-    
     visited = set()
     
     for i, id1 in enumerate(character_ids):
@@ -51,9 +42,6 @@ def group_similar_characters(characters_dict, similarity_threshold=0.8):
             continue  # Skip if already grouped
         
         name1 = characters_dict[id1]["name"]
-        if is_generic_name(name1) or len(name1) < 3:  # Ignore generic or too-short names
-            continue
-        
         group = [id1]
         vector1 = name_vectors[id1]
         visited.add(id1)
@@ -64,19 +52,15 @@ def group_similar_characters(characters_dict, similarity_threshold=0.8):
                 continue  # Skip if already grouped
             
             name2 = characters_dict[id2]["name"]
-            if is_generic_name(name2) or len(name2) < 3:  # Ignore generic or too-short names
-                continue
+            
+            # Skip if one name is a substring of the other
+            if name1 in name2 or name2 in name1:
+                continue  # Do not group
             
             vector2 = name_vectors[id2]
-            
-            # Calculate similarity between the two name vectors
             similarity = cosine_sim(vector1, vector2)
             
-            # Substring matching heuristic
-            is_substring_match = name1 in name2 or name2 in name1
-            
-            # Group if similarity is high or there's a valid substring match
-            if similarity >= similarity_threshold or is_substring_match:
+            if similarity >= similarity_threshold:
                 print(f"    Names '{name1}' and '{name2}' are similar (similarity: {similarity:.2f}). Grouping them.")
                 group.append(id2)
                 visited.add(id2)
@@ -127,47 +111,49 @@ for group in grouped_characters:
 
 print("Merged contexts for similar characters.")
 
-# Update contexts to reflect the refined character names
-refined_contexts = {}
-total_contexts = len(results["contexts"])
-print(f"Updating {total_contexts} contexts...")
+# Filter out characters with fewer than 5 contexts
+filtered_characters = {
+    char_id: char_data
+    for char_id, char_data in refined_characters.items()
+    if len(char_data["contexts"]) >= 5
+}
 
-for idx, (context_id, context_data) in enumerate(results["contexts"].items()):
-    refined_characters_list = []
-    for character_name in context_data["characters"]:
-        # Map the character name to its canonical ID, if available
-        for char_id, char_data in results["characters"].items():
-            if char_data["name"] == character_name and char_id in name_mapping:
-                refined_characters_list.append(results["characters"][name_mapping[char_id]]["name"])
-                break
-        else:
-            refined_characters_list.append(character_name)
+print(f"Filtered out characters with fewer than 5 contexts. Remaining characters: {len(filtered_characters)}")
+
+# Update contexts to reflect the filtered characters
+filtered_contexts = {}
+for context_id, context_data in results["contexts"].items():
+    filtered_characters_list = [
+        char_name
+        for char_name in context_data["characters"]
+        if any(
+            char_name == char_data["name"]
+            for char_data in filtered_characters.values()
+        )
+    ]
     
     # Remove duplicate characters
-    refined_characters_list = list(set(refined_characters_list))
+    filtered_characters_list = list(set(filtered_characters_list))
     
-    refined_contexts[context_id] = {
+    filtered_contexts[context_id] = {
         "id": context_data["id"],
         "chunk_num": context_data["chunk_num"],
         "page_nums": context_data["page_nums"],
         "text": context_data["text"],
-        "characters": refined_characters_list
+        "characters": filtered_characters_list
     }
-    
-    print(f"  Updated context {idx + 1}/{total_contexts}:")
-    print(f"    Chunk Num: {context_data['chunk_num']}")
-    print(f"    Characters: {refined_characters_list}")
 
-print("Finished updating contexts.")
+print("Updated contexts to reflect filtered characters.")
 
-# Combine the refined results
-refined_results = {
-    "characters": refined_characters,
-    "contexts": refined_contexts
+# Combine the filtered results
+filtered_results = {
+    "characters": filtered_characters,
+    "contexts": filtered_contexts
 }
 
-# Save the refined results to a new JSON file
-with open(os.path.join(PROJECT_ROOT, 'parser', 'refined_results.json'), 'w') as outfile:
-    json.dump(refined_results, outfile, indent=4)
+# Save the filtered results to a new JSON file
 
-print("Refined results saved to 'refined_results.json'.")
+with open(os.path.join(PROJECT_ROOT, 'parser', 'filtered_results.json'), 'w') as outfile:
+    json.dump(filtered_results, outfile, indent=4)
+
+print(f"Filtered results saved to 'filtered_results.json'.")

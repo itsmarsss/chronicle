@@ -30,13 +30,11 @@ def process_chunk(idx, chunk):
     prompt = (
         f"Extract the names of characters mentioned in the text and resolve pronouns or relational terms "
         f"to identify the specific individuals they refer to (e.g., determine who 'he' or 'she' refers to, "
-        f"and whose 'dad' or 'mom' is being mentioned) based on the context. Replace any occurrences of 'I' with 'Narrator' "
-        f"when identifying characters. Reply with a valid JSON list of their names, such as "
-        f"[\"Character1\", \"Character2\"]. Ensure that the response is valid JSON and contains no comments or explanations. "
+        f"and whose 'dad' or 'mom' is being mentioned) based on the context. If 'I' is used in the text, "
+        f"replace it with 'Narrator' only if the narrator is relevant to the context. Reply with a valid JSON list "
+        f"of their names, such as [\"Character1\", \"Character2\"]. Ensure that the response is valid JSON and contains no comments or explanations. "
         f"Text: {text}"
     )
-
-
 
     retries = 3
     for attempt in range(retries):
@@ -82,7 +80,7 @@ def process_chunk(idx, chunk):
     return None  # Return None if all attempts fail
 
 # Process chunks in parallel with a maximum of 10 threads
-with ThreadPoolExecutor(max_workers=10) as executor:
+with ThreadPoolExecutor(max_workers=100) as executor:
     future_to_chunk = {executor.submit(process_chunk, idx, chunk): idx for idx, chunk in enumerate(chunks)}
     for future in as_completed(future_to_chunk):
         result = future.result()
@@ -93,6 +91,8 @@ with ThreadPoolExecutor(max_workers=10) as executor:
 # Save the cumulative characters data to a JSON file
 with open(os.path.join(temp_dir, 'cumulative_characters.json'), 'w') as outfile:
     json.dump(cumulative_characters, outfile, indent=4)
+
+print("Cumulative characters saved to 'cumulative_characters.json'.")
 
 # Collect all unique character names across all chunks
 all_characters = set()
@@ -167,3 +167,5 @@ for attempt in range(retries):
 # Save the refined characters to a JSON file
 with open(os.path.join(temp_dir, 'characters.json'), 'w') as outfile:
     json.dump(cumulative_characters, outfile, indent=4)
+
+print("Characters saved to 'characters.json'.")
