@@ -74,7 +74,7 @@ def process_character(character_id, character_data):
     # Gather all text from the character's contexts
     for context_id in context_ids:
         if context_id in contexts:
-            context_texts.append(contexts[context_id]["text"])
+            context_texts.append(contexts[context_id]["summary"])
 
     # Generate a summary for the character
     if context_texts:
@@ -90,7 +90,7 @@ def process_character(character_id, character_data):
 
 # Process characters in parallel with a maximum of 10 threads
 print("Processing characters...")
-with ThreadPoolExecutor(max_workers=100) as executor:
+with ThreadPoolExecutor(max_workers=10) as executor:
     # Submit tasks for each character
     future_to_character = {
         executor.submit(process_character, character_id, character_data): character_id

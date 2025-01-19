@@ -25,6 +25,7 @@ for chunk in chunks_data:
             "chunk_num": chunk_num,
             "page_nums": chunk['page_nums'],
             "text": chunk['text'],
+            "summary": chunk['summary'],
             "characters": characters_dict[chunk_num]
         })
     else:
@@ -33,6 +34,7 @@ for chunk in chunks_data:
             "chunk_num": chunk_num,
             "page_nums": chunk['page_nums'],
             "text": chunk['text'],
+            "summary": chunk['summary'],
             "characters": []  # Empty list for characters
         })
 

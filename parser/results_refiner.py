@@ -139,6 +139,7 @@ for context_id, context_data in results["contexts"].items():
         "chunk_num": context_data["chunk_num"],
         "page_nums": context_data["page_nums"],
         "text": context_data["text"],
+        "summary": context_data['summary'],
         "characters": filtered_characters_list,
         "important": context_data["important"]
     }

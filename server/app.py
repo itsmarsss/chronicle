@@ -82,7 +82,8 @@ def upload_file():
     for cont in conts:
         cont_res.append({
             "chunk_num": conts[cont]["chunk_num"],
-            "important": conts[cont]["important"]
+            "important": conts[cont]["important"],
+            "summary": conts[cont]["summary"]
         })
     # print(res)
 
@@ -116,7 +117,7 @@ def get_story():
             filename = "/out/" + files[index]
             f = open(root_dir + filename)
             first = json.load(f)
-            
+
             char_res = []
             chars = first["characters"]
             for char in chars:
@@ -130,7 +131,8 @@ def get_story():
             for cont in conts:
                 cont_res.append({
                     "chunk_num": conts[cont]["chunk_num"],
-                    "important": conts[cont]["important"]
+                    "important": conts[cont]["important"],
+                    "summary": conts[cont]["summary"]
                 })
             # print(res)
 
@@ -160,4 +162,4 @@ def not_found(e):
     return jsonify({"error": "Resource not found", "status": "error"}), 404
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5001)
+    app.run(debug=True, host='0.0.0.0', port=6969)

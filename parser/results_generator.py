@@ -29,6 +29,7 @@ for chunk in merged_data:
         "chunk_num": chunk["chunk_num"],
         "page_nums": chunk["page_nums"],
         "text": chunk["text"],
+        "summary": chunk['summary'],
         "characters": chunk["characters"],
         "important": chunk["important"]
     }

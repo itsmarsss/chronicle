@@ -35,6 +35,7 @@ for chunk in chunks_data:
             "chunk_num": chunk_num,
             "page_nums": chunk['page_nums'],
             "text": chunk['text'],
+            "summary": chunk['summary'],
             "characters": characters_dict[chunk_num],
             "important": is_important  # Add the "important" field
         })
@@ -44,6 +45,7 @@ for chunk in chunks_data:
             "chunk_num": chunk_num,
             "page_nums": chunk['page_nums'],
             "text": chunk['text'],
+            "summary": chunk['summary'],
             "characters": [],  # Empty list for characters
             "important": is_important  # Add the "important" field
         })
