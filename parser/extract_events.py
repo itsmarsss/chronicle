@@ -2,6 +2,7 @@ import json
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
+import time
 
 # Get project root directory
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -43,40 +44,48 @@ prompt = (
     f"Important Chunks:"
 )
 
-# Send request to Deepseek API
-try:
-    completion = client.chat.completions.create(
-        model="deepseek-chat",
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.3,  # Lower temperature for more focused responses
-        max_completion_tokens=1024,
-        top_p=0.9,  # Slightly lower top_p to reduce randomness
-        stream=False,
-        response_format={"type": "json_object"},
-        stop=None,
-    )
-
-    # Extract the generated text from the response
-    generated_text = completion.choices[0].message.content
-
-    # Parse the JSON response
+# Retry mechanism
+retries = 3
+for attempt in range(retries):
     try:
-        response = json.loads(generated_text)
-        if isinstance(response, dict) and "important_chunks" in response:
-            important_chunks = response["important_chunks"]
-            print(f"Identified important chunks: {important_chunks}")
+        # Send request to Deepseek API
+        completion = client.chat.completions.create(
+            model="deepseek-chat",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.3,  # Lower temperature for more focused responses
+            max_completion_tokens=1024,
+            top_p=0.9,  # Slightly lower top_p to reduce randomness
+            stream=False,
+            response_format={"type": "json_object"},
+            stop=None,
+        )
 
-            # Filter the original chunks to include only the important ones
-            important_chunks_details = [chunk for chunk in chunks if chunk["chunk_num"] in important_chunks]
+        # Extract the generated text from the response
+        generated_text = completion.choices[0].message.content
 
-            # Save the important chunks to a JSON file
-            with open(os.path.join(temp_dir, 'important_chunks.json'), 'w') as outfile:
-                json.dump(important_chunks_details, outfile, indent=4)
+        # Parse the JSON response
+        try:
+            response = json.loads(generated_text)
+            if isinstance(response, dict) and "important_chunks" in response:
+                important_chunks = response["important_chunks"]
+                print(f"Identified important chunks: {important_chunks}")
 
-            print("Important chunks saved to 'important_chunks.json'.")
+                # Filter the original chunks to include only the important ones
+                important_chunks_details = [chunk for chunk in chunks if chunk["chunk_num"] in important_chunks]
+
+                # Save the important chunks to a JSON file
+                with open(os.path.join(temp_dir, 'important_chunks.json'), 'w') as outfile:
+                    json.dump(important_chunks_details, outfile, indent=4)
+
+                print("Important chunks saved to 'important_chunks.json'.")
+                break  # Exit the retry loop if successful
+            else:
+                print("Invalid response format. Expected 'important_chunks' key.")
+        except json.JSONDecodeError as json_err:
+            print(f"JSON decode error: {json_err}")
+    except Exception as err:
+        print(f"An error occurred on attempt {attempt + 1}/{retries}: {err}")
+        if attempt < retries - 1:
+            time.sleep(2)  # Wait for 2 seconds before retrying
         else:
-            print("Invalid response format. Expected 'important_chunks' key.")
-    except json.JSONDecodeError as json_err:
-        print(f"JSON decode error: {json_err}")
-except Exception as err:
-    print(f"An error occurred: {err}")
+            print("Failed after 3 attempts. Exiting.")
