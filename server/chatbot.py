@@ -7,15 +7,10 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 load_dotenv()
 
-cumulative_characters = []
-client = OpenAI(
+client = OpenAI(    
     api_key=os.getenv("API_KEY"),
     base_url="https://api.deepseek.com"
 )
-
-# Load chunks data
-with open('../out/output.json', 'r') as infile:
-    result = json.load(infile)
 
 # Function to process each chunk
 def prompt_ai(prompt):
@@ -140,6 +135,11 @@ def process_question(question, char, page, story=""):
     return None  # Return None if all attempts fail
 
 def chatbot(question, char, page, story=""):
+    # cumulative_characters = []
+
+    # Load chunks data
+    with open('../out/output.json', 'r') as infile:
+        result = json.load(infile)
     return process_question(question, char, page, story)
 
 # For Testing Purposes Only

@@ -56,7 +56,8 @@ def upload_file():
     if file.filename == '':
         return jsonify({'error': 'No selected file'}), 400
     file.save(root_dir + "/temp/input.pdf")
-    # os.system('cd ' + root_dir + ' && ./parser/run-pdf.sh')
+    os.system('cd ' + root_dir + ' && ./parser/run-pdf.sh')
+    
     f = open(root_dir + "/out/output.json")
     first = json.load(f)
 
