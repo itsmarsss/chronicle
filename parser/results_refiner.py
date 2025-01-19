@@ -8,7 +8,7 @@ import numpy as np
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Load the results data
-with open(os.path.join(PROJECT_ROOT, 'parser', 'results.json'), 'r') as infile:
+with open(os.path.join(PROJECT_ROOT, 'out', 'results.json'), 'r') as infile:
     results = json.load(infile)
 
 # Initialize the Sentence-BERT model for name vectorization
@@ -151,9 +151,12 @@ filtered_results = {
     "contexts": filtered_contexts
 }
 
-# Save the filtered results to a new JSON file
+# Ensure out directory exists
+out_dir = os.path.join(PROJECT_ROOT, 'out')
+os.makedirs(out_dir, exist_ok=True)
 
-with open(os.path.join(PROJECT_ROOT, 'parser', 'filtered_results.json'), 'w') as outfile:
+# Save the filtered results to a new JSON file
+with open(os.path.join(out_dir, 'filtered_results.json'), 'w') as outfile:
     json.dump(filtered_results, outfile, indent=4)
 
 print(f"Filtered results saved to 'filtered_results.json'.")

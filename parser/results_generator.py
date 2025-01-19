@@ -6,8 +6,8 @@ import os
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Load the merged chunks data
-temp_dir = os.path.join(PROJECT_ROOT, 'temp')
-with open(os.path.join(temp_dir, 'merged_chunks.json'), 'r') as infile:
+out_dir = os.path.join(PROJECT_ROOT, 'temp')
+with open(os.path.join(out_dir, 'merged_chunks.json'), 'r') as infile:
     merged_data = json.load(infile)
 
 # Initialize dictionaries for characters and contexts
@@ -69,8 +69,12 @@ results = {
     "contexts": contexts_dict
 }
 
+# Ensure out directory exists
+out_dir = os.path.join(PROJECT_ROOT, 'out')
+os.makedirs(out_dir, exist_ok=True)
+
 # Save the results to a new JSON file
-with open(os.path.join(PROJECT_ROOT, 'parser', 'results.json'), 'w') as outfile:
+with open(os.path.join(out_dir, 'results.json'), 'w') as outfile:
     json.dump(results, outfile, indent=4)
 
 print("Results saved to 'results.json'.")
