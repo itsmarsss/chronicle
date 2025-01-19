@@ -157,9 +157,37 @@ def chat():
     return jsonify(res)
     # return jsonify({'message': 'File uploaded successfully'}), 200
 
+@app.route('/api/delete', methods=['POST'])
+def delete_story():
+    try:
+        data = request.get_json()
+        if not data or 'index' not in data:
+            return jsonify({"error": "Index parameter is required", "status": "error"}), 400
+            
+        index = data['index']
+        root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        out_dir = os.path.join(root_dir, "out")
+        files = [f for f in os.listdir(out_dir) if f.endswith('.json')]
+        
+        try:
+            index = int(index)
+            if index < 0 or index >= len(files):
+                return jsonify({"error": "Invalid index", "status": "error"}), 400
+                
+            file_to_delete = os.path.join(out_dir, files[index])
+            os.remove(file_to_delete)
+            
+            return jsonify({"message": "File deleted successfully", "status": "success"}), 200
+            
+        except ValueError:
+            return jsonify({"error": "Index must be a number", "status": "error"}), 400
+            
+    except Exception as e:
+        return jsonify({"error": str(e), "status": "error"}), 500
+    
 @app.errorhandler(404)
 def not_found(e):
     return jsonify({"error": "Resource not found", "status": "error"}), 404
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=6969)
+    app.run(debug=True, host='0.0.0.0', port=5001)
