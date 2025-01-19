@@ -6,7 +6,7 @@ import os
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 text_data = []
-with open(os.path.join(PROJECT_ROOT, 'uploaded_file.pdf'), 'rb') as file:
+with open(PROJECT_ROOT + "/temp/input.pdf", 'rb') as file:
     pdf_reader = pypdf.PdfReader(file)
     num_pages = len(pdf_reader.pages)
     for page_num in range(num_pages):
