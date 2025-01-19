@@ -1,411 +1,279 @@
 {
     "characters": {
-        "4f725f26-6678-4f27-ba58-5c8e20bdf382": {
-            "id": "4f725f26-6678-4f27-ba58-5c8e20bdf382",
-            "name": "Gary",
+        "be1ff4b7-da2c-4d03-a9ca-c1134684f128": {
+            "id": "be1ff4b7-da2c-4d03-a9ca-c1134684f128",
+            "name": "Gary Donnelly",
             "contexts": [
-                "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21",
-                "8f9c727e-a75d-4847-b03b-cb4209013bcb",
-                "4feb5eb1-4bda-4675-bf3e-1de0f706ceca",
-                "d95ab694-6746-47c5-8850-7b896c77b754",
-                "67b708a7-4d20-4da5-980c-bab461129d94",
-                "47549de4-c23f-4f74-8d1b-61da8d0b268f",
-                "55e518a1-8da8-47ab-a02c-7d5b4ad6dfbb",
-                "e27b8ab7-02ca-4a51-adb3-ec18a76f5f31",
-                "b2ff3c21-6027-41f2-a758-16053e2ffe44",
-                "ea2cc78f-8ee5-4c77-ab49-034dbaf2cc23",
-                "bdf9f12e-91e4-47e4-817b-113df77da051",
-                "1bf1140d-fdae-43f3-964a-f0bd0eb3e0f7",
-                "8cd5f0b9-3ff4-4129-a1c9-2ca1e751f015",
+                "a153eb55-8483-4c2c-9032-48b8b4a25a91",
                 "e4874f20-d95b-4e37-ac94-c5f0f894fbfb",
-                "5c1c532f-a64e-4ef4-b7ef-8b2ff52f4692",
-                "f95beab0-e2e3-4b56-8433-ee11d80f5b20",
+                "99bb7e2e-265f-467e-ae42-75b37e112832",
+                "2be357ea-f18b-40ae-a140-3a99849570c0",
+                "d044b9b1-4d6d-445a-8848-f48717117015",
+                "88558e42-70fc-400e-a3f8-d66bcd49e581",
+                "073675cb-c98d-4bd3-9ab1-bd127a8a87c7",
+                "a3bb1e01-16e7-4a88-a5c0-cc6adc898aa4",
                 "a5066da4-cc43-4e0d-be58-e966e32a28aa",
+                "706b5079-b9ef-47fb-a113-aa30e60ccc36",
+                "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21",
+                "d95ab694-6746-47c5-8850-7b896c77b754",
+                "95b9ac0a-a7e4-4a0e-ab40-f4468f061889",
+                "e7af8207-dc66-4471-8356-c87be4f8db01",
+                "bdf9f12e-91e4-47e4-817b-113df77da051",
+                "f43665d6-fb32-45f3-ac92-29db3e00cd14",
+                "4feb5eb1-4bda-4675-bf3e-1de0f706ceca",
+                "6418e381-a0ca-41ab-adbb-9d78aac94a87",
+                "4b7e856d-857d-4ffc-914a-d8d9379bf3d2",
+                "5c1c532f-a64e-4ef4-b7ef-8b2ff52f4692",
+                "8f9c727e-a75d-4847-b03b-cb4209013bcb",
+                "02552d92-ebce-44f5-a90a-af9b823cc471",
+                "357e0ffe-508a-4949-b07f-14b65eeaa504",
+                "bbc57080-2126-453d-bd57-9cab673ca6e1",
+                "f9f17fc9-982a-4552-87c8-ebe68fc5b7d3",
+                "139d75ff-2e78-4030-a05f-3ab90d2b0859",
+                "b2ff3c21-6027-41f2-a758-16053e2ffe44",
+                "f95beab0-e2e3-4b56-8433-ee11d80f5b20",
+                "0fa297f4-bc1a-4afb-8874-8593f430bd4d",
+                "d515616c-20f8-4c99-b223-588cb869c4af",
+                "67b708a7-4d20-4da5-980c-bab461129d94",
+                "eff5b83a-0397-48cf-ad77-f1a6c93465e1",
+                "656b52d5-f216-4c4a-9638-c7f7513d48ba",
+                "4eb01ef3-8021-4c82-a340-21e04fe558ca",
+                "c1224351-45de-47bd-af1a-33325bc3e763",
+                "f47be48c-a939-4200-8942-1aab8ca2cdb2",
+                "abdc8d13-37d0-4af4-a9bf-ef8b959b832a",
+                "3bd6bbad-f8a4-4b6d-b1d3-32c60f986886",
+                "ea2cc78f-8ee5-4c77-ab49-034dbaf2cc23",
+                "420fd74b-9d98-4bc8-9594-e96fa6923a6b",
+                "8495a957-887b-4d16-8d94-9d60463d889c",
                 "3564d46f-7e1d-4951-abff-8e7d703dd604",
                 "b435828b-8117-498a-a588-89bfdf13a0ca",
-                "a153eb55-8483-4c2c-9032-48b8b4a25a91",
-                "357e0ffe-508a-4949-b07f-14b65eeaa504",
-                "0fa297f4-bc1a-4afb-8874-8593f430bd4d",
-                "a3bb1e01-16e7-4a88-a5c0-cc6adc898aa4",
-                "313103a4-2eea-4468-b565-c6af0236491b",
-                "139d75ff-2e78-4030-a05f-3ab90d2b0859",
-                "94d4c2e6-ec29-4e5f-9f20-3548628589fb",
-                "eff5b83a-0397-48cf-ad77-f1a6c93465e1",
-                "c1224351-45de-47bd-af1a-33325bc3e763",
-                "bbc57080-2126-453d-bd57-9cab673ca6e1",
-                "02552d92-ebce-44f5-a90a-af9b823cc471",
-                "e7af8207-dc66-4471-8356-c87be4f8db01",
-                "abdc8d13-37d0-4af4-a9bf-ef8b959b832a",
-                "2be357ea-f18b-40ae-a140-3a99849570c0",
-                "420fd74b-9d98-4bc8-9594-e96fa6923a6b",
-                "d044b9b1-4d6d-445a-8848-f48717117015",
-                "49ad5b34-b2a2-4eef-bb51-0f85f1fb85fb",
-                "d515616c-20f8-4c99-b223-588cb869c4af",
-                "6418e381-a0ca-41ab-adbb-9d78aac94a87",
-                "88558e42-70fc-400e-a3f8-d66bcd49e581",
-                "f47be48c-a939-4200-8942-1aab8ca2cdb2",
-                "f9f17fc9-982a-4552-87c8-ebe68fc5b7d3",
-                "8495a957-887b-4d16-8d94-9d60463d889c",
-                "4b7e856d-857d-4ffc-914a-d8d9379bf3d2",
-                "656b52d5-f216-4c4a-9638-c7f7513d48ba",
-                "95b9ac0a-a7e4-4a0e-ab40-f4468f061889",
-                "119b4ab0-3b85-452a-b1ac-d794f64efced",
-                "706b5079-b9ef-47fb-a113-aa30e60ccc36",
-                "f43665d6-fb32-45f3-ac92-29db3e00cd14",
+                "47549de4-c23f-4f74-8d1b-61da8d0b268f",
+                "55e518a1-8da8-47ab-a02c-7d5b4ad6dfbb",
+                "8cd5f0b9-3ff4-4129-a1c9-2ca1e751f015",
+                "e27b8ab7-02ca-4a51-adb3-ec18a76f5f31",
+                "54c04e91-5761-442e-9210-b95c2af4a8e6",
+                "9370bea5-719c-4b35-837e-c4d079babfd1",
                 "786c98e6-6edc-49b8-8deb-527685958268",
-                "4eb01ef3-8021-4c82-a340-21e04fe558ca",
-                "54c04e91-5761-442e-9210-b95c2af4a8e6"
-            ]
-        },
-        "1aaa80e6-84bb-42ea-8142-52f6ca806b82": {
-            "id": "1aaa80e6-84bb-42ea-8142-52f6ca806b82",
-            "name": "I",
-            "contexts": [
-                "818b869d-84dc-49b0-9dd6-8e07560cf84e",
-                "b2c959cd-ab4a-4850-8e77-b85b92ceb0a6",
-                "dda55b95-9e39-46de-9a0f-b4530592e87b",
-                "4f373019-1d39-452d-a142-47e7bff44639",
-                "9b0d0b1b-135a-4e23-9c43-96bc550dbf92",
-                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a",
-                "629de05a-4b73-4d9a-8d44-b55a4d4449b3",
-                "d80b2610-0caa-4734-aa79-8bd92b04cb63",
-                "477daca2-66fe-4005-9c41-71492b682a1b",
-                "3b0b1823-d6bd-4c93-9b0b-89b9374a8517",
-                "2e58fb7c-6c4b-4522-97e6-21304452f3f8",
-                "3d47c000-385a-46e1-a055-fc61167dbdb3",
-                "344d5a7f-2d6a-4571-8aac-593f7ff23172",
-                "f85e8521-677d-4bf8-a14d-00e493b2adea",
-                "c7a16afc-ad50-49f6-bd07-a5b51618e275",
-                "3a84a7d6-00f8-4017-bacf-bceb7ea103ef",
-                "0d71ac8e-93d7-46bb-a8d1-cd36f25502e7",
-                "fe614cae-b3cc-48ae-b7f7-13ecb3e4b614",
-                "873fd072-0fba-4413-8c28-ff1c2dd86bcc",
-                "5ba5e2ad-a7b6-42ad-9b99-0f7d66bf0a65",
-                "310b63c0-5dbe-4ab4-8298-844b48d2c39d",
-                "7ef98b61-3481-4f71-9422-9415d0ad4833",
-                "47b14d8f-15ae-4db5-a37a-5e8bcf83a970",
-                "f28dd861-86a2-480c-8719-9b661bb5a2b5",
-                "bbc57080-2126-453d-bd57-9cab673ca6e1",
-                "55c344ff-6432-4e74-a6cb-e28463cac1cf",
-                "745647a9-2455-4d5b-9eee-b5f479d2af28",
-                "4913ceb2-ce5d-45aa-81fa-a33975f6868c",
-                "fa97d2c6-128c-4e92-9a17-cefe8782c82d",
-                "49ad5b34-b2a2-4eef-bb51-0f85f1fb85fb",
-                "e9de7227-268f-4a9d-9670-f492045ca77e",
-                "7af00804-c755-4642-b5d6-be7cc55c9249",
-                "bbb9f2a2-8021-4b2a-a325-9a5efc30d609",
-                "6f6f8e6b-66e8-4b60-b67d-1ce33fa1c9f6",
-                "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72",
-                "ff5dfca5-e6fc-49ce-8608-8beca9112b5d",
-                "1685ef32-2910-4caf-b333-f1bf35e2b361",
-                "aacf6462-21c0-40b4-b72a-0252b1974c50",
-                "943411ca-c638-430f-a658-2eff0c996ba7",
-                "73a550da-10d0-434c-ade3-39eb90fd0977",
-                "48a6cc66-fb3e-40f1-a00a-64cea61a8c9e",
-                "e1b26386-5fd1-486f-857a-0d96efbea876",
-                "f80b00af-0d72-40a6-9d4d-c36c625b4b00",
-                "bd3d09cb-43f9-4ee1-bffc-91e666ff10f7",
-                "5f42627b-6d8c-48f7-80cb-6d05fc3d519f",
-                "1aec494c-696b-4e92-93e9-68bc173e5bc8"
-            ]
-        },
-        "2435b355-1aa2-40b8-80d6-7ce23373416b": {
-            "id": "2435b355-1aa2-40b8-80d6-7ce23373416b",
-            "name": "you",
-            "contexts": [
-                "818b869d-84dc-49b0-9dd6-8e07560cf84e",
-                "dda55b95-9e39-46de-9a0f-b4530592e87b",
-                "9b0d0b1b-135a-4e23-9c43-96bc550dbf92",
-                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a",
-                "5108547b-8dea-4972-aecd-9dca6d41529c",
-                "629de05a-4b73-4d9a-8d44-b55a4d4449b3",
-                "d80b2610-0caa-4734-aa79-8bd92b04cb63",
-                "477daca2-66fe-4005-9c41-71492b682a1b",
-                "2e58fb7c-6c4b-4522-97e6-21304452f3f8",
-                "3d47c000-385a-46e1-a055-fc61167dbdb3",
-                "f85e8521-677d-4bf8-a14d-00e493b2adea",
-                "c7a16afc-ad50-49f6-bd07-a5b51618e275",
-                "0d71ac8e-93d7-46bb-a8d1-cd36f25502e7",
-                "fe614cae-b3cc-48ae-b7f7-13ecb3e4b614",
-                "47b14d8f-15ae-4db5-a37a-5e8bcf83a970",
-                "f28dd861-86a2-480c-8719-9b661bb5a2b5",
-                "55c344ff-6432-4e74-a6cb-e28463cac1cf",
-                "b68d982c-44fc-48ba-80ef-f3aa62f1da27",
-                "fa97d2c6-128c-4e92-9a17-cefe8782c82d",
-                "6616dfcd-310e-4812-b9f0-1c5b03919df3",
-                "a92457bd-05a8-4b0b-8603-6243e0defc04",
-                "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72",
-                "ff5dfca5-e6fc-49ce-8608-8beca9112b5d",
-                "1685ef32-2910-4caf-b333-f1bf35e2b361",
-                "59b7942e-57aa-4227-b4a2-923a55961dcc",
-                "943411ca-c638-430f-a658-2eff0c996ba7",
-                "73a550da-10d0-434c-ade3-39eb90fd0977",
-                "f4ee8368-7715-43b7-8142-532482ce3799",
-                "f80b00af-0d72-40a6-9d4d-c36c625b4b00",
-                "3f77d588-9cc3-4006-be5f-0eedd5e979ff",
-                "5f42627b-6d8c-48f7-80cb-6d05fc3d519f",
-                "1aec494c-696b-4e92-93e9-68bc173e5bc8"
+                "ef795da1-e666-414b-9e09-302efa3d5486",
+                "119b4ab0-3b85-452a-b1ac-d794f64efced",
+                "1bf1140d-fdae-43f3-964a-f0bd0eb3e0f7",
+                "313103a4-2eea-4468-b565-c6af0236491b",
+                "94d4c2e6-ec29-4e5f-9f20-3548628589fb",
+                "49ad5b34-b2a2-4eef-bb51-0f85f1fb85fb"
             ]
         },
         "0634becf-f476-4f73-b8c1-de15f715f624": {
             "id": "0634becf-f476-4f73-b8c1-de15f715f624",
             "name": "Colonel Weber",
             "contexts": [
-                "7d907222-f3dc-44db-a318-13372019c11e",
-                "1562897d-a909-49c6-99cb-8d2541a599e3",
-                "5c1c532f-a64e-4ef4-b7ef-8b2ff52f4692",
-                "97fed275-141b-48ed-9745-7f5f76bed069",
-                "0cb6c84a-c380-4556-91e6-8925c284be7a",
-                "e4297f47-079b-431a-991f-cef8c4fa78e2",
-                "9370bea5-719c-4b35-837e-c4d079babfd1",
-                "3db1e88c-ed4e-4788-88e1-e3a2187d2837",
                 "a153eb55-8483-4c2c-9032-48b8b4a25a91",
                 "7ef98b61-3481-4f71-9422-9415d0ad4833",
-                "c1224351-45de-47bd-af1a-33325bc3e763",
-                "bbc57080-2126-453d-bd57-9cab673ca6e1",
-                "02552d92-ebce-44f5-a90a-af9b823cc471",
+                "aacf6462-21c0-40b4-b72a-0252b1974c50",
                 "d044b9b1-4d6d-445a-8848-f48717117015",
-                "e9de7227-268f-4a9d-9670-f492045ca77e",
+                "88558e42-70fc-400e-a3f8-d66bcd49e581",
+                "1562897d-a909-49c6-99cb-8d2541a599e3",
                 "073675cb-c98d-4bd3-9ab1-bd127a8a87c7",
+                "7d907222-f3dc-44db-a318-13372019c11e",
+                "3db1e88c-ed4e-4788-88e1-e3a2187d2837",
+                "fd30de42-bd8a-44c5-8abb-48538dbf2b81",
+                "0cb6c84a-c380-4556-91e6-8925c284be7a",
+                "5c1c532f-a64e-4ef4-b7ef-8b2ff52f4692",
+                "02552d92-ebce-44f5-a90a-af9b823cc471",
+                "bbc57080-2126-453d-bd57-9cab673ca6e1",
+                "5db67c3e-957f-4527-b3b4-97d665f046de",
+                "f47be48c-a939-4200-8942-1aab8ca2cdb2",
+                "c1224351-45de-47bd-af1a-33325bc3e763",
+                "656b52d5-f216-4c4a-9638-c7f7513d48ba",
                 "3bd6bbad-f8a4-4b6d-b1d3-32c60f986886",
                 "4b14c154-3130-42fc-ab44-8a37331c3058",
-                "276f7889-659a-48d4-83c8-87c7b045bcc8",
-                "88558e42-70fc-400e-a3f8-d66bcd49e581",
                 "1384936b-9bd7-4706-9dc1-05b6bdfbf76d",
-                "f47be48c-a939-4200-8942-1aab8ca2cdb2",
-                "aacf6462-21c0-40b4-b72a-0252b1974c50",
-                "656b52d5-f216-4c4a-9638-c7f7513d48ba",
-                "fd30de42-bd8a-44c5-8abb-48538dbf2b81",
+                "276f7889-659a-48d4-83c8-87c7b045bcc8",
+                "e9de7227-268f-4a9d-9670-f492045ca77e",
+                "10bbb36e-8b05-4d6f-86ce-10121021f634",
+                "97fed275-141b-48ed-9745-7f5f76bed069",
                 "54c04e91-5761-442e-9210-b95c2af4a8e6",
-                "5db67c3e-957f-4527-b3b4-97d665f046de"
+                "e4297f47-079b-431a-991f-cef8c4fa78e2",
+                "9370bea5-719c-4b35-837e-c4d079babfd1"
             ]
         },
-        "774ba9b5-6fc3-45d2-98ca-76dd36118cea": {
-            "id": "774ba9b5-6fc3-45d2-98ca-76dd36118cea",
-            "name": "Heptapods",
+        "617a87f3-4cda-4aef-92c3-e0253166e441": {
+            "id": "617a87f3-4cda-4aef-92c3-e0253166e441",
+            "name": "Heptapod B",
             "contexts": [
-                "dda55b95-9e39-46de-9a0f-b4530592e87b",
-                "843087f4-ea5f-4d26-b557-e4030e288ec6",
-                "4feb5eb1-4bda-4675-bf3e-1de0f706ceca",
-                "42947de5-b1c6-487f-8bdf-9e078f729b1d",
-                "4f373019-1d39-452d-a142-47e7bff44639",
-                "e05bbdc7-cc13-499b-9df0-1dc1a8ae0b85",
-                "de78179c-d795-41d8-a005-51381d09d89d",
-                "9213b543-7d8d-432d-b9b5-8674689d556b",
-                "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af",
-                "1bf1140d-fdae-43f3-964a-f0bd0eb3e0f7",
-                "253b0a8a-ef89-427b-974d-13ef422f34d5",
-                "22eb2d5b-a8b2-4929-b54a-a82aa518ae82",
-                "e505fc6e-c545-42da-9f2f-b19592fbae91",
-                "c4bfb1cd-b5f4-43e5-8581-906edb439057",
-                "3564d46f-7e1d-4951-abff-8e7d703dd604",
-                "93719b86-252c-4939-bf0d-2fb900d28694",
-                "94d4c2e6-ec29-4e5f-9f20-3548628589fb",
-                "dde78a57-7acf-4fc8-8a1c-22daa1f6221f",
-                "ca0b1c2b-6584-4068-80d5-b1bc781f371e",
-                "d044b9b1-4d6d-445a-8848-f48717117015",
-                "af9ba5b0-d4bf-48f9-90c2-0aacfd4cdff5",
-                "090fc909-5755-459f-95cd-85ffcafdfec0",
-                "6690e4b3-5695-4323-b8b0-cd6c1c498bc7",
-                "d348d9b3-806e-4095-aa84-dfcb1e089a69",
-                "1685ef32-2910-4caf-b333-f1bf35e2b361",
-                "ea2dea81-a6ec-4c86-ab91-0c82e6cb1f24",
-                "4b7e856d-857d-4ffc-914a-d8d9379bf3d2",
-                "f4ee8368-7715-43b7-8142-532482ce3799",
-                "119b4ab0-3b85-452a-b1ac-d794f64efced",
-                "945f1b09-10b6-4213-a444-653e0f01e630",
-                "fdc512f3-310f-4186-800e-29b1559e7e42",
                 "4f71da4e-c31c-407d-a60a-1b398ac0be78",
-                "4485579b-8db4-470d-8d0a-23396c156467",
+                "c4bfb1cd-b5f4-43e5-8581-906edb439057",
+                "d348d9b3-806e-4095-aa84-dfcb1e089a69",
+                "d044b9b1-4d6d-445a-8848-f48717117015",
+                "42947de5-b1c6-487f-8bdf-9e078f729b1d",
+                "22eb2d5b-a8b2-4929-b54a-a82aa518ae82",
+                "1685ef32-2910-4caf-b333-f1bf35e2b361",
+                "253b0a8a-ef89-427b-974d-13ef422f34d5",
+                "9213b543-7d8d-432d-b9b5-8674689d556b",
                 "6e201608-5f27-4ed0-95f5-17aaa1c101df",
-                "02d22537-15ba-483a-9fe0-672c6894dbce"
+                "ca0b1c2b-6584-4068-80d5-b1bc781f371e",
+                "fdc512f3-310f-4186-800e-29b1559e7e42",
+                "dde78a57-7acf-4fc8-8a1c-22daa1f6221f",
+                "f4ee8368-7715-43b7-8142-532482ce3799",
+                "dda55b95-9e39-46de-9a0f-b4530592e87b",
+                "af9ba5b0-d4bf-48f9-90c2-0aacfd4cdff5",
+                "4feb5eb1-4bda-4675-bf3e-1de0f706ceca",
+                "4b7e856d-857d-4ffc-914a-d8d9379bf3d2",
+                "93719b86-252c-4939-bf0d-2fb900d28694",
+                "de78179c-d795-41d8-a005-51381d09d89d",
+                "e505fc6e-c545-42da-9f2f-b19592fbae91",
+                "ea2dea81-a6ec-4c86-ab91-0c82e6cb1f24",
+                "843087f4-ea5f-4d26-b557-e4030e288ec6",
+                "945f1b09-10b6-4213-a444-653e0f01e630",
+                "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af",
+                "3564d46f-7e1d-4951-abff-8e7d703dd604",
+                "4f373019-1d39-452d-a142-47e7bff44639",
+                "94d4c2e6-ec29-4e5f-9f20-3548628589fb",
+                "4485579b-8db4-470d-8d0a-23396c156467",
+                "6690e4b3-5695-4323-b8b0-cd6c1c498bc7",
+                "090fc909-5755-459f-95cd-85ffcafdfec0",
+                "02d22537-15ba-483a-9fe0-672c6894dbce",
+                "119b4ab0-3b85-452a-b1ac-d794f64efced",
+                "1bf1140d-fdae-43f3-964a-f0bd0eb3e0f7",
+                "e05bbdc7-cc13-499b-9df0-1dc1a8ae0b85"
             ]
         },
         "0d7d8d83-c887-4bb9-9c8b-e9163f7c5829": {
             "id": "0d7d8d83-c887-4bb9-9c8b-e9163f7c5829",
             "name": "Flapper",
             "contexts": [
-                "c1224351-45de-47bd-af1a-33325bc3e763",
-                "3125ea9e-39b8-4de4-9c85-08e886a0cc9e",
-                "4f71da4e-c31c-407d-a60a-1b398ac0be78",
-                "a5066da4-cc43-4e0d-be58-e966e32a28aa",
-                "e27b8ab7-02ca-4a51-adb3-ec18a76f5f31",
-                "6f310289-36e7-403e-b314-7be45e95c9e1",
-                "6ea8266a-2f3d-4e3c-95d4-b874bd6da71b",
-                "8a9cdfb6-5fb3-406c-a31e-eb2963a750b5",
-                "5c25358d-8cf8-4ed8-baf1-e8ffaa21dd84",
-                "08a8e6d6-caa0-4428-9882-3b89446e7eec",
                 "6926313a-3168-441f-a9d0-711991599105",
+                "4f71da4e-c31c-407d-a60a-1b398ac0be78",
+                "5c25358d-8cf8-4ed8-baf1-e8ffaa21dd84",
+                "3125ea9e-39b8-4de4-9c85-08e886a0cc9e",
                 "d515616c-20f8-4c99-b223-588cb869c4af",
+                "c1224351-45de-47bd-af1a-33325bc3e763",
+                "e27b8ab7-02ca-4a51-adb3-ec18a76f5f31",
+                "08a8e6d6-caa0-4428-9882-3b89446e7eec",
+                "6f310289-36e7-403e-b314-7be45e95c9e1",
                 "026ddc7c-b498-427e-8349-9c06cacc7dcc",
-                "485bf68b-650a-4f6b-a169-7c062e107eec"
+                "8a9cdfb6-5fb3-406c-a31e-eb2963a750b5",
+                "485bf68b-650a-4f6b-a169-7c062e107eec",
+                "a5066da4-cc43-4e0d-be58-e966e32a28aa",
+                "6ea8266a-2f3d-4e3c-95d4-b874bd6da71b"
             ]
         },
         "900b9440-f5bc-47be-bdec-94d7f58d6c09": {
             "id": "900b9440-f5bc-47be-bdec-94d7f58d6c09",
             "name": "Raspberry",
             "contexts": [
-                "e6702676-333b-4305-a5cc-a6b06263af5d",
+                "6926313a-3168-441f-a9d0-711991599105",
+                "5c25358d-8cf8-4ed8-baf1-e8ffaa21dd84",
                 "c1224351-45de-47bd-af1a-33325bc3e763",
-                "e4297f47-079b-431a-991f-cef8c4fa78e2",
-                "745647a9-2455-4d5b-9eee-b5f479d2af28",
-                "6f310289-36e7-403e-b314-7be45e95c9e1",
-                "a5066da4-cc43-4e0d-be58-e966e32a28aa",
                 "e27b8ab7-02ca-4a51-adb3-ec18a76f5f31",
                 "08a8e6d6-caa0-4428-9882-3b89446e7eec",
-                "8a9cdfb6-5fb3-406c-a31e-eb2963a750b5",
-                "5c25358d-8cf8-4ed8-baf1-e8ffaa21dd84",
-                "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af",
-                "6926313a-3168-441f-a9d0-711991599105",
+                "4485579b-8db4-470d-8d0a-23396c156467",
+                "745647a9-2455-4d5b-9eee-b5f479d2af28",
+                "6f310289-36e7-403e-b314-7be45e95c9e1",
                 "026ddc7c-b498-427e-8349-9c06cacc7dcc",
-                "4485579b-8db4-470d-8d0a-23396c156467"
+                "8a9cdfb6-5fb3-406c-a31e-eb2963a750b5",
+                "e4297f47-079b-431a-991f-cef8c4fa78e2",
+                "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af",
+                "e6702676-333b-4305-a5cc-a6b06263af5d",
+                "a5066da4-cc43-4e0d-be58-e966e32a28aa"
             ]
         },
-        "bedb7562-f7f0-4046-b485-b4a36af548a7": {
-            "id": "bedb7562-f7f0-4046-b485-b4a36af548a7",
-            "name": "Mom",
+        "e2926679-6a1a-47e2-8c92-4a08d08a5e78": {
+            "id": "e2926679-6a1a-47e2-8c92-4a08d08a5e78",
+            "name": "Mother",
             "contexts": [
-                "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72",
-                "96bc8a23-e37f-4553-bc08-4025849a97f4",
-                "66c9b93f-77d5-4dd6-9b0b-a3f73d75a7c5",
                 "fa97d2c6-128c-4e92-9a17-cefe8782c82d",
-                "9b0d0b1b-135a-4e23-9c43-96bc550dbf92",
                 "6616dfcd-310e-4812-b9f0-1c5b03919df3",
-                "f80b00af-0d72-40a6-9d4d-c36c625b4b00",
-                "357e0ffe-508a-4949-b07f-14b65eeaa504",
-                "c7a16afc-ad50-49f6-bd07-a5b51618e275",
-                "7af00804-c755-4642-b5d6-be7cc55c9249",
                 "3f77d588-9cc3-4006-be5f-0eedd5e979ff",
-                "814ada17-0292-422b-a707-6960ba7d6d10",
-                "a92457bd-05a8-4b0b-8603-6243e0defc04",
-                "5b6d0989-6763-4889-ba51-8dc96f52eb7c",
                 "310b63c0-5dbe-4ab4-8298-844b48d2c39d",
-                "215c7ad4-add6-4005-9f19-603839d0c2e6"
+                "215c7ad4-add6-4005-9f19-603839d0c2e6",
+                "9b0d0b1b-135a-4e23-9c43-96bc550dbf92",
+                "a92457bd-05a8-4b0b-8603-6243e0defc04",
+                "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72",
+                "814ada17-0292-422b-a707-6960ba7d6d10",
+                "66c9b93f-77d5-4dd6-9b0b-a3f73d75a7c5",
+                "c7a16afc-ad50-49f6-bd07-a5b51618e275",
+                "5b6d0989-6763-4889-ba51-8dc96f52eb7c",
+                "357e0ffe-508a-4949-b07f-14b65eeaa504",
+                "7af00804-c755-4642-b5d6-be7cc55c9249",
+                "f80b00af-0d72-40a6-9d4d-c36c625b4b00",
+                "96bc8a23-e37f-4553-bc08-4025849a97f4"
             ]
         },
         "250aa822-09c2-44b7-9251-72160a4b2476": {
             "id": "250aa822-09c2-44b7-9251-72160a4b2476",
             "name": "your father",
             "contexts": [
-                "818b869d-84dc-49b0-9dd6-8e07560cf84e",
                 "ff5dfca5-e6fc-49ce-8608-8beca9112b5d",
-                "1685ef32-2910-4caf-b333-f1bf35e2b361",
-                "943411ca-c638-430f-a658-2eff0c996ba7",
-                "f4ee8368-7715-43b7-8142-532482ce3799",
-                "4913ceb2-ce5d-45aa-81fa-a33975f6868c",
-                "e1b26386-5fd1-486f-857a-0d96efbea876",
                 "3a84a7d6-00f8-4017-bacf-bceb7ea103ef",
-                "357e0ffe-508a-4949-b07f-14b65eeaa504",
+                "4913ceb2-ce5d-45aa-81fa-a33975f6868c",
                 "3f77d588-9cc3-4006-be5f-0eedd5e979ff",
-                "bbb9f2a2-8021-4b2a-a325-9a5efc30d609",
                 "6d122e4b-df15-4227-995f-6e5ecdd6ecff",
-                "1384936b-9bd7-4706-9dc1-05b6bdfbf76d",
-                "5108547b-8dea-4972-aecd-9dca6d41529c",
                 "a92457bd-05a8-4b0b-8603-6243e0defc04",
+                "f4ee8368-7715-43b7-8142-532482ce3799",
+                "bbb9f2a2-8021-4b2a-a325-9a5efc30d609",
+                "1384936b-9bd7-4706-9dc1-05b6bdfbf76d",
+                "943411ca-c638-430f-a658-2eff0c996ba7",
+                "5108547b-8dea-4972-aecd-9dca6d41529c",
+                "1685ef32-2910-4caf-b333-f1bf35e2b361",
+                "47b14d8f-15ae-4db5-a37a-5e8bcf83a970",
+                "e1b26386-5fd1-486f-857a-0d96efbea876",
+                "357e0ffe-508a-4949-b07f-14b65eeaa504",
                 "d80b2610-0caa-4734-aa79-8bd92b04cb63",
-                "47b14d8f-15ae-4db5-a37a-5e8bcf83a970"
+                "818b869d-84dc-49b0-9dd6-8e07560cf84e"
             ]
         },
         "994c65dd-b16b-4b3a-bdcb-3d6b797d3a6b": {
             "id": "994c65dd-b16b-4b3a-bdcb-3d6b797d3a6b",
             "name": "Burghart",
             "contexts": [
+                "14dcb2e7-d831-4df3-96ca-583508600c2b",
+                "f47be48c-a939-4200-8942-1aab8ca2cdb2",
                 "f475fa24-8f8b-4fe6-9e29-4dbd2373ec21",
+                "97fed275-141b-48ed-9745-7f5f76bed069",
                 "25e141f1-0a2d-4a1e-a2b9-d4ca3e43130b",
                 "e4297f47-079b-431a-991f-cef8c4fa78e2",
-                "14dcb2e7-d831-4df3-96ca-583508600c2b",
-                "95b9ac0a-a7e4-4a0e-ab40-f4468f061889",
                 "313103a4-2eea-4468-b565-c6af0236491b",
-                "f47be48c-a939-4200-8942-1aab8ca2cdb2",
-                "97fed275-141b-48ed-9745-7f5f76bed069"
-            ]
-        },
-        "a2528651-e340-494a-b1b1-03ff1e527bf6": {
-            "id": "a2528651-e340-494a-b1b1-03ff1e527bf6",
-            "name": "He",
-            "contexts": [
-                "3b0b1823-d6bd-4c93-9b0b-89b9374a8517",
-                "b2c959cd-ab4a-4850-8e77-b85b92ceb0a6",
-                "344d5a7f-2d6a-4571-8aac-593f7ff23172",
-                "d80b2610-0caa-4734-aa79-8bd92b04cb63",
-                "48a6cc66-fb3e-40f1-a00a-64cea61a8c9e",
-                "9b0d0b1b-135a-4e23-9c43-96bc550dbf92",
-                "6f6f8e6b-66e8-4b60-b67d-1ce33fa1c9f6",
-                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a",
-                "66cfdff9-d853-4d03-9935-99a107576719",
-                "873fd072-0fba-4413-8c28-ff1c2dd86bcc",
-                "8d450c15-6d15-4fff-948e-3810512ef559"
+                "95b9ac0a-a7e4-4a0e-ab40-f4468f061889"
             ]
         },
         "269aa741-d113-4529-9107-8df1e0aac3ab": {
             "id": "269aa741-d113-4529-9107-8df1e0aac3ab",
             "name": "Nelson",
             "contexts": [
-                "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72",
-                "818b869d-84dc-49b0-9dd6-8e07560cf84e",
+                "310b63c0-5dbe-4ab4-8298-844b48d2c39d",
                 "bbb9f2a2-8021-4b2a-a325-9a5efc30d609",
+                "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72",
                 "5108547b-8dea-4972-aecd-9dca6d41529c",
-                "310b63c0-5dbe-4ab4-8298-844b48d2c39d"
+                "818b869d-84dc-49b0-9dd6-8e07560cf84e"
             ]
         },
-        "be1ff4b7-da2c-4d03-a9ca-c1134684f128": {
-            "id": "be1ff4b7-da2c-4d03-a9ca-c1134684f128",
-            "name": "Gary Donnelly",
-            "contexts": [
-                "9370bea5-719c-4b35-837e-c4d079babfd1",
-                "99bb7e2e-265f-467e-ae42-75b37e112832",
-                "3bd6bbad-f8a4-4b6d-b1d3-32c60f986886",
-                "073675cb-c98d-4bd3-9ab1-bd127a8a87c7",
-                "ef795da1-e666-414b-9e09-302efa3d5486"
-            ]
-        },
-        "58de3825-56f7-4c74-941f-0ecfa3cfc055": {
-            "id": "58de3825-56f7-4c74-941f-0ecfa3cfc055",
-            "name": "Hossner",
+        "3c625ab3-f493-4944-84ec-99bc9c1eea49": {
+            "id": "3c625ab3-f493-4944-84ec-99bc9c1eea49",
+            "name": "Mr. Hossner",
             "contexts": [
                 "d95ab694-6746-47c5-8850-7b896c77b754",
-                "95b9ac0a-a7e4-4a0e-ab40-f4468f061889",
                 "a8ab577e-ee5f-4773-94ae-2c761da51bf8",
                 "c7a16afc-ad50-49f6-bd07-a5b51618e275",
-                "313103a4-2eea-4468-b565-c6af0236491b"
+                "313103a4-2eea-4468-b565-c6af0236491b",
+                "95b9ac0a-a7e4-4a0e-ab40-f4468f061889"
             ]
         },
         "0328d8da-c4d0-414e-b6f0-3c8128931db7": {
             "id": "0328d8da-c4d0-414e-b6f0-3c8128931db7",
             "name": "what\u2019s-her-name",
             "contexts": [
-                "818b869d-84dc-49b0-9dd6-8e07560cf84e",
+                "bbb9f2a2-8021-4b2a-a325-9a5efc30d609",
                 "5108547b-8dea-4972-aecd-9dca6d41529c",
-                "bbb9f2a2-8021-4b2a-a325-9a5efc30d609"
+                "818b869d-84dc-49b0-9dd6-8e07560cf84e"
             ]
         },
         "20dbc8d4-4dad-408f-b380-be81afa42373": {
             "id": "20dbc8d4-4dad-408f-b380-be81afa42373",
             "name": "The colonel",
             "contexts": [
-                "1384936b-9bd7-4706-9dc1-05b6bdfbf76d",
-                "10bbb36e-8b05-4d6f-86ce-10121021f634",
-                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a",
                 "f8c9e525-6147-4b8c-8112-ac2253b223d0",
-                "54c04e91-5761-442e-9210-b95c2af4a8e6"
-            ]
-        },
-        "01691c23-cf9a-4016-92d5-227c85b834f9": {
-            "id": "01691c23-cf9a-4016-92d5-227c85b834f9",
-            "name": "Louise",
-            "contexts": [
-                "117238ac-55c3-4267-a954-3f1dfa964704",
-                "8d450c15-6d15-4fff-948e-3810512ef559",
-                "c7a16afc-ad50-49f6-bd07-a5b51618e275"
-            ]
-        },
-        "6d2b797d-69bd-426c-8604-663d086e2a3a": {
-            "id": "6d2b797d-69bd-426c-8604-663d086e2a3a",
-            "name": "Humans",
-            "contexts": [
-                "843087f4-ea5f-4d26-b557-e4030e288ec6",
-                "253b0a8a-ef89-427b-974d-13ef422f34d5",
-                "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af"
+                "54c04e91-5761-442e-9210-b95c2af4a8e6",
+                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a"
             ]
         },
         "3b6ed47a-2f09-48ee-adc7-227497831651": {
@@ -413,42 +281,37 @@
             "name": "Louise Banks",
             "contexts": [
                 "073675cb-c98d-4bd3-9ab1-bd127a8a87c7",
+                "c7a16afc-ad50-49f6-bd07-a5b51618e275",
+                "117238ac-55c3-4267-a954-3f1dfa964704",
+                "8d450c15-6d15-4fff-948e-3810512ef559",
                 "276f7889-659a-48d4-83c8-87c7b045bcc8"
             ]
         },
-        "48f48c15-28cd-4cf7-af2c-a0b127662f9c": {
-            "id": "48f48c15-28cd-4cf7-af2c-a0b127662f9c",
-            "name": "She",
+        "6d2b797d-69bd-426c-8604-663d086e2a3a": {
+            "id": "6d2b797d-69bd-426c-8604-663d086e2a3a",
+            "name": "Humans",
             "contexts": [
-                "68c338d8-d605-4d82-8fba-cd37af339c32",
-                "09e06d6b-aa72-4953-9d94-ec4d74c3e4eb",
-                "49ad5b34-b2a2-4eef-bb51-0f85f1fb85fb",
-                "44842350-ff19-4c17-a12f-aff74ebfbdd4",
-                "5ba5e2ad-a7b6-42ad-9b99-0f7d66bf0a65"
-            ]
-        },
-        "940c401d-c6b0-48fe-97b0-7316490e6510": {
-            "id": "940c401d-c6b0-48fe-97b0-7316490e6510",
-            "name": "Human",
-            "contexts": [
+                "42947de5-b1c6-487f-8bdf-9e078f729b1d",
+                "253b0a8a-ef89-427b-974d-13ef422f34d5",
+                "843087f4-ea5f-4d26-b557-e4030e288ec6",
                 "1bf1140d-fdae-43f3-964a-f0bd0eb3e0f7",
-                "42947de5-b1c6-487f-8bdf-9e078f729b1d"
+                "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af"
             ]
         },
         "fbe63c35-5244-4294-8e80-60df6d811243": {
             "id": "fbe63c35-5244-4294-8e80-60df6d811243",
             "name": "Aborigine",
             "contexts": [
-                "a37f8971-2c66-4a50-844b-5b05bc4d4931",
-                "fd822633-91f4-4d74-aa08-8d1305a70ea4"
+                "fd822633-91f4-4d74-aa08-8d1305a70ea4",
+                "a37f8971-2c66-4a50-844b-5b05bc4d4931"
             ]
         },
         "524d67e1-4a1f-47db-8f27-4ef7db7be7f1": {
             "id": "524d67e1-4a1f-47db-8f27-4ef7db7be7f1",
             "name": "Roxie",
             "contexts": [
-                "96bc8a23-e37f-4553-bc08-4025849a97f4",
-                "310b63c0-5dbe-4ab4-8298-844b48d2c39d"
+                "310b63c0-5dbe-4ab4-8298-844b48d2c39d",
+                "96bc8a23-e37f-4553-bc08-4025849a97f4"
             ]
         },
         "8a14d04d-9afc-4e6d-b160-e4631679bf22": {
@@ -456,13 +319,6 @@
             "name": "An orderly",
             "contexts": [
                 "4913ceb2-ce5d-45aa-81fa-a33975f6868c"
-            ]
-        },
-        "7464891d-c568-4467-952c-29a7b9dd8bd0": {
-            "id": "7464891d-c568-4467-952c-29a7b9dd8bd0",
-            "name": "MP",
-            "contexts": [
-                "5ba5e2ad-a7b6-42ad-9b99-0f7d66bf0a65"
             ]
         },
         "e26ac666-c757-4f04-886c-1f49b6c445d6": {
@@ -483,6 +339,7 @@
             "id": "8d5a4de6-bf53-4c50-b5ee-f7acd374ec03",
             "name": "Captain Cook",
             "contexts": [
+                "fd822633-91f4-4d74-aa08-8d1305a70ea4",
                 "a37f8971-2c66-4a50-844b-5b05bc4d4931"
             ]
         },
@@ -493,32 +350,11 @@
                 "a37f8971-2c66-4a50-844b-5b05bc4d4931"
             ]
         },
-        "3982b77f-5e27-4768-b900-93f0982ba4ef": {
-            "id": "3982b77f-5e27-4768-b900-93f0982ba4ef",
-            "name": "Cook",
-            "contexts": [
-                "fd822633-91f4-4d74-aa08-8d1305a70ea4"
-            ]
-        },
         "66908285-09b4-4633-bc57-21170e71d5c5": {
             "id": "66908285-09b4-4633-bc57-21170e71d5c5",
             "name": "Sharon",
             "contexts": [
                 "f43665d6-fb32-45f3-ac92-29db3e00cd14"
-            ]
-        },
-        "6c9d4df1-9410-429b-a0ae-2532c3dd35f7": {
-            "id": "6c9d4df1-9410-429b-a0ae-2532c3dd35f7",
-            "name": "they",
-            "contexts": [
-                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a"
-            ]
-        },
-        "cf281a22-3969-4bb9-a14f-de563d3d9b4b": {
-            "id": "cf281a22-3969-4bb9-a14f-de563d3d9b4b",
-            "name": "we",
-            "contexts": [
-                "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a"
             ]
         },
         "5c538d3b-1429-4191-a5f7-362e34b1c657": {
@@ -575,6 +411,13 @@
             "name": "Puppy",
             "contexts": [
                 "b68d982c-44fc-48ba-80ef-f3aa62f1da27"
+            ]
+        },
+        "a231ffa4-b562-49cf-9618-7f7e2df317ce": {
+            "id": "a231ffa4-b562-49cf-9618-7f7e2df317ce",
+            "name": "Your",
+            "contexts": [
+                "1685ef32-2910-4caf-b333-f1bf35e2b361"
             ]
         },
         "9e82a3f0-2d96-4803-bebb-a97bdc7adc98": {
@@ -728,8 +571,7 @@
             "text": "Story of Your Life T ed Chiang 2000 Your father is about to ask me the question. This is the most important moment in our lives, and I want to pay attention, note every detail. Your dad and I have just come back \ueecaom an evening out, dinner and a show; it\u2019s a\ueecber midnight. We came out onto the patio to look at the full moon; then I told your dad I wanted to dance, so he humors me and now we\u2019re slow-dancing, a pair of thirtysomethings swaying back and forth in the moon-light like kids. I don\u2019t feel the",
             "characters": [
                 "I",
-                "Your dad",
-                "Your father"
+                "your father"
             ]
         },
         "3a84a7d6-00f8-4017-bacf-bceb7ea103ef": {
@@ -741,7 +583,7 @@
             "text": "forth in the moon-light like kids. I don\u2019t feel the night chill at all. And then your dad says, \u201cDo you want to make a baby?\u201d Right now your dad and I have been married for about two years, living on Ellis Avenue; when we move out you\u2019ll still be too young to remember the house, but we\u2019ll show you pictures of it, tell you stories about it. I\u2019d love to tell you the story of this evening, the night you\u2019re conceived, but the right time to do that would be when you\u2019re ready to have children of your own,",
             "characters": [
                 "I",
-                "your dad"
+                "your father"
             ]
         },
         "477daca2-66fe-4005-9c41-71492b682a1b": {
@@ -765,8 +607,8 @@
             "text": "years ago I knew the carpets would need vacu- uming around now, and having a baby seemed to be the cheapest and easiest way to get the job done. Now kindly get on with it.\u201d \u201cIf you weren\u2019t my mother, this would be illegal,\u201d you\u2019ll say, seething as you unwind the power cord and plug it into the wall outlet. That will be in the house on Belmont Street. I\u2019ll live to see strangers occupy both houses: the one you\u2019re conceived in and the one you grow up in. Your dad and I will sell the \ufb01rst a couple years",
             "characters": [
                 "Mother",
-                "dad",
-                "you"
+                "you",
+                "your father"
             ]
         },
         "bbb9f2a2-8021-4b2a-a325-9a5efc30d609": {
@@ -778,11 +620,10 @@
             ],
             "text": "dad and I will sell the \ufb01rst a couple years a\ueecber your arrival. I\u2019ll sell the second shortly a\ueecber your departure. By then Nelson and I will have moved into our farmhouse, and your dad will be living with what\u2019s-her-name. 2 I know how this story ends; I think about it a lot. I also think a lot about how it began, just a few years ago, when ships appeared in orbit and artifacts appeared in meadows. The government said next to nothing about them, while the tabloids said every possible thing. And then I got a phone call, a",
             "characters": [
-                "your dad",
-                "what\u2019s-her-name",
                 "I",
-                "dad",
-                "Nelson"
+                "what\u2019s-her-name",
+                "Nelson",
+                "your father"
             ]
         },
         "276f7889-659a-48d4-83c8-87c7b045bcc8": {
@@ -805,9 +646,9 @@
             ],
             "text": "the soldier. \u201cLouise Banks.\u201d \u201cDr. Banks. Thank you for taking the time to speak with us,\u201d he said. \u201cNot at all; any excuse to avoid the faculty meeting.\u201d Colonel Weber indicated his companion. \u201cThis is Dr. Gary Donnelly, the physicist I mentioned when we spoke on the phone.\u201d \u201cCall me Gary,\u201d he said as we shook hands. \u201cI\u2019m anxious to hear what you have to say.\u201d We entered my o\ufb03ce. I moved a couple of stacks of books o\ufb00 the second guest chair, and we all sat down. \u201cYou said you wanted me to listen to a recording. I presume",
             "characters": [
+                "Gary Donnelly",
                 "Colonel Weber",
-                "Louise Banks",
-                "Gary Donnelly"
+                "Louise Banks"
             ]
         },
         "0cb6c84a-c380-4556-91e6-8925c284be7a": {
@@ -841,8 +682,8 @@
             ],
             "text": "look like humans?\u201d The colonel was about to say something noncommittal when Gary Donnelly asked, \u201cCan you make any guesses based on the tape?\u201d 3 \u201cNot really. It doesn\u2019t sound like they\u2019re using a larynx to make those sounds, but that doesn\u2019t tell me what they look like.\u201d \u201cAnything\u2014is there anything else you can tell us?\u201d asked Colonel Weber. I could see he wasn\u2019t accustomed to consulting a civilian. \u201cOnly that establishing communications is going to be really di\ufb03cult because of the di\ufb00erence in anatomy. They\u2019re almost certainly using sounds that the human vocal tract can\u2019t reproduce, and maybe sounds",
             "characters": [
-                "Colonel Weber",
-                "Gary Donnelly"
+                "Gary Donnelly",
+                "Colonel Weber"
             ]
         },
         "ef795da1-e666-414b-9e09-302efa3d5486": {
@@ -864,8 +705,8 @@
             ],
             "text": "that case we\u2019d need a sound spectrograph to know what an alien is saying.\u201d Colonel Weber asked, \u201cSuppose I gave you an hour\u2019s worth of recordings; how long would it take you to determine if we need this sound spectrograph or not?\u201d \u201cI couldn\u2019t determine that with just a recording no matter how much time I had. I\u2019d need to talk with the aliens directly.\u201d The colonel shook his head. \u201cNot possible.\u201d I tried to break it to him gently. \u201cThat\u2019s your call, of course. But the only way to learn an unknown language is to interact with a native",
             "characters": [
-                "I",
-                "Colonel Weber"
+                "Colonel Weber",
+                "I"
             ]
         },
         "1562897d-a909-49c6-99cb-8d2541a599e3": {
@@ -887,8 +728,8 @@
             ],
             "text": "designed to teach human languages to non-humans. Either that, or interaction with a human. If they had either of those, they could learn a lot \ueecaom TV, but otherwise, they wouldn\u2019t have a starting point.\u201d The colonel clearly found this interesting; evidently his philosophy was, the less the aliens knew, the better. Gary Donnelly read the colonel\u2019s expression too and rolled his eyes. I suppressed a smile. Then Colonel Weber asked, \u201cSuppose you were learning a new language by talking to its speakers; could you do it without teaching them English?\u201d \u201cThat would depend on how cooperative the native speakers",
             "characters": [
-                "Colonel Weber",
-                "Gary Donnelly"
+                "Gary Donnelly",
+                "Colonel Weber"
             ]
         },
         "f8c9e525-6147-4b8c-8112-ac2253b223d0": {
@@ -912,9 +753,8 @@
             "text": "be the one \ueecaom Mountain Rescue. At that point your dad and I will be speaking to each other maybe once a year, tops. A\ueecber I get that phone call, though, the \ufb01rst thing I\u2019ll do will be to call your father. He and I will drive out together to perform the identi\ufb01cation, a long silent car ride. I remember the morgue, all tile and stainless steel, the hum of re\ueecaigeration and smell of antiseptic. An orderly will pull the sheet back to reveal your face. Your face will look wrong somehow, but I\u2019ll know it\u2019s you. \u201cYes, that\u2019s her,\u201d",
             "characters": [
                 "I",
-                "your father",
                 "An orderly",
-                "your dad"
+                "your father"
             ]
         },
         "5ba5e2ad-a7b6-42ad-9b99-0f7d66bf0a65": {
@@ -925,8 +765,8 @@
             ],
             "text": "wrong somehow, but I\u2019ll know it\u2019s you. \u201cYes, that\u2019s her,\u201d I\u2019ll say. \u201cShe\u2019s mine.\u201d You\u2019ll be twenty-\ufb01ve then. The MP checked my badge, made a notation on his clipboard, and opened the gate; I drove the o\ufb00-road vehicle into the encampment, a small village of tents pitched by the Army in a farmer\u2019s sun-scorched pasture. At the center of the encampment was one of the alien devices, nicknamed \u201clooking glasses.\u201d According to the brie\ufb01ngs I\u2019d attended, there were nine of these in the United States, one hundred and twelve in the world. The looking glasses acted as twoway communication devices,",
             "characters": [
-                "I",
                 "She",
+                "I",
                 "MP"
             ]
         },
@@ -949,7 +789,7 @@
             ],
             "text": "was an equipment cart loaded with goodies borrowed \ueecaom the school\u2019s phonology lab; I had sent it ahead for inspection by the Army. Also outside the tent were three tripod-mounted video cameras whose lenses peered, through windows in the fabric wall, into the main room. Everything Gary and I did would be reviewed by countless others, including military intelligence. In addition we would each send daily reports, of which mine had to include estimates on how much English I thought the aliens could understand. Gary held open the tent \ufb02ap and gestured for me to enter. \u201cStep right up,\u201d he",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "48a6cc66-fb3e-40f1-a00a-64cea61a8c9e": {
@@ -973,7 +813,7 @@
             ],
             "text": "and a power strip with a cord leading to a generator outside. The buzz of \ufb02uorescent lamps, hung \ueecaom poles along the edge of the room, commingled with the buzz of \ufb02ies in the sweltering heat. Gary and I looked at each other, and then began pushing the cart of equipment up to the table. As we crossed the paint line, the looking glass appeared to grow transparent; it was as if someone was slowly raising the illumination behind tinted glass. The illusion of depth was uncanny; I felt I could walk right into it. Once the looking glass was",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "158fe327-cb99-4e47-b4f0-fea461cdf999": {
@@ -995,8 +835,8 @@
             ],
             "text": "intersection of seven limbs. It was radially symmetric, and any of its limbs could serve as an arm or a leg. The one in \ueecaont of me was walking around on four legs, three non-adjacent arms curled up at its sides. Gary called them \u201cheptapods.\u201d I\u2019d been shown videotapes, but I still gawked. Its limbs had no distinct joints; anatomists guessed they might be supported by vertebral columns. Whatever their underlying structure, the heptapod\u2019s limbs conspired to move it in a disconcertingly \ufb02uid manner. Its \u201ctorso\u201d rode atop the rippling limbs as smoothly as a hovercra\ueecb. Seven lidless eyes ringed",
             "characters": [
-                "Heptapods",
-                "Gary"
+                "Gary Donnelly",
+                "Heptapod B"
             ]
         },
         "0fa297f4-bc1a-4afb-8874-8593f430bd4d": {
@@ -1007,7 +847,7 @@
             ],
             "text": "limbs as smoothly as a hovercra\ueecb. Seven lidless eyes ringed the top of the heptapod\u2019s body. It walked back to the doorway \ueecaom which it entered, made a brief sputtering sound, and returned to the center of the room followed by another heptapod; at no point did it ever turn around. Eerie, but logical; with eyes on all sides, any direction might as well be \u201cforward.\u201d Gary had been watching my reaction. \u201cReady?\u201d he asked. I took a deep breath. \u201cReady enough.\u201d I\u2019d done plenty of \ufb01eldwork before, in the Amazon, but it had always been a bilingual procedure: either",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "c4bfb1cd-b5f4-43e5-8581-906edb439057": {
@@ -1018,7 +858,7 @@
             ],
             "text": "Amazon, but it had always been a bilingual procedure: either my informants knew some Portuguese, which I could use, or I\u2019d previously gotten an introduction to their language \ueecaom the local missionaries. This would be my \ufb01rst attempt at conducting a true monolingual discovery procedure. It was straightforward enough in theory, though. I walked up to the looking glass and a heptapod on the other side did the same. The image was so real that my skin crawled. I could see the texture of its gray skin, like corduroy ridges arranged in whorls and loops. There was no smell at",
             "characters": [
-                "Heptapod",
+                "Heptapod B",
                 "Amazon"
             ]
         },
@@ -1031,8 +871,8 @@
             ],
             "text": "arranged in whorls and loops. There was no smell at all \ueecaom the looking glass, which somehow made the situation stranger. 6 I pointed to myself and said slowly, \u201cHuman.\u201d Then I pointed to Gary. \u201cHuman.\u201d Then I pointed at each heptapod and said, \u201cWhat are you?\u201d No reaction. I tried again, and then again. One of the heptapods pointed to itself with one limb, the four terminal digits pressed together. That was lucky. In some cultures a person pointed with his chin; if the heptapod hadn\u2019t used one of its limbs, I wouldn\u2019t have known what gesture to look",
             "characters": [
-                "Heptapod",
-                "Gary"
+                "Gary Donnelly",
+                "Heptapod B"
             ]
         },
         "1bf1140d-fdae-43f3-964a-f0bd0eb3e0f7": {
@@ -1043,9 +883,9 @@
             ],
             "text": "its limbs, I wouldn\u2019t have known what gesture to look for. I heard a brief \ufb02uttering sound, and saw a puckered ori\ufb01ce at the top of its body vibrate; it was talking. Then it pointed to its companion and \ufb02uttered again. I went back to my computer; on its screen were two virtually identical spectro- graphs representing the \ufb02uttering sounds. I marked a sample for playback. I pointed to myself and said \u201cHuman\u201d again, and did the same with Gary. Then I pointed to the heptapod, and played back the \ufb02utter on the speaker. The heptapod \ufb02uttered some more. The",
             "characters": [
-                "Heptapod",
-                "Human",
-                "Gary"
+                "Humans",
+                "Gary Donnelly",
+                "Heptapod B"
             ]
         },
         "945f1b09-10b6-4213-a444-653e0f01e630": {
@@ -1056,7 +896,7 @@
             ],
             "text": "\ufb02utter on the speaker. The heptapod \ufb02uttered some more. The second half of the spectrograph for this utterance looked like a repetition: call the previous utterances [\ufb02utter1], then this one was [\ufb02utter2\ufb02utter1]. I pointed at something that might have been a heptapod chair. \u201cWhat is that?\u201d The heptapod paused, and then pointed at the \u201cchair\u201d and talked some more. The spectrograph for this di\ufb00ered distinctly \ueecaom that of the earlier sounds: [\ufb02utter3]. Once again, I pointed to the \u201cchair\u201d while playing back [\ufb02utter3]. The heptapod replied; judging by the spectrograph, it looked like [\ufb02utter3\ufb02utter2]. Optimistic interpretation: the heptapod was con\ufb01rming",
             "characters": [
-                "Heptapod"
+                "Heptapod B"
             ]
         },
         "4b7e856d-857d-4ffc-914a-d8d9379bf3d2": {
@@ -1067,8 +907,8 @@
             ],
             "text": "it looked like [\ufb02utter3\ufb02utter2]. Optimistic interpretation: the heptapod was con\ufb01rming my utterances as correct, which implied compatibility between heptapod and human patterns of discourse. Pes- simistic interpretation: it had a nagging cough. At my computer I delimited certain sections of the spectrograph and typed in a tentative gloss for each: \u201cheptapod\u201d for [\ufb02utter1], \u201cyes\u201d for [\ufb02utter2], and \u201cchair\u201d for [\ufb02utter3]. Then I typed \u201cLanguage: Heptapod A\u201d as a heading for all the utterances. Gary watched what I was typing. \u201cWhat\u2019s the \u2018A\u2019 for?\u201d \u201cIt just distinguishes this language \ueecaom any other ones the heptapods might use,\u201d I said. He nodded.",
             "characters": [
-                "Heptapod",
-                "Gary"
+                "Gary Donnelly",
+                "Heptapod B"
             ]
         },
         "fdc512f3-310f-4186-800e-29b1559e7e42": {
@@ -1079,7 +919,7 @@
             ],
             "text": "other ones the heptapods might use,\u201d I said. He nodded. \u201cNow let\u2019s try something, just for laughs.\u201d I pointed at each heptapod and tried to mimic the sound of [\ufb02utter1], \u201cheptapod.\u201d A\ueecber a long pause, the \ufb01rst heptapod said something and then the second one said something else, neither of whose spec- trographs resembled anything said before. I couldn\u2019t tell if they were speaking to each other or to me since they had no faces to turn. I tried pronouncing [\ufb02utter1] again, but there was no reaction. \u201cNot even close,\u201d I grumbled. \u201cI\u2019m impressed you can make sounds like that",
             "characters": [
-                "Heptapod"
+                "Heptapod B"
             ]
         },
         "b435828b-8117-498a-a588-89bfdf13a0ca": {
@@ -1091,7 +931,7 @@
             ],
             "text": "I grumbled. \u201cI\u2019m impressed you can make sounds like that at all,\u201d said Gary. \u201cYou should hear my moose call. Sends them running.\u201d 7 I tried again a few more times, but neither heptapod responded with anything I could recognize. Only when I replayed the recording of the heptapod\u2019s pronunciation did I get a con\ufb01rmation; the heptapod replied with [\ufb02utter2], \u201cyes.\u201d \u201cSo we\u2019re stuck with using recordings?\u201d asked Gary. I nodded. \u201cAt least temporarily.\u201d \u201cSo now what?\u201d \u201cNow we make sure it hasn\u2019t actually been saying \u2018aren\u2019t they cute\u2019 or \u2018look what they\u2019re doing now.\u2019 Then we see if we",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "a37f8971-2c66-4a50-844b-5b05bc4d4931": {
@@ -1102,8 +942,8 @@
             ],
             "text": "\u2018look what they\u2019re doing now.\u2019 Then we see if we can identi\ueecd any of these words when that other heptapod pronounces them.\u201d I gestured for him to have a seat. \u201cGet comfortable; this\u2019ll take a while.\u201d In 1770, Captain Cook\u2019s ship Endeavour ran aground on the coast of Queensland, Australia. While some of his men made repairs, Cook led an exploration party and met the aboriginal people. One of the sailors pointed to the animals that hopped around with their young riding in pouches, and asked an aborigine what they were called. The aborigine replied, \u201cKanguru.\u201d From then on Cook",
             "characters": [
-                "Sailors",
                 "Captain Cook",
+                "Sailors",
                 "Aborigine"
             ]
         },
@@ -1115,7 +955,7 @@
             ],
             "text": "were called. The aborigine replied, \u201cKanguru.\u201d From then on Cook and his sailors referred to the animals by this word. It wasn\u2019t until later that they learned it meant \u201cWhat did you say?\u201d I tell that story in my introductory course every year. It\u2019s almost certainly untrue, and I explain that a\ueecberwards, but it\u2019s a classic anecdote. Of course, the anecdotes my undergraduates will really want to hear are ones featuring the heptapods; for the rest of my teaching career, that\u2019ll be the reason many of them sign up for my courses. So I\u2019ll show them the old videotapes of",
             "characters": [
-                "Cook",
+                "Captain Cook",
                 "Aborigine"
             ]
         },
@@ -1127,7 +967,7 @@
             ],
             "text": "my courses. So I\u2019ll show them the old videotapes of my sessions at the looking glass, and the sessions that the other linguists conducted; the tapes are instructive, and they\u2019ll be useful if we\u2019re ever visited by aliens again, but they don\u2019t generate many good anecdotes. When it comes to language-learning anecdotes, my favorite source is child language acquisition. I remember one a\ueecbernoon when you are \ufb01ve years old, a\ueecber you have come home \ueecaom kindergarten. You\u2019ll be coloring with your crayons while I grade papers. \u201cMom,\u201d you\u2019ll say, using the carefully casual tone reserved for requesting a favor, \u201ccan",
             "characters": [
-                "Mom"
+                "Mother"
             ]
         },
         "f43665d6-fb32-45f3-ac92-29db3e00cd14": {
@@ -1139,8 +979,8 @@
             ],
             "text": "the carefully casual tone reserved for requesting a favor, \u201ccan I ask you something?\u201d \u201cSure, sweetie. Go ahead.\u201d \u201cCan I be, um, honored?\u201d I\u2019ll look up \ueecaom the paper I\u2019m grading. \u201cWhat do you mean?\u201d \u201cAt school Sharon said she got to be honored.\u201d \u201cReally? Did she tell you what for?\u201d \u201cIt was when her big sister got married. She said only one person could be, um, honored, and she was it.\u201d \u201cAh, I see. You mean Sharon was maid of honor?\u201d \u201cYeah, that\u2019s it. Can I be made of honor?\u201d 8 Gary and I entered the prefab building containing",
             "characters": [
-                "Sharon",
-                "Gary"
+                "Gary Donnelly",
+                "Sharon"
             ]
         },
         "5c1c532f-a64e-4ef4-b7ef-8b2ff52f4692": {
@@ -1152,8 +992,8 @@
             ],
             "text": "honor?\u201d 8 Gary and I entered the prefab building containing the center of operations for the looking glass site. Inside it looked like they were planning an invasion, or perhaps an evacuation: crew-cut soldiers worked around a large map of the area, or sat in \ueecaont of burly electronic gear while speaking into headsets. We were shown into Colonel Weber\u2019s o\ufb03ce, a room in the back that was cool \ueecaom air conditioning. We briefed the colonel on our \ufb01rst day\u2019s results. \u201cDoesn\u2019t sound like you got very far,\u201d he said. \u201cI have an idea as to how we can make",
             "characters": [
-                "Colonel Weber",
-                "Gary"
+                "Gary Donnelly",
+                "Colonel Weber"
             ]
         },
         "7ef98b61-3481-4f71-9422-9415d0ad4833": {
@@ -1164,8 +1004,8 @@
             ],
             "text": "\u201cI have an idea as to how we can make faster progress,\u201d I said. \u201cBut you\u2019ll have to approve the use of more equipment.\u201d \u201cWhat more do you need?\u201d \u201cA digital camera, and a big video screen.\u201d I showed him a drawing of the setup I imagined. \u201cI want to try conducting the discovery procedure using writing; I\u2019d display words on the screen, and use the camera to record the words they write. I\u2019m hoping the heptapods will do the same.\u201d Weber looked at the drawing dubiously. \u201cWhat would be the advantage of that?\u201d \u201cSo far I\u2019ve been proceeding the",
             "characters": [
-                "I",
-                "Weber"
+                "Colonel Weber",
+                "I"
             ]
         },
         "6e201608-5f27-4ed0-95f5-17aaa1c101df": {
@@ -1176,7 +1016,7 @@
             ],
             "text": "the advantage of that?\u201d \u201cSo far I\u2019ve been proceeding the way I would with speakers of an unwritten lan- guage. Then it occurred to me that the heptapods must have writing, too.\u201d \u201cSo?\u201d \u201cIf the heptapods have a mechanical way of producing writing, then their writing ought to be very regular, very consistent. That would make it easier for us to identi\ueecd graphemes instead of phonemes. It\u2019s like picking out the letters in a printed sentence instead of trying to hear them when the sentence is spoken aloud.\u201d \u201cI take your point,\u201d he admitted. \u201cAnd how would you respond to",
             "characters": [
-                "Heptapods"
+                "Heptapod B"
             ]
         },
         "0fe9dfd7-4440-497e-aa92-d0f3ef07ac4a": {
@@ -1187,11 +1027,11 @@
             ],
             "text": "your point,\u201d he admitted. \u201cAnd how would you respond to them? Show them the words they displayed to you?\u201d \u201cBasically. And if they put spaces between words, any sentences we write would be a lot more intelligible than any spoken sentence we might splice together \ueecaom recordings.\u201d He leaned back in his chair. \u201cYou know we want to show as little of our technology as possible.\u201d \u201cI understand, but we\u2019re using machines as intermediaries already. If we can get them to use writing, I believe progress will go much faster than if we\u2019re restricted to the sound spectrographs.\u201d The colonel",
             "characters": [
+                "you",
                 "they",
+                "The colonel",
                 "we",
                 "I",
-                "The colonel",
-                "you",
                 "he"
             ]
         },
@@ -1204,9 +1044,9 @@
             ],
             "text": "than if we\u2019re restricted to the sound spectrographs.\u201d The colonel turned to Gary. \u201cYour opinion?\u201d \u201cIt sounds like a good idea to me. I\u2019m curious whether the heptapods might have di\ufb03culty reading our monitors. Their looking glasses are based on a completely dif- ferent technology than our video screens. As far as we can tell, they don\u2019t use pixels or scan lines, and they don\u2019t re\ueecaesh on a \ueecaame-by-\ueecaame basis.\u201d \u201cYou think the scan lines on our video screens might render them unreadable to the heptapods?\u201d 9 \u201cIt\u2019s possible,\u201d said Gary. \u201cWe\u2019ll just have to try it and see.\u201d Weber",
             "characters": [
-                "Weber",
-                "Gary",
-                "The colonel"
+                "Gary Donnelly",
+                "The colonel",
+                "Colonel Weber"
             ]
         },
         "656b52d5-f216-4c4a-9638-c7f7513d48ba": {
@@ -1217,8 +1057,8 @@
             ],
             "text": "Gary. \u201cWe\u2019ll just have to try it and see.\u201d Weber considered it. For me it wasn\u2019t even a question, but \ueecaom his point of view it was a di\ufb03cult one; like a soldier, though, he made it quickly. \u201cRequest granted. T alk to the sergeant outside about bringing in what you need. Have it ready for tomorrow.\u201d I remember one day during the summer when you\u2019re sixteen. For once, the person waiting for her date to arrive is me. Of course, you\u2019ll be waiting around too, curious to see what he looks like. You\u2019ll have a \ueecaiend of yours, a",
             "characters": [
-                "Weber",
-                "Gary"
+                "Gary Donnelly",
+                "Colonel Weber"
             ]
         },
         "96bc8a23-e37f-4553-bc08-4025849a97f4": {
@@ -1229,8 +1069,8 @@
             ],
             "text": "he looks like. You\u2019ll have a \ueecaiend of yours, a blond girl with the unlikely name of Roxie, hanging out with you, giggling. \u201cYou may feel the urge to make comments about him,\u201d I\u2019ll say, checking myself in the hallway mirror. \u201cJust restrain yourselves until we leave.\u201d \u201cDon\u2019t worry, Mom,\u201d you\u2019ll say. \u201cWe\u2019ll do it so that he won\u2019t know. Roxie, you ask me what I think the weather will be like tonight. Then I\u2019ll say what I think of Mom\u2019s date.\u201d \u201cRight,\u201d Roxie will say. \u201cNo, you most de\ufb01nitely will not,\u201d I\u2019ll say. \u201cRelax, Mom. He\u2019ll never know; we",
             "characters": [
-                "Roxie",
-                "Mom"
+                "Mother",
+                "Roxie"
             ]
         },
         "310b63c0-5dbe-4ab4-8298-844b48d2c39d": {
@@ -1242,9 +1082,9 @@
             "text": "will not,\u201d I\u2019ll say. \u201cRelax, Mom. He\u2019ll never know; we do this all the time.\u201d \u201cWhat a comfort that is.\u201d A little later on, Nelson will arrive to pick me up. I\u2019ll do the introductions, and we\u2019ll all engage in a little small talk on the \ueecaont porch. Nelson is ruggedly handsome, to your evident approval. Just as we\u2019re about to leave, Roxie will say to you casually, \u201cSo what do you think the weather will be like tonight?\u201d \u201cI think it\u2019s going to be really hot,\u201d you\u2019ll answer. Roxie will nod in agreement. Nelson will say, \u201cReally? I thought",
             "characters": [
                 "I",
+                "Mother",
                 "Roxie",
-                "Nelson",
-                "Mom"
+                "Nelson"
             ]
         },
         "97a5338e-ef01-4abc-9fcc-f8bc5ade6a72": {
@@ -1255,10 +1095,10 @@
             ],
             "text": "will nod in agreement. Nelson will say, \u201cReally? I thought they said it was going to be cool.\u201d \u201cI have a sixth sense about these things,\u201d you\u2019ll say. Your face will give nothing away. \u201cI get the feeling it\u2019s going to be a scorcher. Good thing you\u2019re dressed for it, Mom.\u201d I\u2019ll glare at you, and say good night. As I lead Nelson toward his car, he\u2019ll ask me, amused, \u201cI\u2019m missing something here, aren\u2019t I?\u201d \u201cA private joke,\u201d I\u2019ll mutter. \u201cDon\u2019t ask me to explain it.\u201d At our next session at the looking glass, we repeated the procedure we",
             "characters": [
-                "I",
-                "Nelson",
                 "you",
-                "Mom"
+                "I",
+                "Mother",
+                "Nelson"
             ]
         },
         "42947de5-b1c6-487f-8bdf-9e078f729b1d": {
@@ -1270,8 +1110,8 @@
             ],
             "text": "session at the looking glass, we repeated the procedure we had per- formed before, this time displaying a printed word on our computer screen at the same time we spoke: showing HUMAN while saying \u201cHuman,\u201d and so forth. Eventually, the heptapods understood what we wanted, and set up a \ufb02at circular screen mounted on a small pedestal. One heptapod spoke, and then inserted a limb into a large socket in the pedestal; a doodle of script, vaguely cursive, popped onto the screen. 10 We soon settled into a routine, and I compiled two parallel corpora: one of spoken utterances, one",
             "characters": [
-                "Heptapod",
-                "Human"
+                "Humans",
+                "Heptapod B"
             ]
         },
         "07376530-23e4-4c5c-8a9e-7522842d0ec4": {
@@ -1291,8 +1131,8 @@
             ],
             "text": "out that they had an ori\ufb01ce on the underside of their body, lined with articulated bony ridges: probably used for eating, while the one at the top was for respiration and speech. There were no other conspicuous ori\ufb01ces; perhaps their mouth was their anus too. Those sorts of questions would have to wait. I also tried asking our two informants for terms for addressing each individually; personal names, if they had such things. Their answers were of course unpronounce- able, so for Gary\u2019s and my purposes, I dubbed them Flapper and Raspberry. I hoped I\u2019d be able to tell them",
             "characters": [
-                "Raspberry",
-                "Flapper"
+                "Flapper",
+                "Raspberry"
             ]
         },
         "420fd74b-9d98-4bc8-9594-e96fa6923a6b": {
@@ -1303,7 +1143,7 @@
             ],
             "text": "and Raspberry. I hoped I\u2019d be able to tell them apart. The next day I conferred with Gary before we entered the looking-glass tent. \u201cI\u2019ll need your help with this session,\u201d I told him. \u201cSure. What do you want me to do?\u201d \u201cWe need to elicit some verbs, and it\u2019s easiest with third-person forms. Would you act out a few verbs while I type the written form on the computer? If we\u2019re lucky, the heptapods will \ufb01gure out what we\u2019re doing and do the same. I\u2019ve brought a bunch of props for you to use.\u201d \u201cNo problem,\u201d said Gary, cracking",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "a5066da4-cc43-4e0d-be58-e966e32a28aa": {
@@ -1314,9 +1154,9 @@
             ],
             "text": "props for you to use.\u201d \u201cNo problem,\u201d said Gary, cracking his knuckles. \u201cReady when you are.\u201d We began with some simple intransitive verbs: walking, jumping, speaking, writ- ing. Gary demonstrated each one with a charming lack of self-consciousness; the presence of the video cameras didn\u2019t inhibit him at all. For the \ufb01rst few actions he performed, I asked the heptapods,\u201cWhat do you call that?\u201d Before long, the heptapods caught on to what we were trying to do; Raspberry began mimicking Gary, or at least performing the equivalent heptapod action, while Flapper worked their computer, displaying a written description and pronouncing",
             "characters": [
+                "Gary Donnelly",
                 "Flapper",
-                "Raspberry",
-                "Gary"
+                "Raspberry"
             ]
         },
         "6ea8266a-2f3d-4e3c-95d4-b874bd6da71b": {
@@ -1339,7 +1179,7 @@
             ],
             "text": "Flapper say \u201cthe heptapod walks\u201d while writing \u201cwalks,\u201d instead of maintaining parallelism? Then I noticed that some of the logograms looked like the logogram for \u201cheptapod\u201d with some extra strokes added to one side or another. Perhaps their verbs could be written 11 as a\ufb03xes to a noun. If so, why was Flapper writing the noun in some instances but not in others? I decided to try a transitive verb; substituting object words might clari\ueecd things. Among the props I\u2019d brought were an apple and a slice of bread. \u201cOkay,\u201d I said to Gary, \u201cshow them the food, and then",
             "characters": [
-                "Gary",
+                "Gary Donnelly",
                 "Flapper"
             ]
         },
@@ -1351,9 +1191,9 @@
             ],
             "text": "I said to Gary, \u201cshow them the food, and then eat some. First the apple, then the bread.\u201d Gary pointed at the Golden Delicious and then he took a bite out of it, while I displayed the \u201cwhat do you call that?\u201d expression. Then we repeated it with the slice of whole wheat. Raspberry le\ueecb the room and returned with some kind of giant nut or gourd and a gelatinous ellipsoid. Raspberry pointed at the gourd while Flapper said a word and displayed a logogram. Then Raspberry brought the gourd down between its legs, a crunching sound resulted, and the",
             "characters": [
+                "Gary Donnelly",
                 "Flapper",
-                "Raspberry",
-                "Gary"
+                "Raspberry"
             ]
         },
         "3125ea9e-39b8-4de4-9c85-08e886a0cc9e": {
@@ -1375,7 +1215,7 @@
             ],
             "text": "\u201ceat.\u201d Was it a multiword ligature? Next we got spoken and written names for the gelatin egg, and descriptions of the act of eating it. The sound spectrograph for \u201cheptapod eats gelatin egg\u201d was analyzable; \u201cgelatin egg\u201d bore a case marker, as expected, though the sentence\u2019s word order di\ufb00ered \ueecaom last time. The written form, another large logogram, was another matter. This time it took much longer for me to recognize anything in it; not only were the individual logograms melted together again, it looked as if the one for \u201cheptapod\u201d was laid on its back, while on top of",
             "characters": [
-                "Heptapod"
+                "Heptapod B"
             ]
         },
         "8cd5f0b9-3ff4-4129-a1c9-2ca1e751f015": {
@@ -1386,7 +1226,7 @@
             ],
             "text": "\u201cheptapod\u201d was laid on its back, while on top of it the logogram for \u201cgelatin egg\u201d was standing on its head. \u201cUh-oh.\u201d I took another look at the writing for the simple noun-verb examples, the ones that had seemed inconsistent before. Now I realized all of them actually did contain the logogram for \u201cheptapod\u201d some were rotated and distorted by being combined with the various verbs, so I hadn\u2019t recognized them at \ufb01rst. \u201cYou guys have got to be kidding,\u201d I muttered. \u201cWhat\u2019s wrong?\u201d asked Gary. \u201cTheir script isn\u2019t word-divided; a sentence is written by joining the logograms for the",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "ea2cc78f-8ee5-4c77-ab49-034dbaf2cc23": {
@@ -1398,7 +1238,7 @@
             ],
             "text": "a sentence is written by joining the logograms for the constituent words. They join the logograms by rotating and modi\ueecding them. T ake a look.\u201d I showed him how the logograms were rotated. \u201cSo they can read a word with equal ease no matter how it\u2019s rotated,\u201d Gary said. He turned to look at the heptapods, impressed. \u201cI wonder if it\u2019s a consequence of their bodies\u2019 radial symmetry: their bodies\u2019 radial symmetry: their bodies have no \u2018forward\u2019 direction, so maybe their writing doesn\u2019t either. Highly neat.\u201d 12 I couldn\u2019t believe it; I was working with someone who modi\ufb01ed the word",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "5c25358d-8cf8-4ed8-baf1-e8ffaa21dd84": {
@@ -1409,8 +1249,8 @@
             ],
             "text": "it; I was working with someone who modi\ufb01ed the word \u201cneat\u201d with \u201chighly.\u201d \u201cIt certainly is interesting,\u201d I said, \u201cbut it also means there\u2019s no easy way for us to write our own sentences in their language. We can\u2019t simply cut their sentences into individual words and recombine them; we\u2019ll have to learn the rules of their script before we can write anything legible. It\u2019s the same continuity problem we\u2019d have had splicing together speech \ueecaagments, except applied to writing.\u201d I looked at Flapper and Raspberry in the looking glass, who were waiting for us to continue, and sighed. \u201cYou",
             "characters": [
-                "Raspberry",
-                "Flapper"
+                "Flapper",
+                "Raspberry"
             ]
         },
         "3db1e88c-ed4e-4788-88e1-e3a2187d2837": {
@@ -1432,7 +1272,7 @@
             ],
             "text": "environment: our video screens were primitive compared to the heptapods\u2019 looking glasses, so that my colleagues seemed more remote than the aliens. The familiar was far away, while the bizarre was close at hand. It would be a while before we\u2019d be ready to ask the heptapods why they had come, or to discuss physics well enough to ask them about their technology. For the time being, we worked on the basics: phonemics/graphemics, vocabulary, syntax. The heptapods at every looking glass were using the same language, so we were able to pool our data and coordinate our e\ufb00orts. Our biggest",
             "characters": [
-                "Heptapods"
+                "Heptapod B"
             ]
         },
         "6f310289-36e7-403e-b314-7be45e95c9e1": {
@@ -1443,8 +1283,8 @@
             ],
             "text": "to pool our data and coordinate our e\ufb00orts. Our biggest source of confusion was the heptapods\u2019 \u201cwriting.\u201d It didn\u2019t appear to be writing at all; it looked more like a bunch of intricate graphic designs. The logograms weren\u2019t arranged in rows, or a spiral, or any linear fashion. Instead, Flapper or Raspberry would write a sentence by sticking together as many logograms as needed into a giant conglomeration. This form of writing was reminiscent of primitive sign systems, which required a reader to know a message\u2019s context in order to understand it. Such systems were considered too limited for systematic",
             "characters": [
-                "Raspberry",
-                "Flapper"
+                "Flapper",
+                "Raspberry"
             ]
         },
         "4b14c154-3130-42fc-ab44-8a37331c3058": {
@@ -1467,8 +1307,8 @@
             ],
             "text": "to me, was that the heptapods were using a nonlinear system of orthography that quali\ufb01ed as true writing. I remember a conversation we\u2019ll have when you\u2019re in your junior year of high school. It\u2019ll be Sunday morning, and I\u2019ll be scrambling some eggs while you set the table for 13 brunch. You\u2019ll laugh as you tell me about the party you went to last night. \u201cOh man,\u201d you\u2019ll say, \u201cthey\u2019re not kidding when they say that body weight makes a di\ufb00erence. I didn\u2019t drink any more than the guys did, but I got so much drunker.\u201d I\u2019ll try to maintain",
             "characters": [
+                "Heptapod B",
                 "I",
-                "Heptapods",
                 "you"
             ]
         },
@@ -1481,7 +1321,7 @@
             "text": "but I got so much drunker.\u201d I\u2019ll try to maintain a neutral, pleasant expression. I\u2019ll really try. Then you\u2019ll say, \u201cOh, come on, Mom.\u201d \u201cWhat?\u201d \u201cYou know you did the exact same things when you were my age.\u201d I did nothing of the sort, but I know that if I were to admit that, you\u2019d lose respect for me completely. \u201cYou know never to drive, or get into a car if\u2014\u201d \u201cGod, of course I know that. Do you think I\u2019m an idiot?\u201d \u201cNo, of course not.\u201d What I\u2019ll think is that you are clearly, maddeningly not me. It will",
             "characters": [
                 "I",
-                "Mom"
+                "Mother"
             ]
         },
         "2be357ea-f18b-40ae-a140-3a99849570c0": {
@@ -1492,7 +1332,7 @@
             ],
             "text": "is that you are clearly, maddeningly not me. It will remind me, again, that you won\u2019t be a clone of me; you can be wonderful, a daily delight, but you won\u2019t be someone I could have created by myself. The military had set up a trailer containing our o\ufb03ces at the looking glass site. I saw Gary walking toward the trailer, and ran to catch up with him. \u201cIt\u2019s a semasio- graphic writing system,\u201d I said when I reached him. \u201cExcuse me?\u201d said Gary. \u201cHere, let me show you.\u201d I directed Gary into my o\ufb03ce. Once we were inside, I",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "e4874f20-d95b-4e37-ac94-c5f0f894fbfb": {
@@ -1503,7 +1343,7 @@
             ],
             "text": "directed Gary into my o\ufb03ce. Once we were inside, I went to the chalkboard and drew a circle with a diagonal line bisecting it. \u201cWhat does this mean?\u201d \u201c\u2018Not allowed\u2019?\u201d \u201cRight.\u201d Next I printed the words NOT ALLOWED on the chalkboard. \u201cAnd so does this. But only one is a representation of speech.\u201d Gary nodded. \u201cOkay.\u201d \u201cLinguists describe writing like this\u2014\u201d I indicated the printed words \u201c\u2014as \u2018glot- tographic,\u2019 because it represents speech. Every human written language is in this category. However, this symbol\u2014\u201d I indicated the circle and diagonal line \u201c\u2014is \u2018se- masiographic\u2019 writing, because it conveys meaning without",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "b6ae19bf-ecaa-40e1-82cf-c3337d62af6b": {
@@ -1524,7 +1364,7 @@
             ],
             "text": "using the computer, pulled up a \ueecaame \ueecaom the recording of yesterday\u2019s conversation with Raspberry. I turned the monitor so he could see it. \u201cIn their spoken language, a noun has a case marker 14 indicating whether it\u2019s a subject or object. In their written language, however, a noun is identi\ufb01ed as subject or object based on the orientation of its logogram relative to that of the verb. Here, take a look.\u201d I pointed at one of the \ufb01gures. \u201cFor instance, when \u2018heptapod\u2019 is integrated with \u2018hears\u2019 this way, with these strokes parallel, it means that the heptapod is doing",
             "characters": [
-                "Heptapod",
+                "Heptapod B",
                 "Raspberry"
             ]
         },
@@ -1536,7 +1376,7 @@
             ],
             "text": "these strokes parallel, it means that the heptapod is doing the hearing.\u201d I showed him a di\ufb00erent one. \u201cWhen they\u2019re combined this way, with the strokes perpendicular, it means that the heptapod is being heard. This morphology applies to several verbs. \u201cAnother example is the in\ufb02ection system.\u201d I called up another \ueecaame \ueecaom the recording. \u201cIn their written language, this logogram means roughly \u2018hear easily\u2019 or \u2018hear clearly.\u2019 See the elements it has in common with the logogram for \u2018hear\u2019? You can still combine it with \u2018heptapod\u2019 in the same ways as before, to indicate that the heptapod can hear",
             "characters": [
-                "Heptapod"
+                "Heptapod B"
             ]
         },
         "3564d46f-7e1d-4951-abff-8e7d703dd604": {
@@ -1547,8 +1387,8 @@
             ],
             "text": "ways as before, to indicate that the heptapod can hear something clearly or that the heptapod is clearly heard. But what\u2019s really interesting is that the modulation of \u2018hear\u2019 into \u2018hear clearly\u2019 isn\u2019t a special case; you see the transformation they applied?\u201d Gary nodded, pointing. \u201cIt\u2019s like they express the idea of \u2018clearly\u2019 by changing the curve of those strokes in the middle.\u201d \u201cRight. That modulation is applicable to lots of verbs. The logogram for \u2018see\u2019 can be modulated in the same way to form \u2018see clearly,\u2019 and so can the logogram for \u2018read\u2019 and others. And changing the curve",
             "characters": [
-                "Heptapod",
-                "Gary"
+                "Gary Donnelly",
+                "Heptapod B"
             ]
         },
         "e9dc1bcd-5c47-453d-bcb9-749c05f9534e": {
@@ -1568,7 +1408,7 @@
             ],
             "text": "we couldn\u2019t record this conversation using them. But I suspect, if we knew it well enough, we could record this conversation in the heptapod writing system. I think it\u2019s a full-\ufb02edged, general-purpose graphical language.\u201d Gary \ueecaowned. \u201cSo their writing constitutes a completely separate language \ueecaom their speech, right?\u201d \u201cRight. In fact, it\u2019d be more accurate to refer to the writing system as \u2018Heptapod B,\u2019 and use \u2018Heptapod A\u2019 strictly for referring to the spoken language.\u201d \u201cHold on a second. Why use two languages when one would su\ufb03ce? That seems unnecessarily hard to learn.\u201d \u201cLike English spelling?\u201d I said. \u201cEase of",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "4f373019-1d39-452d-a142-47e7bff44639": {
@@ -1580,8 +1420,8 @@
             ],
             "text": "hard to learn.\u201d \u201cLike English spelling?\u201d I said. \u201cEase of learning isn\u2019t the primary force in language evolution. For the heptapods, writing and speech may play such di\ufb00erent cultural or cognitive roles that using separate languages makes more sense than using di\ufb00erent forms of the same one.\u201d 15 He considered it. \u201cI see what you mean. Maybe they think our form of writing is redundant, like we\u2019re wasting a second communications channel.\u201d \u201cThat\u2019s entirely possible. Finding out why they use a second language for writing will tell us a lot about them.\u201d \u201cSo I take it this means we won\u2019t",
             "characters": [
-                "I",
-                "Heptapods"
+                "Heptapod B",
+                "I"
             ]
         },
         "1a330118-adf3-4bd7-ac09-c24f0e66aade": {
@@ -1601,10 +1441,10 @@
             ],
             "text": "We need a better grasp on this writing system before we begin anything else,\u201d I said, and then smiled when he mimed \ueecaustration. \u201cPatience, good sir. Patience is a virtue.\u201d You\u2019ll be six when your father has a conference to attend in Hawaii, and we\u2019ll ac- company him. You\u2019ll be so excited that you\u2019ll make preparations for weeks beforehand. You\u2019ll ask me about coconuts and volcanoes and sur\ufb01ng, and practice hula dancing in the mirror. You\u2019ll pack a suitcase with the clothes and toys you want to bring, and you\u2019ll drag it around the house to see how long you",
             "characters": [
-                "I",
-                "your father",
                 "you",
-                "he"
+                "I",
+                "he",
+                "your father"
             ]
         },
         "55c344ff-6432-4e74-a6cb-e28463cac1cf": {
@@ -1649,7 +1489,7 @@
             ],
             "text": "were combined, and there was no need to indicate the cadence of speech. There was certainly no way to slice out subject-predicate pairings neatly to make sentences. A \u201csentence\u201d seemed to be whatever number of semagrams a heptapod wanted to join together; the only di\ufb00erence between a sentence and a paragraph, or a page, was size. When a Heptapod B sentence grew fairly sizable, its visual impact was remarkable. If I wasn\u2019t trying to decipher it, the writing looked like fanciful praying mantids drawn in a cursive style, all clinging to each other to form an Escheresque lattice, each slightly",
             "characters": [
-                "Heptapod"
+                "Heptapod B"
             ]
         },
         "5108547b-8dea-4972-aecd-9dca6d41529c": {
@@ -1660,10 +1500,10 @@
             ],
             "text": "to each other to form an Escheresque lattice, each slightly di\ufb00erent in its stance. And the biggest sentences had an e\ufb00ect similar to that of psychedelic posters: sometimes eye-watering, sometimes hypnotic. I remember a picture of you taken at your college graduation. In the photo you\u2019re striking a pose for the camera, mortarboard stylishly tilted on your head, one hand touching your sunglasses, the other hand on your hip, holding open your gown to reveal the tank top and shorts you\u2019re wearing underneath. I remember your graduation. There will be the distraction of having Nelson and your father and what\u2019s-her-name",
             "characters": [
-                "your father",
-                "what\u2019s-her-name",
                 "Nelson",
-                "you"
+                "what\u2019s-her-name",
+                "you",
+                "your father"
             ]
         },
         "818b869d-84dc-49b0-9dd6-8e07560cf84e": {
@@ -1674,11 +1514,11 @@
             ],
             "text": "the distraction of having Nelson and your father and what\u2019s-her-name there all at the same time, but that will be minor. That entire weekend, while you\u2019re introducing me to your classmates and hugging everyone incessantly, I\u2019ll be all but mute with amazement. I can\u2019t believe that you, a grown woman taller than me and beautiful enough to make my heart ache, will be the same girl I used to li\ueecb o\ufb00 the ground so you could reach the drinking fountain, the same girl who used to trundle out of my bedroom draped in a dress and hat and four scarves",
             "characters": [
+                "you",
+                "Nelson",
                 "your father",
                 "what\u2019s-her-name",
-                "me",
-                "you",
-                "Nelson"
+                "me"
             ]
         },
         "1aec494c-696b-4e92-93e9-68bc173e5bc8": {
@@ -1690,8 +1530,8 @@
             "text": "bedroom draped in a dress and hat and four scarves \ueecaom my closet. And a\ueecber graduation, you\u2019ll be heading for a job as a \ufb01nancial analyst. I won\u2019t even understand what you do there, I won\u2019t even understand your fascination with money, the preeminence you gave to salary when negotiating job o\ufb00ers. I would prefer it if you\u2019d pursue something without regard for its monetary rewards, but I\u2019ll have no complaints. My own mother could never understand why I couldn\u2019t just be a high school English teacher. You\u2019ll do what makes you happy, and that\u2019ll be all I ask for.",
             "characters": [
                 "I",
-                "My own mother",
-                "you"
+                "you",
+                "My own mother"
             ]
         },
         "3a0db6b5-46dc-40fa-bc27-f5cf6b3b39fb": {
@@ -1712,7 +1552,7 @@
             ],
             "text": "we hit a road block with geometry and algebra. We tried using a spherical coordinate system instead of a rect- angular one, thinking it might be more natural to the heptapods given their anatomy, but that approach wasn\u2019t any more \ueecauitful. The heptapods didn\u2019t seem to understand what we were getting at. Likewise, the physics discussions went poorly. Only with the most concrete terms, like the names of the elements, did we have any success; a\ueecber several attempts at repre- senting the periodic table, the heptapods got the idea. For anything remotely abstract, we might as well have been gibbering.",
             "characters": [
-                "Heptapods"
+                "Heptapod B"
             ]
         },
         "02d22537-15ba-483a-9fe0-672c6894dbce": {
@@ -1723,9 +1563,9 @@
             ],
             "text": "anything remotely abstract, we might as well have been gibbering. We tried to demonstrate basic physical attributes like mass and acceleration so we could elicit their terms for them, but the heptapods simply responded with requests for clari\ufb01cation. T o avoid perceptual problems that might be associated with any particular medium, we tried physical demonstrations as well as line drawings, photos, and animations; none were e\ufb00ective. Days with no progress became weeks, and the physicists were becoming disillusioned. By contrast, the linguists were having much more success. We made steady progress decoding the grammar of the spoken language, Heptapod A.",
             "characters": [
-                "Linguists",
-                "Heptapods",
-                "Physicists"
+                "Heptapod B",
+                "Physicists",
+                "Linguists"
             ]
         },
         "81453026-1b47-48de-9a25-5518abdbc97f": {
@@ -1754,7 +1594,7 @@
             ],
             "text": "de\ufb01ned according to a consistent and unambiguous grammar. We regularly asked the heptapods why they had come. Each time, they answered \u201cto see,\u201d or \u201cto observe.\u201d Indeed, sometimes they preferred to watch us silently rather than answer our questions. Perhaps they were scientists, perhaps they were tourists. The State Department instructed us to reveal as little as possible about humanity, in case that information could be used as a bargaining chip in subsequent negotiations. We obliged, though it didn\u2019t require much e\ufb00ort: the heptapods never asked questions about anything. Whether scientists or tourists, they were an awfully incurious bunch. I",
             "characters": [
-                "Heptapods"
+                "Heptapod B"
             ]
         },
         "fa97d2c6-128c-4e92-9a17-cefe8782c82d": {
@@ -1767,10 +1607,10 @@
             "text": "scientists or tourists, they were an awfully incurious bunch. I remember once when we\u2019ll be driving to the mall to buy some new clothes for 18 you. You\u2019ll be thirteen. One moment you\u2019ll be sprawled in your seat, completely un- self-conscious, all child; the next, you\u2019ll toss your hair with a practiced casualness, like a fashion model in training. You\u2019ll give me some instructions as I\u2019m parking the car. \u201cOkay, Mom, give me one of the credit cards, and we can meet back at the entrance here in two hours.\u201d I\u2019ll laugh. \u201cNot a chance. All the credit cards stay",
             "characters": [
                 "Tourists",
+                "Mother",
+                "you",
                 "Scientists",
-                "Mom",
-                "I",
-                "you"
+                "I"
             ]
         },
         "f80b00af-0d72-40a6-9d4d-c36c625b4b00": {
@@ -1783,7 +1623,7 @@
             "characters": [
                 "I",
                 "You",
-                "Mom"
+                "Mother"
             ]
         },
         "6616dfcd-310e-4812-b9f0-1c5b03919df3": {
@@ -1794,8 +1634,8 @@
             ],
             "text": "okay? I\u2019ll come \ufb01nd you later.\u201d I\u2019ll stop in my tracks. \u201cExcuse me? I am not the hired help, nor am I some mutant relative for you to be ashamed of.\u201d \u201cBut Mom, I can\u2019t let anyone see you with me.\u201d \u201cWhat are you talking about? I\u2019ve already met your \ueecaiends; they\u2019ve been to the house.\u201d \u201cThat was di\ufb00erent,\u201d you\u2019ll say, incredulous that you have to explain it. \u201cThis is shopping.\u201d \u201cT oo bad.\u201d Then the explosion: \u201cYou won\u2019t do the least thing to make me happy! You don\u2019t care about me at all!\u201d It won\u2019t have been that long",
             "characters": [
-                "you",
-                "Mom"
+                "Mother",
+                "you"
             ]
         },
         "71cfba87-970f-46d9-be38-7396cf1d9105": {
@@ -1816,7 +1656,7 @@
             ],
             "text": "that had been smashed with a hammer and then inexpertly taped back together. I had sheets of such inelegant semagrams covering my desk, \ufb02uttering occasionally when the oscillating fan swung past. It was strange trying to learn a language that had no spoken form. Instead of practicing my pronunciation, I had taken to squeezing my eyes shut and trying to paint semagrams on the insides of my eyelids. There was a knock at the door and before I could answer Gary came in looking jubilant. \u201cIllinois got a repetition in physics.\u201d \u201cReally? That\u2019s great; when did it happen?\u201d 19 \u201cIt",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "b2c959cd-ab4a-4850-8e77-b85b92ceb0a6": {
@@ -1828,8 +1668,8 @@
             ],
             "text": "physics.\u201d \u201cReally? That\u2019s great; when did it happen?\u201d 19 \u201cIt happened a few hours ago; we just had the videoconference. Let me show you what it is.\u201d He started erasing my blackboard. \u201cDon\u2019t worry, I didn\u2019t need any of that.\u201d \u201cGood.\u201d He picked up a nub of chalk and drew a diagram: \u201cOkay, here\u2019s the path a ray of light takes when crossing \ueecaom air to water. The light ray travels in a straight line until it hits the water; the water has a di\ufb00erent index of re\ueecaaction, so the light changes direction. You\u2019ve heard of this before, right?\u201d I",
             "characters": [
-                "He",
-                "I"
+                "I",
+                "He"
             ]
         },
         "3b0b1823-d6bd-4c93-9b0b-89b9374a8517": {
@@ -1852,7 +1692,7 @@
             ],
             "text": "So it would take longer for light to travel along this path than it does along the real path.\u201d \u201cOkay, I get it.\u201d \u201cNow imagine if light were to travel along this other path.\u201d He drew a second dotted path: \u201cThis path reduces the percentage that\u2019s underwater, but the total length is larger. It would also take longer for light to travel along this path than along the actual one.\u201d Gary put down the chalk and gestured at the diagram on the chalkboard with white-tipped \ufb01ngers. \u201cAny hypothetical path would require more time to traverse than the one actually taken.",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "090fc909-5755-459f-95cd-85ffcafdfec0": {
@@ -1863,8 +1703,8 @@
             ],
             "text": "require more time to traverse than the one actually taken. In other words, the route that the light ray takes is always the fastest possible one. That\u2019s Fermat\u2019s Principle of Least Time\u201d \u201cHumm, interesting. And this is what the heptapods responded to?\u201d \u201cExactly. Moorehead gave an animated presentation of Fermat\u2019s Principle at the Illinois looking glass, and the heptapods repeated it back. Now he\u2019s trying to get a symbolic description.\u201d He grinned. \u201cNow is that highly neat, or what?\u201d \u201cIt\u2019s neat all right, but how come I haven\u2019t heard of Fermat\u2019s Principle before?\u201d I picked up a binder and waved",
             "characters": [
-                "Heptapods",
-                "Moorehead"
+                "Moorehead",
+                "Heptapod B"
             ]
         },
         "f9f17fc9-982a-4552-87c8-ebe68fc5b7d3": {
@@ -1875,7 +1715,7 @@
             ],
             "text": "Fermat\u2019s Principle before?\u201d I picked up a binder and waved it at him; it was a primer on the physics topics sug- gested for use in communication with the heptapods. \u201cThis thing goes on forever about Planck masses and the spin-\ufb02ip of atomic hydrogen, and not a word about the re\ueecaaction of light.\u201d \u201cWe guessed wrong about what\u2019d be most useful for you to know,\u201d Gary said without embarrassment. \u201cIn fact, it\u2019s curious that Fermat\u2019s Principle was the \ufb01rst breakthrough; even though it\u2019s easy to explain, you need calculus to describe it mathe- matically. And not ordinary calculus; you need",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "35aca875-2e0f-47f5-92e8-65c280348cfc": {
@@ -1897,7 +1737,7 @@
             "text": "talking about physics; their entire system of mathematics may be topsyturvy compared to ours.\u201d He pointed to the physics primer. \u201cYou can be sure that we\u2019re going to revise that.\u201d \u201cSo can you build \ueecaom Fermat\u2019s Principle to other areas of physics?\u201d \u201cProbably. There are lots of physical principles just like Fermat\u2019s.\u201d \u201cWhat, like Louise\u2019s principle of least closet space? When did physics become so minimalist?\u201d \u201cWell, the word \u2018least\u2019 is misleading. You see, Fermat\u2019s Principle of Least time is incomplete; in certain situations light follows a path that takes more time than any of the other possibilities. It\u2019s more",
             "characters": [
                 "He",
-                "Louise"
+                "Louise Banks"
             ]
         },
         "0ddbccce-2b6a-43b0-a530-2ff9b50e7e93": {
@@ -1930,7 +1770,7 @@
             ],
             "text": "hope so. I think this is the wedge that we\u2019ve been looking for, the one that cracks open their formulation of physics. This calls for a celebration.\u201d He stopped his pacing and turned to me. \u201cHey Louise, want to go out for dinner? My treat.\u201d I was mildly surprised. \u201cSure,\u201d I said. It\u2019ll be when you \ufb01rst learn to walk that I get daily demonstrations of the asym- metry in our relationship. You\u2019ll be incessantly running o\ufb00 somewhere, and each time you walk into a door \ueecaame or scrape your knee, the pain feels like it\u2019s my own. It\u2019ll be",
             "characters": [
-                "Louise"
+                "Louise Banks"
             ]
         },
         "900bec07-50f9-4697-9878-a7a62423eb0c": {
@@ -1963,7 +1803,7 @@
             ],
             "text": "that sound the next time your blithe disregard for self-preservation gives me a heart attack. A\ueecber the breakthrough with Fermat\u2019s Principle, discussions of scienti\ufb01c concepts became more \ueecauitful. It wasn\u2019t as if all of heptapod physics was suddenly rendered transparent, but progress was suddenly steady. According to Gary, the heptapods\u2019 formulation of physics was indeed topsy-turvy relative to ours. Physical attributes that humans de\ufb01ned using integral calculus were seen as fundamental by the heptapods. As an example, Gary described an attribute that, in physics jargon, bore the deceptively simple name \u201caction,\u201d which represented \u201cthe di\ufb00erence between kinetic and potential energy,",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "55e518a1-8da8-47ab-a02c-7d5b4ad6dfbb": {
@@ -1974,7 +1814,7 @@
             ],
             "text": "\u201caction,\u201d which represented \u201cthe di\ufb00erence between kinetic and potential energy, integrated over time,\u201d whatever that meant. Calculus for us; elementary to them. Conversely, to de\ufb01ne attributes that humans thought of as fundamental, like veloc- ity, the heptapods employed mathematics that were, Gary assured me, \u201chighly weird.\u201d The physicists were ultimately able to prove the equivalence of heptapod mathematics and human mathematics; even though their approaches were almost the reverse of one another, both were systems of describing the same physical universe. I tried following some of the equations that the physicists were coming up with, but it was no use.",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "1685ef32-2910-4caf-b333-f1bf35e2b361": {
@@ -1985,12 +1825,12 @@
             ],
             "text": "physicists were coming up with, but it was no use. I couldn\u2019t really grasp the signi\ufb01cance of physical attributes like \u201caction;\u201d I couldn\u2019t, with any con\ufb01dence, ponder the signi\ufb01cance of treating such an attribute as fundamental. Still, I tried to ponder questions formulated in terms more familiar to me: what kind of worldview did the heptapods have, that they would consider Fermat\u2019s Principle the simplest explanation of light re\ueecaaction? What kind of perception made a minimum or maximum readily apparent to them? Your eyes will be blue like your dad\u2019s, not mud brown like mine. Boys will stare into those",
             "characters": [
+                "Your",
                 "Boys",
                 "mine",
                 "I",
-                "Your",
-                "dad",
-                "Heptapods"
+                "your father",
+                "Heptapod B"
             ]
         },
         "47b14d8f-15ae-4db5-a37a-5e8bcf83a970": {
@@ -2003,8 +1843,8 @@
             "text": "not mud brown like mine. Boys will stare into those eyes the way I did, and do, into your dad\u2019s, surprised and enchanted, as I was and am, to \ufb01nd them in combination with black hair. You will have many suitors. I remember when you are \ufb01\ueecbeen, coming home a\ueecber a weekend at your dad\u2019s, incredulous over the interrogation he\u2019ll have put you through regarding the boy you\u2019re 22 currently dating. You\u2019ll sprawl on the sofa, recounting your dad\u2019s latest breach of common sense: \u201cYou know what he said? He said, \u2018I know what teenage boys are like.\u2019\u201d Roll of",
             "characters": [
                 "I",
-                "your dad",
-                "you"
+                "you",
+                "your father"
             ]
         },
         "9b0d0b1b-135a-4e23-9c43-96bc550dbf92": {
@@ -2017,8 +1857,8 @@
             "characters": [
                 "I",
                 "He",
-                "you",
-                "Mom"
+                "Mother",
+                "you"
             ]
         },
         "5b6d0989-6763-4889-ba51-8dc96f52eb7c": {
@@ -2029,8 +1869,8 @@
             ],
             "text": "recover.\u201d \u201cIt\u2019s been years, Mom. How long is it gonna take?\u201d \u201cI\u2019ll let you know when my father has come to terms with mine.\u201d During one of the videoconferences for the linguists, Cisneros \ueecaom the Mas- sachusetts looking glass had raised an interesting question: Was there a particular order in which semagrams were written in a Heptapod B sentence? It was clear that word order meant next to nothing when speaking in Heptapod A; when asked to re- peat what it had just said, a heptapod would likely as not use a di\ufb00erent word order unless we speci\ufb01cally asked them",
             "characters": [
-                "Cisneros",
-                "Mom"
+                "Mother",
+                "Cisneros"
             ]
         },
         "8a9cdfb6-5fb3-406c-a31e-eb2963a750b5": {
@@ -2041,8 +1881,8 @@
             ],
             "text": "use a di\ufb00erent word order unless we speci\ufb01cally asked them not to. Was word order similarly unimportant when writing in Heptapod B? Previously, we had only focused our attention on how a sentence in Heptapod B looked once it was complete. As far as anyone could tell, there was no preferred order when reading the semagrams in a sentence; you could start almost anywhere in the nest, then follow the branching clauses until you\u2019d read the whole thing. But that was reading; was the same true about writing? During my most recent session with Flapper and Raspberry I had asked",
             "characters": [
-                "Raspberry",
-                "Flapper"
+                "Flapper",
+                "Raspberry"
             ]
         },
         "08a8e6d6-caa0-4428-9882-3b89446e7eec": {
@@ -2053,8 +1893,8 @@
             ],
             "text": "most recent session with Flapper and Raspberry I had asked them if, instead of displaying a semagram only a\ueecber it was completed, they could show it to us while it was being written. They had agreed. I inserted the videotape of the session into the VCR, and on my computer I consulted the session transcript. I picked one of the longer utterances \ueecaom the conversation. What Flapper had said was that the heptapods\u2019 planet had two moons, one signi\ufb01cantly larger than the other; the three primary constituents of the planet\u2019s atmosphere were nitrogen, argon, and oxygen; and \ufb01\ueecbeen twenty-eighths of",
             "characters": [
-                "Raspberry",
-                "Flapper"
+                "Flapper",
+                "Raspberry"
             ]
         },
         "7cba85a0-e4f4-43c9-930b-461e9ef109e0": {
@@ -2086,8 +1926,8 @@
             ],
             "text": "continuous line, and it was the \ufb01rst one that Flapper wrote. That meant the heptapod had to know how the entire sentence would be laid out before it could write the very \ufb01rst stroke. The other strokes in the sentence also traversed several clauses, making them so interconnected that none could be removed without redesigning the entire sentence. The heptapods didn\u2019t write a sentence one semagram at a time; they built it out of strokes irrespective of individual semagrams. I had seen a similarly high degree of integration before in calligraphic designs, particularly those employing the Arabic al- phabet. But",
             "characters": [
-                "Heptapod",
-                "Flapper"
+                "Flapper",
+                "Heptapod B"
             ]
         },
         "1ad3060e-64d4-473f-8638-af3ecaa1d747": {
@@ -2110,8 +1950,8 @@
             ],
             "text": "that\u2019s wrong with their lives?\u2019 She laughed and said, \u2018What do you mean, if?\u2019\u201d That\u2019s my favorite joke. Gary and I were at a little Chinese restaurant, one of the local places we had taken to patronizing to get away \ueecaom the encampment. We sat eating the appetizers: potstickers, redolent of pork and sesame oil. My favorite. I dipped one in soy sauce and vinegar. \u201cSo how are you doing with your Heptapod B practice?\u201d I asked. Gary looked obliquely at the ceiling. I tried to meet his gaze, but he kept shi\ueecbing it. \u201cYou\u2019ve given up, haven\u2019t you?\u201d I",
             "characters": [
+                "Gary Donnelly",
                 "I",
-                "Gary",
                 "She"
             ]
         },
@@ -2136,7 +1976,7 @@
             ],
             "text": "I\u2019ve given up on trying to learn the mathematics.\u201d \u201cSo we\u2019re even?\u201d 24 \u201cWe\u2019re even.\u201d I sipped my tea. \u201cThough I did want to ask you about Fermat\u2019s Principle. Something about it feels odd to me, but I can\u2019t put my \ufb01nger on it. It just doesn\u2019t sound like a law of physics.\u201d A twinkle appeared in Gary\u2019s eyes. \u201cI\u2019ll bet I know what you\u2019re talking about.\u201d He snipped a potsticker in half with his chopsticks. \u201cYou\u2019re used to thinking of re\ueecaaction in terms of cause and e\ufb00ect: reaching the water\u2019s surface is the cause, and the change in direction",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "2e193ab9-49f0-49db-866c-69202bf00e6a": {
@@ -2156,7 +1996,7 @@
             ],
             "text": "is causal, a variational principle like Fermat\u2019s is purposive, almost teleological.\u201d \u201cHmm, that\u2019s an interesting way to put it. Let me think about that for a minute.\u201d I pulled out a felt-tip pen and, on my paper napkin, drew a copy of the diagram that Gary had drawn on my blackboard. \u201cOkay,\u201d I said, thinking aloud, \u201cSo let\u2019s say the goal of a ray of light is to take the fastest path. How does the light go about doing that?\u201d \u201cWell, if I can speak anthropomorphic-projectionally, the light has to examine the possible paths and compute how long each one",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "abdc8d13-37d0-4af4-a9bf-ef8b959b832a": {
@@ -2167,7 +2007,7 @@
             ],
             "text": "examine the possible paths and compute how long each one would take.\u201d He plucked the last potsticker \ueecaom the serving dish. \u201cAnd to do that,\u201d I continued, \u201cthe ray of light has to know just where its destina- tion is. If the destination were somewhere else, the fastest path would be di\ufb00erent.\u201d Gary nodded again. \u201cThat\u2019s right; the notion of a \u2018fastest path\u2019 is meaningless unless there\u2019s a destination speci\ufb01ed. And computing how long a given path takes also requires information about what lies along that path, like where the water\u2019s surface is.\u201d I kept staring at the diagram on",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "139d75ff-2e78-4030-a05f-3ab90d2b0859": {
@@ -2178,7 +2018,7 @@
             ],
             "text": "water\u2019s surface is.\u201d I kept staring at the diagram on the napkin. \u201cAnd the light ray has to know all that ahead of time, before it starts moving, right?\u201d \u201cSo to speak,\u201d said Gary. \u201cThe light can\u2019t start traveling in any old direction and make course corrections later on, because the path resulting \ueecaom such behavior wouldn\u2019t be the fastest possible one. The light has to do all its computations at the very beginning.\u201d I thought to myself, The ray of light has to know where it will ultimately end up before it can choose the direction to begin moving",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "357e0ffe-508a-4949-b07f-14b65eeaa504": {
@@ -2190,9 +2030,9 @@
             ],
             "text": "up before it can choose the direction to begin moving in. I knew what that reminded me of. I looked up at Gary. \u201cThat\u2019s what was bugging me.\u201d I remember when you\u2019re fourteen. You\u2019ll come out of your bedroom, a gra\ufb03ti- 25 covered notebook computer in hand, working on a report for school. \u201cMom, what do you call it when both sides can win?\u201d I\u2019ll look up \ueecaom my computer and the paper I\u2019ll be writing. \u201cWhat, you mean a win-win situation?\u201d \u201cThere\u2019s some technical name for it, some math word. Remember that time Dad was here, and he was",
             "characters": [
-                "Gary",
-                "Dad",
-                "Mom"
+                "Gary Donnelly",
+                "Mother",
+                "your father"
             ]
         },
         "6d122e4b-df15-4227-995f-6e5ecdd6ecff": {
@@ -2203,7 +2043,7 @@
             ],
             "text": "word. Remember that time Dad was here, and he was talking about the stock market? He used it then.\u201d \u201cHmm, that sounds familiar, but I can\u2019t remember what he called it.\u201d \u201cI need to know. I want to use that phrase in my social studies report. I can\u2019t even search for information on it unless I know what it\u2019s called.\u201d \u201cI\u2019m sorry, I don\u2019t know it either. Why don\u2019t you call your dad?\u201d Judging \ueecaom your expression, that will be more e\ufb00ort than you want to make. At this point, you and your father won\u2019t be getting along well. \u201cCan",
             "characters": [
-                "Dad"
+                "your father"
             ]
         },
         "3f77d588-9cc3-4006-be5f-0eedd5e979ff": {
@@ -2214,10 +2054,9 @@
             ],
             "text": "you and your father won\u2019t be getting along well. \u201cCan you call Dad and ask him? But don\u2019t tell him it\u2019s for me.\u201d \u201cI think you can call him yourself.\u201d You\u2019ll fume, \u201cJesus, Mom, I can never get help with my homework since you and Dad split up.\u201d It\u2019s amazing the diverse situations in which you can bring up the divorce. \u201cI\u2019ve helped you with your homework.\u201d \u201cLike a million years ago, Mom.\u201d I\u2019ll let that pass. \u201cI\u2019d help you with this if I could, but I don\u2019t remember what it\u2019s called.\u201d You\u2019ll head back to your bedroom in a",
             "characters": [
-                "your father",
-                "Dad",
+                "Mother",
                 "you",
-                "Mom"
+                "your father"
             ]
         },
         "629de05a-4b73-4d9a-8d44-b55a4d4449b3": {
@@ -2273,7 +2112,7 @@
             ],
             "text": "any faster as a result, though. Instead of racing forward, my mind hung balanced on the symmetry underlying the semagrams. The semagrams seemed to be something more than lan- guage; they were almost like mandalas. I found myself in a meditative state, contem- plating the way in which premises and conclusions were interchangeable. There was no direction inherent in the way propositions were connected, no \u201ctrain of thought\u201d moving along a particular route; all the components in an act of reasoning were equally powerful, all having identical precedence. A representative \ueecaom the State Department named Hossner had the job of",
             "characters": [
-                "Hossner"
+                "Mr. Hossner"
             ]
         },
         "d95ab694-6746-47c5-8850-7b896c77b754": {
@@ -2284,8 +2123,8 @@
             ],
             "text": "\ueecaom the State Department named Hossner had the job of brie\ufb01ng the U.S scientists on our agenda with the heptapods. We sat in the videoconference room, listening to him lecture. Our microphone was turned o\ufb00, so Gary and I could exchange comments without interrupting Hossner. As we listened, I worried that Gary might harm his vision, rolling his eyes so o\ueecben. \u201cThey must have had some reason for coming all this way,\u201d said the diplomat, his voice tinny through the speakers. \u201cIt does not look like their reason was conquest, thank God. But if that\u2019s not the reason, what is?",
             "characters": [
-                "Gary",
-                "Hossner"
+                "Gary Donnelly",
+                "Mr. Hossner"
             ]
         },
         "95ec26e1-0f12-417f-a186-0986817354af": {
@@ -2308,8 +2147,8 @@
             ],
             "text": "have that they want. Once we have that information, we can begin trade negotiations. \u201cI should emphasize that our relationship with the heptapods need not be ad- versarial. This is not a situation where every gain on their part is a loss on ours, or vice versa. If we handle ourselves correctly, both we and the heptapods can come out winners.\u201d \u201cYou mean it\u2019s a non-zero-sum game?\u201d Gary said in mock incredulity. \u201cOh my gosh.\u201d 27 \u201cA non-zero-sum game.\u201d \u201cWhat?\u201d You\u2019ll reverse course, heading back \ueecaom your bedroom. \u201cWhen both sides can win: I just remembered, it\u2019s called a non-zero-sum",
             "characters": [
-                "Heptapods",
-                "Gary"
+                "Gary Donnelly",
+                "Heptapod B"
             ]
         },
         "c7a16afc-ad50-49f6-bd07-a5b51618e275": {
@@ -2320,11 +2159,11 @@
             ],
             "text": "sides can win: I just remembered, it\u2019s called a non-zero-sum game.\u201d \u201cThat\u2019s it!\u201d you\u2019ll say, writing it down on your notebook. \u201cThanks, Mom!\u201d \u201cI guess I knew it a\ueecber all,\u201d I\u2019ll say. \u201cAll those years with your father, some of it must have rubbed o\ufb00.\u201d \u201cI knew you\u2019d know it,\u201d you\u2019ll say. You\u2019ll give me a sudden, brief hug, and your hair will smell of apples. \u201cYou\u2019re the best.\u201d \u201cLouise?\u201d \u201cHmm? Sorry, I was distracted. What did you say?\u201d \u201cI said, what do you think about our Mr. Hossner here?\u201d \u201cI prefer not to.\u201d \u201cI\u2019ve tried that myself: ignoring the",
             "characters": [
-                "Mr. Hossner",
-                "Mom",
-                "I",
+                "Mother",
                 "you",
-                "Louise"
+                "Mr. Hossner",
+                "I",
+                "Louise Banks"
             ]
         },
         "313103a4-2eea-4468-b565-c6af0236491b": {
@@ -2335,9 +2174,9 @@
             ],
             "text": "\u201cI prefer not to.\u201d \u201cI\u2019ve tried that myself: ignoring the government, seeing if it would go away. It hasn\u2019t.\u201d As evidence of Gary\u2019s assertion, Hossner kept blathering: \u201cYour immediate tasks is to think back on what you\u2019ve learned. Look for anything that might help us. Has there been any indication of what the heptapods want? Of what they value?\u201d \u201cGee, it never occurred to us to look for things like that,\u201d I said. \u201cWe\u2019ll get right on it, sir.\u201d \u201cThe sad thing is, that\u2019s just what we\u2019ll have to do,\u201d said Gary. \u201cAre there any questions?\u201d asked Hossner. Burghart, the",
             "characters": [
+                "Gary Donnelly",
                 "Burghart",
-                "Gary",
-                "Hossner"
+                "Mr. Hossner"
             ]
         },
         "95b9ac0a-a7e4-4a0e-ab40-f4468f061889": {
@@ -2348,9 +2187,9 @@
             ],
             "text": "said Gary. \u201cAre there any questions?\u201d asked Hossner. Burghart, the linguist at the Fort Worth looking glass, spoke up. \u201cWe\u2019ve been through this with the heptapods many times. They maintain that they\u2019re here to observe, and they maintain that information is not tradable.\u201d \u201cSo they would have us believe,\u201d said Hossner. \u201cBut consider: how could that be true? I know that the heptapods have occasionally stopped talking to us for brief periods. That may be a tactical maneuver on their part. If we were to stop talking to them tomorrow\u2014\u201d \u201cWake me up if he says something interesting,\u201d said Gary.",
             "characters": [
+                "Gary Donnelly",
                 "Burghart",
-                "Gary",
-                "Hossner"
+                "Mr. Hossner"
             ]
         },
         "67b708a7-4d20-4da5-980c-bab461129d94": {
@@ -2361,7 +2200,7 @@
             ],
             "text": "\u201cWake me up if he says something interesting,\u201d said Gary. \u201cI was just going to ask you to do the same for me.\u201d That day when Gary \ufb01rst explained Fermat\u2019s Principle to me, he had mentioned that almost every physical law could be stated as a variational principle. Yet when humans thought about physical laws, they preferred to work with them in their causal formulation. I could understand that: the physical attributes that humans found in- tuitive, like kinetic energy or acceleration, were all properties of an object at a given moment in time. And these were conductive to a",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "13588df7-2e5f-4af4-b78d-6eb57607728f": {
@@ -2394,8 +2233,8 @@
             ],
             "text": "watch: your latest diversionary tactic to keep away \ueecaom your bedroom. \u201cIt doesn\u2019t matter: you still have to go to bed.\u201d \u201cBut why?\u201d \u201cBecause I\u2019m the mom and I said so.\u201d I\u2019m actually going to say that, aren\u2019t I? God, somebody please shoot me. I\u2019ll pick you up and carry you under my arm to your bed, you wailing piteously all the while, but my sole concern will be my own distress. All those vows made in childhood that I would give reasonable answers when I became a parent, that I would treat my own child as an intelligent, thinking",
             "characters": [
-                "mom",
-                "Child"
+                "Child",
+                "Mother"
             ]
         },
         "6418e381-a0ca-41ab-adbb-9d78aac94a87": {
@@ -2406,7 +2245,7 @@
             ],
             "text": "I would treat my own child as an intelligent, thinking individual, all for naught: I\u2019m going to turn into my mother. I can \ufb01ght it as much as I want, but there\u2019ll be no stopping my slide down that long, dreadful slope. Was it actually possible to know the future? Not simply to guess at it; was it pos- sible to know what was going to happen, with absolute certainty and in speci\ufb01c detail? Gary once told me that the fundamental laws of physics were time-symmetric, that there was no physical di\ufb00erence between past and future. Given that, some might",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "44842350-ff19-4c17-a12f-aff74ebfbdd4": {
@@ -2452,8 +2291,8 @@
             ],
             "text": "Book says she\u2019ll do, she can choose to do otherwise. How can these two facts be reconciled? They can\u2019t be, was the common answer. A volume like the Book of Ages is a logical impossibility, for the precise reason that its existence would result in the above contradiction. Or, to be generous, some might say that the Book of Ages could exist, as long as it wasn\u2019t accessible to readers: that volume is housed in a special collection, and no one has viewing privileges. The existence of \ueecaee will meant that we couldn\u2019t know the future. And we knew \ueecaee",
             "characters": [
-                "Book of Ages",
-                "\ueecaee"
+                "\ueecaee",
+                "Book of Ages"
             ]
         },
         "47549de4-c23f-4f74-8d1b-61da8d0b268f": {
@@ -2464,7 +2303,7 @@
             ],
             "text": "that we couldn\u2019t know the future. And we knew \ueecaee will existed because we had direct experience of it. Volition was an intrinsic part of consciousness. Or was it? What if the experience of knowing the future changed a person? What if it evoked a sense of urgency, a sense of obligation to act precisely as she knew she would? I stopped by Gary\u2019s o\ufb03ce before leaving for the day. \u201cI\u2019m calling it quits. Did you want to grab something to eat?\u201d \u201cSure, just wait a second,\u201d he said. He shut down his computer and gathered some papers together. Then",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "873fd072-0fba-4413-8c28-ff1c2dd86bcc": {
@@ -2488,7 +2327,7 @@
             ],
             "text": "when he abruptly turned in to a parking lot. It was a gourmet market, not large, but fancy; tall glass jars stu\ufb00ed with imported foods sat next to specialty utensils on the store\u2019s stainless-steel shelves. 30 I accompanied Gary as he collected \ueecaesh basil, tomatoes, garlic, linguini. \u201cThere\u2019s a \ufb01sh market next door; we can get \ueecaesh clams there,\u201d he said. \u201cSounds good.\u201d We walked past the section of kitchen utensils. My gaze wandered over the shelves\u2014peppermills, garlic presses, salad tongs\u2014and stopped on a wooden salad bowl. When you are three, you\u2019ll pull a dishtowel o\ufb00 the kitchen counter and",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "ff5dfca5-e6fc-49ce-8608-8beca9112b5d": {
@@ -2500,8 +2339,8 @@
             "text": "three, you\u2019ll pull a dishtowel o\ufb00 the kitchen counter and bring that salad bowl down on top of you. I\u2019ll make a grab for it, but I\u2019ll miss. The edge of the bowl will leave you with a cut, on the upper edge of your forehead, that will require a single stitch. Your father and I will hold you, sobbing and stained with Caesar Salad dressing, as we wait in the emergency room for hours. I reached out and took the bowl \ueecaom the shelf. The motion didn\u2019t feel like some- thing I was forced to do. Instead it seemed",
             "characters": [
                 "I",
-                "your father",
-                "you"
+                "you",
+                "your father"
             ]
         },
         "bdf9f12e-91e4-47e4-817b-113df77da051": {
@@ -2512,7 +2351,7 @@
             ],
             "text": "some- thing I was forced to do. Instead it seemed just as urgent as my rushing to catch the bowl when it falls on you: an instinct that I felt right in following. \u201cI could use a salad bowl like this.\u201d Gary looked at the bowl and nodded approvingly. \u201cSee, wasn\u2019t it a good thing that I had to stop at the market?\u201d \u201cYes it was.\u201d We got in line to pay for our purchases. Consider the sentence \u201cThe rabbit is ready to eat.\u201d Interpret \u201crabbit\u201d to be the object of \u201ceat,\u201d and the sentence was an announcement that dinner",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "66c9b93f-77d5-4dd6-9b0b-a3f73d75a7c5": {
@@ -2523,9 +2362,9 @@
             ],
             "text": "of \u201ceat,\u201d and the sentence was an announcement that dinner would be served shortly. Interpret \u201crabbit\u201d to be the subject of \u201ceat,\u201d and it was a hint, such as a young girl might give her mother so she\u2019ll open a bag of Purina Bunny Chow. Two very di\ufb00erent utterances; in fact, they were probably mutually exclusive within a single household. Yet either was a valid interpretation; only context could determine what the sentence meant. Consider the phenomenon of light hitting water at one angle, and traveling through it at a di\ufb00erent angle. Explain it by saying that a di\ufb00erence in",
             "characters": [
-                "Young girl",
                 "Mother",
-                "Rabbit"
+                "Rabbit",
+                "Young girl"
             ]
         },
         "843087f4-ea5f-4d26-b557-e4030e288ec6": {
@@ -2537,7 +2376,7 @@
             "text": "di\ufb00erent angle. Explain it by saying that a di\ufb00erence in the index of re\ueecaaction caused the light to change direction, and one saw the world as humans saw it. Explain it by saying that light minimized the time needed to travel to its destination, and one saw the world as the heptapods saw it. Two very di\ufb00erent interpretations. The physical universe was a language with a perfectly ambiguous grammar. Every physical event was an utterance that could be parsed in two entirely di\ufb00erent ways, one casual and the other teleological, both valid, neither one disquali\ufb01able no matter how much context",
             "characters": [
                 "Humans",
-                "Heptapods"
+                "Heptapod B"
             ]
         },
         "253b0a8a-ef89-427b-974d-13ef422f34d5": {
@@ -2550,7 +2389,7 @@
             "text": "both valid, neither one disquali\ufb01able no matter how much context was available. When the ancestors of humans and heptapods \ufb01rst acquired the spark of conscious- ness, they both perceived the same physical world, but they parsed their perceptions di\ufb00erently; the world-views that ultimately across were the end result of that diver- 31 gence. Humans had developed a sequential mode of awareness, while heptapods had developed a simultaneous mode of awareness. We experienced events in an order, and perceived their relationship as cause and e\ufb00ect. They experienced all events at once, and perceived a purpose underlying them all. A minimizing, maximizing",
             "characters": [
                 "Humans",
-                "Heptapods"
+                "Heptapod B"
             ]
         },
         "5f42627b-6d8c-48f7-80cb-6d05fc3d519f": {
@@ -2585,7 +2424,7 @@
             ],
             "text": "distance below me. Then, all of a sudden, I\u2019m at the morgue. An orderly li\ueecbs the sheet \ueecaom your face, and I see that you\u2019re twenty-\ufb01ve. \u201cYou okay?\u201d I was sitting upright in bed; I\u2019d woken Gary with my movements. \u201cI\u2019m \ufb01ne. I was just startled; I didn\u2019t recognize where I was for a moment.\u201d Sleepily, he said, \u201cWe can stay at your place next time.\u201d I kissed him. \u201cDon\u2019t worry; your place is \ufb01ne.\u201d We curled up, my back against his chest, and went back to sleep. When you\u2019re three and we\u2019re climbing a steep, spiral \ufb02ight of stairs,",
             "characters": [
-                "Gary"
+                "Gary Donnelly"
             ]
         },
         "3d47c000-385a-46e1-a055-fc61167dbdb3": {
@@ -2629,10 +2468,9 @@
             ],
             "text": "page full of them all at once. And now that Heptapod B had introduced me to a simultaneous mode of con- sciousness, I understood the rationale behind Heptapod A\u2019s grammar: what my se- quential mind had perceived as unnecessarily convoluted, I now recognized as an at- tempt to provide \ufb02exibility within the con\ufb01nes of sequential speech. I could use Hep- tapod A more easily as a result, though it was still a poor substitute for Heptapod B. There was a knock at the door and then Gary poked his head in. \u201cColonel Weber\u2019ll be here any minute.\u201d I grimaced. \u201cRight.\u201d",
             "characters": [
+                "Gary Donnelly",
                 "Heptapod B",
-                "Colonel Weber",
-                "Gary",
-                "Heptapod A"
+                "Colonel Weber"
             ]
         },
         "c1224351-45de-47bd-af1a-33325bc3e763": {
@@ -2643,10 +2481,10 @@
             ],
             "text": "in. \u201cColonel Weber\u2019ll be here any minute.\u201d I grimaced. \u201cRight.\u201d Weber was coming to participate in a session with Flapper and Raspberry; I was to act as translator, a job I wasn\u2019t trained for and that I detested. Gary stepped inside and closed the door. He pulled me out of my chair and kissed me. I smiled. \u201cYou trying to cheer me up before he gets here?\u201d \u201cNo, I\u2019m trying to cheer me up.\u201d \u201cYou weren\u2019t interested in talking to the heptapods at all, were you? You worked on this project just to get me into bed.\u201d \u201cAh, you see",
             "characters": [
-                "Gary",
+                "Gary Donnelly",
                 "Colonel Weber",
-                "Raspberry",
-                "Flapper"
+                "Flapper",
+                "Raspberry"
             ]
         },
         "f85e8521-677d-4bf8-a14d-00e493b2adea": {
@@ -2693,7 +2531,7 @@
             ],
             "text": "tense. In many ways, it\u2019s an enviable state. The heptapods are neither \ueecaee nor bound as we understand those concepts; they don\u2019t act according to their will, nor are they helpless automatons. What distinguishes the heptapods\u2019 mode of awareness is not just that their actions coincide with history\u2019s events; it is also that their motives coincide with history\u2019s purposes. They act to create the future, to enact chronology. Freedom isn\u2019t an illusion; it\u2019s perfectly real in the context of sequential conscious- ness. Within the context of simultaneous consciousness, \ueecaeedom is not meaningful, but neither is coercion; it\u2019s simply a di\ufb00erent",
             "characters": [
-                "Heptapods"
+                "Heptapod B"
             ]
         },
         "b8bc0652-14f4-4ae9-a2ff-6e0fbc4d0214": {
@@ -2724,7 +2562,7 @@
             ],
             "text": "to lay some ground- work for the concept of altruism. I knew the heptapods were familiar with the con- versation\u2019s eventual outcome, but they still participated enthusiastically. If I could have described this to someone who didn\u2019t already know, she might ask, if the heptapods already knew everything that they would ever say or hear, what was the point of their using language at all? A reasonable question. But language wasn\u2019t only for communication: it was also a form of action. According to speech act theory, statements like \u201cYou\u2019re under arrest,\u201d \u201cI christen this vessel,\u201d or \u201cI promise\u201d were all",
             "characters": [
-                "Heptapods"
+                "Heptapod B"
             ]
         },
         "e05bbdc7-cc13-499b-9df0-1dc1a8ae0b85": {
@@ -2736,7 +2574,7 @@
             ],
             "text": "arrest,\u201d \u201cI christen this vessel,\u201d or \u201cI promise\u201d were all performative: a speaker could perform the action only by uttering the words. For such acts, knowing what would be said didn\u2019t change anything. Everyone at a 34 wedding anticipated the words \u201cI now pronounce you husband and wife,\u201d but until the minister actually said them, the ceremony didn\u2019t count. With performative language, saying equaled doing. For the heptapods, all language was performative. Instead of using language to inform, they used language to actualize. Sure, heptapods already knew what would be said in any conversation; but in order for their knowledge",
             "characters": [
-                "Heptapods"
+                "Heptapod B"
             ]
         },
         "72c83da1-889e-4d0b-a6c1-fc57d3d3a4ed": {
@@ -2747,8 +2585,8 @@
             ],
             "text": "said in any conversation; but in order for their knowledge to be true, the conversation would have to take place. \u201cFirst Goldilocks tried the papa bear\u2019s bowl of porridge, but it was full of brussels sprouts, which she hated.\u201d You\u2019ll laugh. \u201cNo, that\u2019s wrong!\u201d We\u2019ll be sitting side by side on the sofa, the skinny, overpriced hardcover spread open on our laps. I\u2019ll keep reading. \u201cThen Goldilocks tried the mama bear\u2019s bowl of porridge, but it was full of spinach, which she also hated.\u201d You\u2019ll put your hand on the page of the book to stop me. \u201cYou have to",
             "characters": [
-                "Mama Bear",
                 "Goldilocks",
+                "Mama Bear",
                 "Papa Bear"
             ]
         },
@@ -2760,8 +2598,8 @@
             ],
             "text": "page of the book to stop me. \u201cYou have to read it the right way!\u201d \u201cI\u2019m reading just what it says here,\u201d I\u2019ll say, all innocence. \u201cNo you\u2019re not. That\u2019s not how the story goes.\u201d \u201cWell if you already know how the story goes, why do you need me to read it to you?\u201d \u201cCause I wanna hear it!\u201d The air conditioning in Weber\u2019s o\ufb03ce almost compensated for having to talk to the man. \u201cThey\u2019re willing to engage in a type of exchange,\u201d I explained, \u201cbut it\u2019s not trade. We simply give them something, and they give us something in",
             "characters": [
-                "I",
-                "Weber"
+                "Colonel Weber",
+                "I"
             ]
         },
         "5db67c3e-957f-4527-b3b4-97d665f046de": {
@@ -2795,9 +2633,9 @@
             ],
             "text": "exactly. \u201cNo way of knowing,\u201d I said. \u201cI doubt it, given that it\u2019s not a custom they engage in.\u201d \u201cIf we give our gi\ueecb \ufb01rst, will the value of our gi\ueecb in\ufb02uence the value of theirs?\u201d He was improvising, while I had carefully rehearsed for this one and only show. \u201cNo,\u201d I said. \u201cAs far as we can tell, the value of the exchanged items is irrelevant.\u201d \u201cIf only my relatives felt that way,\u201d murmured Gary wryly. I watched Colonel Weber turn to Gary. \u201cHave you discovered anything new in the physics discussions?\u201d he asked right on cue. \u201cIf you",
             "characters": [
+                "Gary Donnelly",
                 "I",
-                "Colonel Weber",
-                "Gary"
+                "Colonel Weber"
             ]
         },
         "02552d92-ebce-44f5-a90a-af9b823cc471": {
@@ -2808,8 +2646,8 @@
             ],
             "text": "the physics discussions?\u201d he asked right on cue. \u201cIf you mean, any information new to mankind, no,\u201d said Gary. \u201cThe heptapods haven\u2019t varied \ueecaom the routine. If we demonstrate something to them, they\u2019ll show us their formulation of it, but they won\u2019t volunteer anything and they won\u2019t answer our questions about what they know.\u201d An utterance that was spontaneous and communicative in the context of human discourse became a ritual recitation when viewed by the light of Heptapod B. Weber scowled. \u201cAll right then, we\u2019ll see how the State Department feels about this. Maybe we can arrange some kind of",
             "characters": [
-                "Weber",
-                "Gary"
+                "Gary Donnelly",
+                "Colonel Weber"
             ]
         },
         "10bbb36e-8b05-4d6f-86ce-10121021f634": {
@@ -2820,7 +2658,7 @@
             ],
             "text": "feels about this. Maybe we can arrange some kind of gi\ueecb-giving ceremony.\u201d Like physical events, with their causal and teleological interpretations, every lin- guistic event had two possible interpretations: as a transmission of information and as the realization of a plan. \u201cI think that\u2019s a good idea, Colonel,\u201d I said. It was an ambiguity invisible to most. A private joke; don\u2019t ask me to explain it. Even though I\u2019m pro\ufb01cient with Heptapod B, I know I don\u2019t experience reality the way a heptapod does. My mind was cast in the mold of human, sequential languages, and no amount of immersion",
             "characters": [
-                "Colonel"
+                "Colonel Weber"
             ]
         },
         "132e77c1-1cd8-455a-85f2-815f15255d2e": {
@@ -2841,8 +2679,8 @@
             ],
             "text": "contiguously, they soon composed a period of \ufb01ve decades. It is the period during which I know Heptapod B well enough to think in it, starting during my interviews with Flapper and Raspberry and ending with my death. Usually, Heptapod B a\ufb00ects just my memory: my consciousness crawls along as it did before, a glowing sliver crawling forward in time, the di\ufb00erence being that the ash 36 of memory lies ahead as well as behind: there is no real combustion. But occasionally I have glimpses when Heptapod B truly reigns, and I experience past and future all at once; my",
             "characters": [
-                "Raspberry",
-                "Flapper"
+                "Flapper",
+                "Raspberry"
             ]
         },
         "e6702676-333b-4305-a5cc-a6b06263af5d": {
@@ -2865,12 +2703,12 @@
             "text": "did the same. This was the second \u201cgi\ueecb exchange\u201d I had been present for, the eighth one overall, and I knew it would be the last. The looking glass tent was crowded with people; Burghart \ueecaom Fort Worth was here, as were Gary and a nuclear physicist, assorted biologists, anthropologists, military brass, and diplomats. Thankfully they had set up an air conditioner to cool the place o\ufb00. We would review the tapes of the images later to \ufb01gure out just what the heptapods\u2019 \u201cgi\ueecb\u201d was. Our own \u201cgi\ueecb\u201d was a presentation on the Lascaux cave paintings. We all crowded around",
             "characters": [
                 "Military brass",
-                "Nuclear physicist",
-                "Diplomats",
                 "Biologists",
-                "Gary",
+                "Nuclear physicist",
+                "Gary Donnelly",
+                "Burghart",
                 "Anthropologists",
-                "Burghart"
+                "Diplomats"
             ]
         },
         "97fed275-141b-48ed-9745-7f5f76bed069": {
@@ -2893,8 +2731,8 @@
             ],
             "text": "exclude the possibility that the heptapods might yet o\ufb00er us a space drive, or cold fusion, or some other wish-ful\ufb01lling miracle. \u201cThat looks like inorganic chemistry,\u201d said the nuclear physicist, pointing at an equation before the image was replaced. Gary nodded. \u201cIt could be materials technology,\u201d he said. \u201cMaybe we\u2019re \ufb01nally getting somewhere,\u201d said Colonel Weber. \u201cI wanna see more animal pictures,\u201d I whispered, quietly so that only Gary could hear me, and pouted like a child. He smiled and poked me. Truthfully, I wished the heptapods had given another xenobiology lecture, as they had on two previous exchanges; judging",
             "characters": [
-                "Colonel Weber",
-                "Gary"
+                "Gary Donnelly",
+                "Colonel Weber"
             ]
         },
         "d02f1ed8-4894-4f0c-83dc-3f9d54cb81af": {
@@ -2907,7 +2745,7 @@
             "text": "xenobiology lecture, as they had on two previous exchanges; judging \ueecaom those, humans were more similar to the heptapods than any other species they\u2019d ever encountered. Or another lecture on heptapod history; those had been \ufb01lled with apparent non-sequiturs, but were interesting nonetheless. I didn\u2019t want the heptapods to give us new technology, because I didn\u2019t want to see what our governments might do with it. 37 I watched Raspberry while the information was being exchanged, looking for any anomalous behavior. It stood barely moving as usual; I saw no indications of what would happen shortly. A\ueecber a minute, the",
             "characters": [
                 "Humans",
-                "Heptapods",
+                "Heptapod B",
                 "Raspberry"
             ]
         },
@@ -2919,9 +2757,9 @@
             ],
             "text": "indications of what would happen shortly. A\ueecber a minute, the heptapod\u2019s screen went blank, and a minute a\ueecber that, ours did too. Gary and most of the other scientists clustered around a tiny video screen that was replaying the heptapods\u2019 presentation. I could hear them talk about the need to call in a solid-state physicist. Colonel Weber turned. \u201cYou two,\u201d he said, pointing to me and then to Burghart, \u201cschedule the time and location for the next exchange.\u201d Then he followed the others to the playback screen. \u201cComing right up,\u201d I said. T o Burghart, I asked, \u201cWould you care",
             "characters": [
-                "Colonel Weber",
-                "Gary",
-                "Burghart"
+                "Gary Donnelly",
+                "Burghart",
+                "Colonel Weber"
             ]
         },
         "25e141f1-0a2d-4a1e-a2b9-d4ca3e43130b": {
@@ -2944,8 +2782,8 @@
             "text": "of spies who meet in public, but never break cover. I wrote out the semagrams for \u201clocus exchange-transaction converse inclusive-we\u201d with the projective aspect modulation. Raspberry wrote its reply. That was my cue to \ueecaown, and for Burghart to ask, \u201cWhat does it mean by that?\u201d His delivery was perfect. I wrote a request for clari\ufb01cation; Raspberry\u2019s reply was the same as before. Then I watched it glide out of the room. The curtain was about to fall on this act of our performance. Colonel Weber stepped forward. \u201cWhat\u2019s going on? Where did it go?\u201d \u201cIt said that the heptapods",
             "characters": [
                 "Colonel Weber",
-                "Raspberry",
-                "Burghart"
+                "Burghart",
+                "Raspberry"
             ]
         },
         "745647a9-2455-4d5b-9eee-b5f479d2af28": {
@@ -2969,8 +2807,8 @@
             ],
             "text": "fell silent. \u201cWhat the hell is going on here?\u201d said Colonel Weber. Gary walked up to the looking glass, and then around it to the other side. He touched the rear surface with one hand; I could see the pale ovals where his \ufb01ngertips made contact with the looking glass. \u201cI think,\u201d he said, \u201cwe just saw a demonstration of transmutation at a distance.\u201d 38 I heard the sounds of heavy footfalls on dry grass. A soldier came in through the tent door, short of breath \ueecaom sprinting, holding an oversize walkie-talkie. \u201cColonel, message \ueecaom\u2014\u201d Weber grabbed the walkie-talkie \ueecaom",
             "characters": [
-                "Colonel Weber",
-                "Gary"
+                "Gary Donnelly",
+                "Colonel Weber"
             ]
         },
         "1384936b-9bd7-4706-9dc1-05b6bdfbf76d": {
@@ -2981,9 +2819,8 @@
             ],
             "text": "oversize walkie-talkie. \u201cColonel, message \ueecaom\u2014\u201d Weber grabbed the walkie-talkie \ueecaom him. I remember what it\u2019ll be like watching you when you are a day old. Your father will have gone for a quick visit to the hospital cafeteria, and you\u2019ll be lying in your bassinet, and I\u2019ll be leaning over you. So soon a\ueecber the delivery, I will still be feeling like a wrung-out towel. You will seem incongruously tiny, given how enormous I felt during the pregnancy; I could swear there was room for someone much larger and more robust than you in there. Your hands and feet will",
             "characters": [
-                "Weber",
-                "Your father",
-                "Colonel"
+                "Colonel Weber",
+                "your father"
             ]
         },
         "0d71ac8e-93d7-46bb-a8d1-cd36f25502e7": {
@@ -3015,7 +2852,7 @@
             ],
             "text": "transparent and their ships le\ueecb orbit. Subsequent analysis of the looking glasses revealed them to be nothing more than sheets of fused silica, completely inert. The information \ueecaom the \ufb01nal exchange ses- sion described a new class of superconducting materials, but it later proved to duplicate the results of research just completed in Japan: nothing that humans didn\u2019t already know. We never did learn why the heptapods le\ueecb, any more than we learned what brought them here, or why they acted the way they did. My own new awareness didn\u2019t provide that type of knowledge; the heptapods\u2019 behavior was presumably",
             "characters": [
-                "Heptapods"
+                "Heptapod B"
             ]
         },
         "93719b86-252c-4939-bf0d-2fb900d28694": {
@@ -3027,7 +2864,7 @@
             ],
             "text": "provide that type of knowledge; the heptapods\u2019 behavior was presumably explicable \ueecaom a sequential point of view, but we never found that explanation. I would have liked to experience more of the heptapods\u2019 world-view, to feel the way they feel. Then, perhaps I could immerse myself fully in the necessity of events, as they must, instead of merely wading in its surf for the rest of my life. But that will never come to pass. I will continue to practice the heptapod languages, as will 39 the other linguists on the looking glass teams, but none of us will ever",
             "characters": [
-                "Heptapods"
+                "Heptapod B"
             ]
         },
         "f4ee8368-7715-43b7-8142-532482ce3799": {
@@ -3038,9 +2875,9 @@
             ],
             "text": "the looking glass teams, but none of us will ever progress any further than we did when the heptapods were here. Working with the heptapods changed my life. I met your father and learned Hep- tapod B, both of which make it possible for me to know you now, here on the patio in the moonlight. Eventually, many years \ueecaom now, I\u2019ll be without your father, and without you. All I will have le\ueecb \ueecaom this moment is the heptapod language. So I pay close attention, and note every detail. From the beginning I knew my destination, and I chose",
             "characters": [
-                "your father",
-                "Heptapods",
-                "you"
+                "Heptapod B",
+                "you",
+                "your father"
             ]
         },
         "943411ca-c638-430f-a658-2eff0c996ba7": {
@@ -3052,8 +2889,8 @@
             "text": "From the beginning I knew my destination, and I chose my route accordingly. But am I working toward an extreme of joy, or of pain? Will I achieve a minimum, or a maximum? These questions are in my mind when your father asks me, \u201cDo you want to make a baby?\u201d And I smile and answer, \u201cYes,\u201d and I unwrap his arms \ueecaom around me, and we hold hands as we walk inside to make love, to make you.",
             "characters": [
                 "I",
-                "your father",
-                "you"
+                "you",
+                "your father"
             ]
         }
     }
