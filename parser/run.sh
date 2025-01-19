@@ -1,0 +1,1 @@
+python chunker.py && python extract_characters.py && python merge_characters_chunks.py && python extract_events.py && python merge_events_chunks.py && python results_generator.py && python results_refiner.py && python character_summary.py
