@@ -1,10 +1,15 @@
 from flask import Flask, jsonify, request
+from flask_cors import CORS, cross_origin
 import os
 from dotenv import load_dotenv
+import json
+from chatbot import chatbot
 
 load_dotenv()
 
 app = Flask(__name__)
+CORS(app, support_credentials=True)
+@cross_origin(supports_credentials=True)
 
 @app.route('/api/gettext', methods=['GET'])
 def gettext():
@@ -51,12 +56,29 @@ def upload_file():
     if file.filename == '':
         return jsonify({'error': 'No selected file'}), 400
     file.save(root_dir + "/temp/input.pdf")
-    os.system('cd ' + root_dir + ' && ./parser/run-pdf.sh')
-    f = open(root_dir + "/temp/characters.json")
-    first = f.read()
+    # os.system('cd ' + root_dir + ' && ./parser/run-pdf.sh')
+    f = open(root_dir + "/out/output.json")
+    first = json.load(f)
 
-    return first
-    return jsonify({'message': 'File uploaded successfully'}), 200
+    res = []
+    chars = first["characters"]
+    for char in chars:
+        res.append(chars[char]["name"])
+    # print(res)
+
+    return {"characters": res}
+    # return jsonify({'message': 'File uploaded successfully'}), 200
+
+@app.route('/api/chat', methods=['POST'])
+def chat():
+    data = request.get_json()
+    if not data:
+        return jsonify({"error": "Invalid request data", "status": "error"}), 400
+    prompt = data['prompt']
+    res = chatbot(prompt, data["character"], int(data["page"]), "Romeo and Juliet")
+    print(res)
+    return jsonify(res)
+    # return jsonify({'message': 'File uploaded successfully'}), 200
 
 @app.errorhandler(404)
 def not_found(e):

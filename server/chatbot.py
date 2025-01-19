@@ -14,7 +14,7 @@ client = OpenAI(
 )
 
 # Load chunks data
-with open('./results.json', 'r') as infile:
+with open('../out/output.json', 'r') as infile:
     result = json.load(infile)
 
 # Function to process each chunk
@@ -143,9 +143,9 @@ def chatbot(question, char, page, story=""):
     return process_question(question, char, page, story)
 
 # For Testing Purposes Only
-while True:
-    question = input("Enter question: ")
-    print(chatbot(question, "Louise Banks", 10, "Story of Your Life"))
+# while True:
+#     question = input("Enter question: ")
+#     print(chatbot(question, "Louise Banks", 10, "Story of Your Life"))
 # # Function to get important characters
 # def get_important_personality(qa, char):
 #     query = f"What are the most important personality traits of {char} with the given information? Please put your response in list format [\"trait1", "trait2\", ...]."
