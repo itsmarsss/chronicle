@@ -150,7 +150,7 @@ def chat():
     if not data:
         return jsonify({"error": "Invalid request data", "status": "error"}), 400
     prompt = data['prompt']
-    res = chatbot(prompt, data["character"], int(data["page"]), "Romeo and Juliet")
+    res = chatbot(prompt, data["character"], int(data["page"]), data["story"])
     print(res)
     return jsonify(res)
     # return jsonify({'message': 'File uploaded successfully'}), 200
