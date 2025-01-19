@@ -55,20 +55,94 @@ def upload_file():
     file = request.files['file']
     if file.filename == '':
         return jsonify({'error': 'No selected file'}), 400
-    file.save(root_dir + "/temp/input.pdf")
-    os.system('cd ' + root_dir + ' && ./parser/run-pdf.sh')
     
-    f = open(root_dir + "/out/output.json")
-    first = json.load(f)
+    filename = "/out/" + file.filename.replace(".pdf", ".json")
 
-    res = []
+    file.save(root_dir + "/temp/input.pdf")
+
+    output =  "~" + str(os.system('cd ' + root_dir + '/parser && ./run-pdf.sh'))
+
+    print(f"Command executed with return code: {output}")   
+    
+    os.rename(root_dir + "/out/output.json", root_dir + filename) 
+    
+    f = open(root_dir + filename)
+    first = json.load(f)
+    
+    char_res = []
     chars = first["characters"]
     for char in chars:
-        res.append(chars[char]["name"])
+        char_res.append({
+            "name": chars[char]["name"],
+            "summary": chars[char]["summary"]
+        })
+    
+    cont_res = []
+    conts = first["contexts"]
+    for cont in conts:
+        cont_res.append({
+            "chunk_num": conts[cont]["chunk_num"],
+            "important": conts[cont]["important"]
+        })
     # print(res)
 
-    return {"characters": res}
+    return {"characters": char_res, "contexts": cont_res }
     # return jsonify({'message': 'File uploaded successfully'}), 200
+
+@app.route('/api/stories', methods=['GET'])
+def get_stories():
+    root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    out_dir = os.path.join(root_dir, "out")
+    files = os.listdir(out_dir)
+    story_names = [os.path.splitext(f)[0] for f in files if f.endswith('.json')]
+    return jsonify({"stories": story_names})
+
+@app.route('/api/getstory', methods=['GET'])
+def get_story():
+    try:
+        index = request.args.get('index')
+        if not index:
+            return jsonify({"error": "Index parameter is required", "status": "error"}), 400
+            
+        root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        out_dir = os.path.join(root_dir, "out")
+        files = [f for f in os.listdir(out_dir) if f.endswith('.json')]
+        
+        try:
+            index = int(index)
+            if index < 0 or index >= len(files):
+                return jsonify({"error": "Invalid index", "status": "error"}), 400
+                
+            filename = "/out/" + files[index]
+            f = open(root_dir + filename)
+            first = json.load(f)
+            
+            char_res = []
+            chars = first["characters"]
+            for char in chars:
+                char_res.append({
+                    "name": chars[char]["name"],
+                    "summary": chars[char]["summary"]
+                })
+            
+            cont_res = []
+            conts = first["contexts"]
+            for cont in conts:
+                cont_res.append({
+                    "chunk_num": conts[cont]["chunk_num"],
+                    "important": conts[cont]["important"]
+                })
+            # print(res)
+
+            return {"characters": char_res, "contexts": cont_res }
+            # return jsonify({'message': 'File uploaded successfully'}), 200
+            
+        except ValueError:
+            return jsonify({"error": "Index must be a number", "status": "error"}), 400
+            
+    except Exception as e:
+        return jsonify({"error": str(e), "status": "error"}), 500
+
 
 @app.route('/api/chat', methods=['POST'])
 def chat():
@@ -86,4 +160,4 @@ def not_found(e):
     return jsonify({"error": "Resource not found", "status": "error"}), 404
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5001)

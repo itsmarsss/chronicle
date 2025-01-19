@@ -7,7 +7,6 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Get project root directory
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-out_dir = os.path.join(PROJECT_ROOT, 'out')
 
 load_dotenv()
 
@@ -18,12 +17,15 @@ client = OpenAI(
 
 # Load filtered_results.json
 print("Loading filtered_results.json...")
-with open(os.path.join(out_dir, 'filtered_results.json'), 'r') as infile:
+
+temp_dir = os.path.join(PROJECT_ROOT, 'temp')
+os.makedirs(temp_dir, exist_ok=True)
+with open(os.path.join(temp_dir, 'filtered_results.json'), 'r') as infile:
     filtered_results = json.load(infile)
 print("filtered_results.json loaded successfully.")
 
 # Extract characters and contexts
-characters = filtered_results.get("characters", {})
+characters = {k:v for k,v in filtered_results.get("characters", {}).items() if v["name"].lower() != "narrator"}
 contexts = filtered_results.get("contexts", {})
 print(f"Found {len(characters)} characters and {len(contexts)} contexts.")
 
@@ -104,8 +106,11 @@ with ThreadPoolExecutor(max_workers=100) as executor:
         except Exception as err:
             print(f"An error occurred while processing character {character_id}: {err}")
 
+out_dir = os.path.join(PROJECT_ROOT, 'out')
+os.makedirs(temp_dir, exist_ok=True)
+
 # Save the updated characters data to a new JSON file
 with open(os.path.join(out_dir, 'output.json'), 'w') as outfile:
-    json.dump({"characters": characters}, outfile, indent=4)
+    json.dump({"characters": characters, "contexts": contexts}, outfile, indent=4)
 
 print("Character summaries saved to 'output.json'.")

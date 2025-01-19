@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Load the results data
-with open(os.path.join(PROJECT_ROOT, 'out', 'results.json'), 'r') as infile:
+with open(os.path.join(PROJECT_ROOT, 'temp', 'results.json'), 'r') as infile:
     results = json.load(infile)
 
 # Initialize the Sentence-BERT model for name vectorization
@@ -152,11 +152,11 @@ filtered_results = {
 }
 
 # Ensure out directory exists
-out_dir = os.path.join(PROJECT_ROOT, 'out')
-os.makedirs(out_dir, exist_ok=True)
+temp_dir = os.path.join(PROJECT_ROOT, 'temp')
+os.makedirs(temp_dir, exist_ok=True)
 
 # Save the filtered results to a new JSON file
-with open(os.path.join(out_dir, 'filtered_results.json'), 'w') as outfile:
+with open(os.path.join(temp_dir, 'filtered_results.json'), 'w') as outfile:
     json.dump(filtered_results, outfile, indent=4)
 
 print(f"Filtered results saved to 'filtered_results.json'.")
