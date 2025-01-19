@@ -1,5 +1,8 @@
 from flask import Flask, jsonify, request
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
 
@@ -29,15 +32,31 @@ def gettext():
             }
         }
 
-        os.system('cd ' + root_dir + ' && python parser/txt_to_transcript.py temp/text.txt &&' +
-                    'python parser/chunker.py && python parser/export_characters.py')
+        os.system("cd " + root_dir + " && ./parser/run-txt.sh")
 
         f = open(root_dir + "/temp/characters.json")
+        first = f.read()
 
-        return f.read()
+        return first
         return jsonify(data), 200
     except Exception as e:
         return jsonify({"error": str(e), "status": "error"}), 500
+
+@app.route('/api/upload', methods=['POST'])
+def upload_file():
+    root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    if 'file' not in request.files:
+        return jsonify({'error': 'No file part'}), 400
+    file = request.files['file']
+    if file.filename == '':
+        return jsonify({'error': 'No selected file'}), 400
+    file.save(root_dir + "/temp/input.pdf")
+    os.system('cd ' + root_dir + ' && ./parser/run-pdf.sh')
+    f = open(root_dir + "/temp/characters.json")
+    first = f.read()
+
+    return first
+    return jsonify({'message': 'File uploaded successfully'}), 200
 
 @app.errorhandler(404)
 def not_found(e):
