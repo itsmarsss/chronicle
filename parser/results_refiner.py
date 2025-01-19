@@ -2,7 +2,6 @@ import json
 import os
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
 
 # Get project root directory
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -140,7 +139,8 @@ for context_id, context_data in results["contexts"].items():
         "chunk_num": context_data["chunk_num"],
         "page_nums": context_data["page_nums"],
         "text": context_data["text"],
-        "characters": filtered_characters_list
+        "characters": filtered_characters_list,
+        "important": context_data["important"]
     }
 
 print("Updated contexts to reflect filtered characters.")
