@@ -57,7 +57,7 @@ def prompt_ai(prompt):
     return None  # Return None if all attempts fail
 
 
-def process_question(question, char, page, story=""):
+def process_question(question, char, page, story="", result={}):
 
     sentim_contexts = []
     all_context = []
@@ -138,9 +138,9 @@ def chatbot(question, char, page, story=""):
     # cumulative_characters = []
 
     # Load chunks data
-    with open('../out/output.json', 'r') as infile:
+    with open(f'../out/{story}.json', 'r') as infile:
         result = json.load(infile)
-    return process_question(question, char, page, story)
+    return process_question(question, char, page, story, result)
 
 # For Testing Purposes Only
 # while True:
